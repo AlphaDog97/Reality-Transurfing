@@ -2,30 +2,30 @@
 
 ---
 
-- [[01-Reality Transurfing steps 1-5]]
-- [[02-Info]]
-- [[03-Contents]]
-- [[04-FOREWORD]]
-- [[05-Chapter I. THE ALTERNATIVES MODEL]]
-- [[06-Chapter II. PENDULUMS]]
-- [[07-Chapter III. THE WAVE OF FORTUNE]]
-- [[08-Chapter IV. BALANCE]]
-- [[09-Chapter V. THE INDUCED TRANSITION]]
-- [[10-Chapter VI. ТHE ALTERNATIVES FLOW]]
-- [[11-Chapter VII. INTENTION]]
-- [[12-Chapter VIII. SLIDES]]
-- [[13-Chapter IX. THE HEART AND MIND]]
-- [[14-Chapter X. GOALS AND DOORS]]
-- [[15-Chapter XI. ENERGY]]
-- [[16-Chapter XII. FRAILING]]
-- [[17-Chapter XIII. COORDINATION]]
-- [[18-Chapter XIV. FORWARD TO THE PAST]]
-- [[19-Chapter XV. LETTERS FROM THE PAST]]
-- [[20-Chapter XVI. DANCES WITH SHADOWS]]
-- [[21-Chapter XVII. THE DREAMS OF THE GODS]]
-- [[22-Chapter XVIII. THE MIRROR WORLD]]
-- [[23-Chapter XIX. THE GATEKEEPER TO ETERNITY]]
-- [[24-Afterword. A STRANGE REALITY]]
-- [[25-GLOSSARY]]
+- [01-Reality Transurfing steps 1-4](01-Reality Transurfing steps 1-4.md)
+- [02-Info](02-Info.md)
+- [03-Contents](03-Contents.md)
+- [04-FOREWORD](04-FOREWORD.md)
+- [05-Chapter I. THE ALTERNATIVES MODEL](05-Chapter-I-THE-ALTERNATIVES-MODEL.md)
+- [06-Chapter II. PENDULUMS](06-Chapter-II-PENDULUMS.md)
+- [07-Chapter III. THE WAVE OF FORTUNE](07-Chapter-III-THE-WAVE-OF-FORTUNE.md)
+- [08-Chapter IV. BALANCE](08-Chapter-IV-BALANCE.md)
+- [09-Chapter V. THE INDUCED TRANSITION](09-Chapter-V-THE-INDUCED-TRANSITION.md)
+- [10-Chapter VI. ТHE ALTERNATIVES FLOW](10-Chapter-VI-THE-ALTERNATIVES-FLOW.md)
+- [11-Chapter VII. INTENTION](11-Chapter-VII-INTENTION.md)
+- [12-Chapter VIII. SLIDES](12-Chapter-VIII-SLIDES.md)
+- [13-Chapter IX. THE HEART AND MIND](13-Chapter-IX-THE-HEART-AND-MIND.md)
+- [14-Chapter X. GOALS AND DOORS](14-Chapter-X-GOALS-AND-DOORS.md)
+- [15-Chapter XI. ENERGY](15-Chapter-XI-ENERGY.md)
+- [16-Chapter XII. FRAILING](16-Chapter-XII-FRAILING.md)
+- [17-Chapter XIII. COORDINATION](17-Chapter-XIII-COORDINATION.md)
+- [18-Chapter XIV. FORWARD TO THE PAST](18-Chapter-XIV-FORWARD-TO-THE-PAST.md)
+- [19-Chapter XV. LETTERS FROM THE PAST](19-Chapter-XV-LETTERS-FROM-THE-PAST.md)
+- [20-Chapter XVI. DANCES WITH SHADOWS](20-Chapter-XVI-DANCES-WITH-SHADOWS.md)
+- [21-Chapter XVII. THE DREAMS OF THE GODS](21-Chapter-XVII-THE-DREAMS-OF-THE-GODS.md)
+- [22-Chapter XVIII. THE MIRROR WORLD](22-Chapter-XVIII-THE-MIRROR-WORLD.md)
+- [23-Chapter XIX. THE GATEKEEPER TO ETERNITY](23-Chapter-XIX-THE-GATEKEEPER-TO-ETERNITY.md)
+- [24-Afterword. A STRANGE REALITY](24-Afterword-A-STRANGE-REALITY.md)
+- [25-GLOSSARY](25-GLOSSARY.md)
 
 ---
