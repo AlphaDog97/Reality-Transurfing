@@ -2,7 +2,7 @@
 
 ---
 
-![](images/00001.jpeg alt=) 
+![](cover.jpeg)
 
 ---
 
@@ -63,10 +63,6 @@ We all make mistakes in life and then think how wonderful it would be if we coul
 # Chapter I. THE ALTERNATIVES MODEL
 
 ---
-
-![](images/00002.jpeg alt=)
-
-![74079.jpg](../images/00003.jpeg)
 
 Dreams Don't Come True
 
@@ -285,10 +281,6 @@ You do not have to fight for happiness. You simply have to choose an alternative
 # Chapter II. PENDULUMS
 
 ---
-
-![](images/00004.jpeg alt=)
-
-![74126.jpg](../images/00005.jpeg)
 
 Rent Yourself Out
 
@@ -546,10 +538,6 @@ It is essential to acquire the habit of remembering what you know.
 
 ---
 
-![](images/00006.jpeg alt=)
-
-![74128.jpg](../images/00007.jpeg)
-
 Your thoughts return to you like a boomerang
 
 ## Antipode to the Pendulum
@@ -661,10 +649,6 @@ The habit of remembering is developed through consistent practice.
 # Chapter IV. BALANCE
 
 ---
-
-![](images/00008.jpeg alt=)
-
-![74130.jpg](../images/00009.jpeg)
 
 Taking care without worrying
 
@@ -1088,10 +1072,6 @@ Take care without worrying.
 
 ---
 
-![](images/00010.jpeg alt=)
-
-![74262.jpg](../images/00011.jpeg)
-
 Do Not Absorb Negative Information
 
 ## The Generation Shift
@@ -1261,10 +1241,6 @@ Do not allow negative information into your layer.
 # Chapter VI. ТHE ALTERNATIVES FLOW
 
 ---
-
-![](images/00012.jpeg alt=)
-
-![74132.jpg](../images/00013.jpeg)
 
 When you go with the flow the world meets you halfway
 
@@ -1575,10 +1551,6 @@ If you move harmoniously with the flow of alternatives the world will meet you h
 # Chapter VII. INTENTION
 
 ---
-
-![](images/00014.jpeg alt=)
-
-![74135.jpg](../images/00015.jpeg)
 
 Potential is only limited by intention
 
@@ -2000,10 +1972,6 @@ Once you have accepted the possibility of failure, do not think, just move in th
 
 ---
 
-![](images/00016.jpeg alt=)
-
-![74137.jpg](../images/00017.jpeg)
-
 You Deserve the Best
 
 ## Illusion
@@ -2255,10 +2223,6 @@ The slide will take you in the necessary direction.
 # Chapter IX. THE HEART AND MIND
 
 ---
-
-![](images/00018.jpeg alt=)
-
-![74139.jpg](../images/00019.jpeg)
 
 The soul comes into the world reaching out trustingly with a child's arms.
 
@@ -2754,10 +2718,6 @@ You calmly take what is yours without insistence, just like you take the post fr
 
 ---
 
-![](images/00020.jpeg alt=)
-
-![74141.jpg](../images/00021.jpeg)
-
 By breaking through stereotypes, You open doors.
 
 ## How to Choose Your Own Things
@@ -3244,10 +3204,6 @@ Do not allow yourself to be influenced by others. Trust yourself.
 
 ---
 
-![](images/00022.jpeg alt=)
-
-![74143.jpg](../images/00023.jpeg)
-
 You do not have to fight for your health or store up energy.
 
 Simply let it in.
@@ -3489,10 +3445,6 @@ Intention lies in focused concentration not gusto and diligence.
 # Chapter XII. FRAILING
 
 ---
-
-![](images/00024.jpeg alt=)
-
-![74145.jpg](../images/00025.jpeg)
 
 Abandon the intention of receiving; replace it with the intention of giving, and you will receive the very thing you gave up.
 
@@ -3835,10 +3787,6 @@ The excess potential of inner importance is dissipated through action.
 # Chapter XIII. COORDINATION
 
 ---
-
-![](images/00026.jpeg alt=)
-
-![74147.jpg](../images/00027.jpeg)
 
 I do not want or hope – I intend.
 
@@ -4250,10 +4198,6 @@ Then outer intention will have its way and apples will fall to the sky.
 
 ---
 
-![](images/00028.jpeg alt=)
-
-![74149.jpg](../images/00029.jpeg)
-
 The Past Lies Just Ahead.
 
 ## Transaction
@@ -4411,10 +4355,6 @@ You win your freedom by ending the battle.
 # Chapter XV. LETTERS FROM THE PAST
 
 ---
-
-![](images/00030.jpeg alt=)
-
-![74154.jpg](../images/00031.jpeg)
 
 "But you yourself must not distinguish your victory from your defeat"
 
@@ -4875,10 +4815,6 @@ If you do not control reality, reality will control you.
 # Chapter XVI. DANCES WITH SHADOWS
 
 ---
-
-![](images/00032.jpeg alt=)
-
-![74157.jpg](../images/00033.jpeg)
 
 My world and I are going for a walk.
 
@@ -5654,10 +5590,6 @@ In order to create your own game you have to give yourself permission to be your
 
 ---
 
-![](images/00034.jpeg alt=)
-
-![74159.jpg](../images/00035.jpeg)
-
 I take care of my world.
 
 ## The Two Sides to Reality
@@ -5961,10 +5893,6 @@ Do not ask, do not demand, do not struggle, just create.
 ---
 
 # Chapter XVIII. THE MIRROR WORLD
-
-![](images/00036.jpeg alt=)
-
-![74163.jpg](../images/00037.jpeg)
 
 My world takes care of me.
 
@@ -6451,10 +6379,6 @@ Do not suppress your emotions – change your relationship to the problem.
 # Chapter XIX. THE GATEKEEPER TO ETERNITY
 
 ---
-
-![](images/00038.jpeg alt=)
-
-![74165.jpg](../images/00039.jpeg)
 
 My world and I are off to buy a toy
 
