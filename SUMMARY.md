@@ -1,6 +1,6 @@
 # Table of contents
 
-* [01-Reality Transurfing Steps 1-4](README.md)
+* [01-Reality Transurfing Steps 1-5](README.md)
 * [02-Info](02-Info.md)
 * [Contents](03-Contents.md)
 * [04-FOREWORD](04-FOREWORD.md)
@@ -25,4 +25,4 @@
 * [Chapter XIX. THE GATEKEEPER TO ETERNITY](23-Chapter-XIX-THE-GATEKEEPER-TO-ETERNITY.md)
 * [Afterword. A STRANGE REALITY](24-Afterword-A-STRANGE-REALITY.md)
 * [GLOSSARY](25-GLOSSARY.md)
-* [Reality Transurfing Steps 1-4](Reality-Transurfing-Steps-1-4-Complete.md)
+* [Reality Transurfing Steps 1-5](Reality-Transurfing-Steps-1-4-Complete.md)

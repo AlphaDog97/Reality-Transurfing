@@ -1,12 +1,14 @@
-# Reality Transurfing Steps 1-4
+# Reality Transurfing Steps 1-5
 
----
+## Reality Transurfing Steps 1-5
+
+***
 
 ![](cover.jpeg)
 
----
+***
 
-# Info
+## Info
 
 Cover design by Anna Makarova
 
@@ -26,214 +28,214 @@ All rights reserved. No part of this book may be used or reproduced in any form 
 
 © OJSC Ves Publishing Group, 2012
 
----
+***
 
-# Contents
+## Contents
 
----
+***
 
-- [Reality Transurfing Steps 1-4](#reality-transurfing-steps-1-4)
-- [Info](#info)
-- [Contents](#contents)
-- [FOREWORD](#foreword)
-- [Chapter I. THE ALTERNATIVES MODEL](#chapter-i-the-alternatives-model)
-  - [The Rustle of the Morning Stars](#the-rustle-of-the-morning-stars)
-  - [The Guardian's Riddle](#the-guardians-riddle)
-  - [SUMMARY](#summary)
-- [Chapter II. PENDULUMS](#chapter-ii-pendulums)
-  - [Destructive Pendulums](#destructive-pendulums)
-  - [The Battle of the Pendulums](#the-battle-of-the-pendulums)
-  - [Puppet Strings](#puppet-strings)
-  - [You Get what You Do not want](#you-get-what-you-do-not-want)
-  - [Defeating the Pendulum](#defeating-the-pendulum)
-  - [Stopping a Pendulum](#stopping-a-pendulum)
-  - [Simple Solutions to Complex Problems](#simple-solutions-to-complex-problems)
-  - [The Suspended State](#the-suspended-state)
-  - [SUMMARY](#summary-1)
-- [Chapter III. THE WAVE OF FORTUNE](#chapter-iii-the-wave-of-fortune)
-  - [Antipode to the Pendulum](#antipode-to-the-pendulum)
-  - [The Boomerang](#the-boomerang)
-  - [Transmission](#transmission)
-  - [Magic Rituals](#magic-rituals)
-  - [SUMMARY](#summary-2)
-- [Chapter IV. BALANCE](#chapter-iv-balance)
-  - [Excess Potential](#excess-potential)
-  - [Resentment and Judgement](#resentment-and-judgement)
-  - [Dependent Relationships](#dependent-relationships)
-  - [Idealization and Overvaluation](#idealization-and-overvaluation)
-  - [Contempt and Vanity](#contempt-and-vanity)
-  - [Superiority and Inferiority](#superiority-and-inferiority)
-  - [Love to Have, Love to Hate](#love-to-have-love-to-hate)
-  - [Guilt](#guilt)
-  - [Money](#money)
-  - [Perfection](#perfection)
-  - [Importance](#importance)
-  - [From Battle to Balance](#from-battle-to-balance)
-  - [SUMMARY](#summary-3)
-- [Chapter V. THE INDUCED TRANSITION](#chapter-v-the-induced-transition)
-  - [The Generation Shift](#the-generation-shift)
-  - [The Pendulum Vortex](#the-pendulum-vortex)
-  - [Disaster](#disaster)
-  - [War](#war)
-  - [Unemployment](#unemployment)
-  - [Epidemic](#epidemic)
-  - [Panic](#panic)
-  - [Poverty](#poverty)
-  - [SUMMARY](#summary-4)
-- [Chapter VI. ТHE ALTERNATIVES FLOW](#chapter-vi-тhe-alternatives-flow)
-  - [The Information Field](#the-information-field)
-  - [Knowledge Out of Nowhere](#knowledge-out-of-nowhere)
-  - [The Needy, the Indignant and the Fighter](#the-needy-the-indignant-and-the-fighter)
-  - [Going With the Flow](#going-with-the-flow)
-  - [Guiding Signs](#guiding-signs)
-  - [Letting Go](#letting-go)
-  - [SUMMARY](#summary-5)
-- [Chapter VII. INTENTION](#chapter-vii-intention)
-  - [Lucid Dreaming](#lucid-dreaming)
-  - [The Dream Space](#the-dream-space)
-  - [The Magical Power of Intention](#the-magical-power-of-intention)
-  - [Outer Intention](#outer-intention)
-  - [The Game Script](#the-game-script)
-  - [The Game According to Your Rules](#the-game-according-to-your-rules)
-  - [The Purification of Intention](#the-purification-of-intention)
-  - [SUMMARY](#summary-6)
-- [Chapter VIII. SLIDES](#chapter-viii-slides)
-  - [Illusion](#illusion)
-  - [Distorting Reality](#distorting-reality)
-  - [Positive Slides](#positive-slides)
-  - [Widening Your Comfort Zone](#widening-your-comfort-zone)
-  - [Visualising the Goal](#visualising-the-goal)
-  - [Visualising the Process](#visualising-the-process)
-  - [Transfer Chains](#transfer-chains)
-  - [SUMMARY](#summary-7)
-- [Chapter IX. THE HEART AND MIND](#chapter-ix-the-heart-and-mind)
-  - [The Wind of Intention](#the-wind-of-intention)
-  - [The Heart's Sail](#the-hearts-sail)
-  - [The Wizard Within](#the-wizard-within)
-  - [The Mirage](#the-mirage)
-  - [Guardian Angels](#guardian-angels)
-  - [A Soul Box](#a-soul-box)
-  - [Fraile](#fraile)
-  - [Unity of Heart and Mind](#unity-of-heart-and-mind)
-  - [Sound Bite Slides](#sound-bite-slides)
-  - [A Window onto the Alternatives Space](#a-window-onto-the-alternatives-space)
-  - [The Frame](#the-frame)
-  - [SUMMARY](#summary-8)
-- [Chapter X. GOALS AND DOORS](#chapter-x-goals-and-doors)
-  - [How to Choose Your Own Things](#how-to-choose-your-own-things)
-  - [How to Become a Trendsetter](#how-to-become-a-trendsetter)
-  - [Other People's Goals](#other-peoples-goals)
-  - [Breaking Through Stereotypes](#breaking-through-stereotypes)
-  - [Your Goals](#your-goals)
-  - [Your Doors](#your-doors)
-  - [Intention](#intention)
-  - [Realization](#realization)
-  - [Inspiration](#inspiration)
-  - [Reviving the Goal](#reviving-the-goal)
-  - [SUMMARY](#summary-9)
-- [Chapter XI. ENERGY](#chapter-xi-energy)
-  - [Energy Levels](#energy-levels)
-  - [Stress and Relaxation](#stress-and-relaxation)
-  - [Energy Vampires](#energy-vampires)
-  - [The Protective Shield](#the-protective-shield)
-  - [Increasing Your Energy Levels](#increasing-your-energy-levels)
-  - [The Energy of Intention](#the-energy-of-intention)
-  - [The Step of Intention](#the-step-of-intention)
-  - [Illness Pendulums](#illness-pendulums)
-  - [SUMMARY](#summary-10)
-- [Chapter XII. FRAILING](#chapter-xii-frailing)
-  - [Intention in Relationships](#intention-in-relationships)
-  - [The Flow of Relationships](#the-flow-of-relationships)
-  - [Attuning to Fraile](#attuning-to-fraile)
-  - [Energy in Relationships](#energy-in-relationships)
-  - [Pardon](#pardon)
-  - [Job Hunting](#job-hunting)
-  - [SUMMARY](#summary-11)
-- [Chapter XIII. COORDINATION](#chapter-xiii-coordination)
-  - [The Insecurity Labyrinth](#the-insecurity-labyrinth)
-  - [Coordinating Importance](#coordinating-importance)
-  - [The Battle with the Clay Golem](#the-battle-with-the-clay-golem)
-  - [Ending the Battle](#ending-the-battle)
-  - [Release](#release)
-  - [Coordinating Intention](#coordinating-intention)
-  - [Apples Fall to the Sky](#apples-fall-to-the-sky)
-  - [SUMMARY](#summary-12)
-- [Chapter XIV. FORWARD TO THE PAST](#chapter-xiv-forward-to-the-past)
-  - [Transaction](#transaction)
-  - [Shades in the Scenery](#shades-in-the-scenery)
-  - [Gliding](#gliding)
-  - [SUMMARY](#summary-13)
-- [Chapter XV. LETTERS FROM THE PAST](#chapter-xv-letters-from-the-past)
-  - [A Run of Bad Luck](#a-run-of-bad-luck)
-  - [The Game of Partners](#the-game-of-partners)
-  - [Charity](#charity)
-  - [How to Win Back the One You Love](#how-to-win-back-the-one-you-love)
-  - [Intention](#intention-1)
-  - [Importance Potential](#importance-potential)
-  - [Reality Inversion](#reality-inversion)
-  - [SUMMARY](#summary-14)
-- [Chapter XVI. DANCES WITH SHADOWS](#chapter-xvi-dances-with-shadows)
-  - [The Origin of Intention](#the-origin-of-intention)
-  - [The Law of Bad Luck](#the-law-of-bad-luck)
-  - [Everything Happens to Spite You](#everything-happens-to-spite-you)
-  - [The Pendulum Rule](#the-pendulum-rule)
-  - [Stabilising the Structure](#stabilising-the-structure)
-  - [The Indigo Arrivals](#the-indigo-arrivals)
-  - [Energy Lords](#energy-lords)
-  - [Declaration of Intention](#declaration-of-intention)
-  - [SUMMARY](#summary-15)
-- [Chapter XVII. THE DREAMS OF THE GODS](#chapter-xvii-the-dreams-of-the-gods)
-  - [The Two Sides to Reality](#the-two-sides-to-reality)
-  - [The Waking Dream](#the-waking-dream)
-  - [The Children of God](#the-children-of-god)
-  - [The Dream Theatre](#the-dream-theatre)
-  - [SUMMARY](#summary-16)
-- [Chapter XVIII. THE MIRROR WORLD](#chapter-xviii-the-mirror-world)
-  - [The Dual Mirror](#the-dual-mirror)
-  - [The Reality Amalgam](#the-reality-amalgam)
-  - [Chasing Your Reflection](#chasing-your-reflection)
-  - [The World Comes To You](#the-world-comes-to-you)
-  - [The Maker's Intention](#the-makers-intention)
-  - [The League of Mirror Makers](#the-league-of-mirror-makers)
-  - [SUMMARY](#summary-17)
-- [Chapter XIX. THE GATEKEEPER TO ETERNITY](#chapter-xix-the-gatekeeper-to-eternity)
-  - [The Energy of Intention](#the-energy-of-intention-1)
-  - [Correcting the Mirror](#correcting-the-mirror)
-  - [The Reality Maker](#the-reality-maker)
-  - [Coordinating the Dream](#coordinating-the-dream)
-  - [The Maker's Verdict](#the-makers-verdict)
-  - [SUMMARY](#summary-18)
-- [Afterword. A STRANGE REALITY](#afterword-a-strange-reality)
-- [GLOSSARY](#glossary)
-  - [Importance](#importance-1)
-  - [Wave of Fortune](#wave-of-fortune)
-  - [Choice](#choice)
-  - [Unity of Heart and Mind](#unity-of-heart-and-mind-1)
-  - [Guardian's Riddle](#guardians-riddle)
-  - [Signs](#signs)
-  - [Excess Potential](#excess-potential-1)
-  - [Induced Shift](#induced-shift)
-  - [Coordination of Importance](#coordination-of-importance)
-  - [Coordination of Intention](#coordination-of-intention)
-  - [Life line](#life-line)
-  - [Material Realisation](#material-realisation)
-  - [Pendulum](#pendulum)
-  - [Intention](#intention-2)
-  - [Dependent Relationships](#dependent-relationships-1)
-  - [Polarisation](#polarisation)
-  - [Alternatives Space](#alternatives-space)
-  - [Balanced Forces](#balanced-forces)
-  - [Sector of the Alternatives Space](#sector-of-the-alternatives-space)
-  - [Slide](#slide)
-  - [World Layer](#world-layer)
-  - [Alternatives Flow](#alternatives-flow)
-  - [Transurfing](#transurfing)
-  - [Frailing](#frailing)
-  - [Goals and Doors](#goals-and-doors)
+* [Reality Transurfing Steps 1-4](Reality-Transurfing-Steps-1-4-Complete.md#reality-transurfing-steps-1-4)
+* [Info](Reality-Transurfing-Steps-1-4-Complete.md#info)
+* [Contents](Reality-Transurfing-Steps-1-4-Complete.md#contents)
+* [FOREWORD](Reality-Transurfing-Steps-1-4-Complete.md#foreword)
+* [Chapter I. THE ALTERNATIVES MODEL](Reality-Transurfing-Steps-1-4-Complete.md#chapter-i-the-alternatives-model)
+  * [The Rustle of the Morning Stars](Reality-Transurfing-Steps-1-4-Complete.md#the-rustle-of-the-morning-stars)
+  * [The Guardian's Riddle](Reality-Transurfing-Steps-1-4-Complete.md#the-guardians-riddle)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary)
+* [Chapter II. PENDULUMS](Reality-Transurfing-Steps-1-4-Complete.md#chapter-ii-pendulums)
+  * [Destructive Pendulums](Reality-Transurfing-Steps-1-4-Complete.md#destructive-pendulums)
+  * [The Battle of the Pendulums](Reality-Transurfing-Steps-1-4-Complete.md#the-battle-of-the-pendulums)
+  * [Puppet Strings](Reality-Transurfing-Steps-1-4-Complete.md#puppet-strings)
+  * [You Get what You Do not want](Reality-Transurfing-Steps-1-4-Complete.md#you-get-what-you-do-not-want)
+  * [Defeating the Pendulum](Reality-Transurfing-Steps-1-4-Complete.md#defeating-the-pendulum)
+  * [Stopping a Pendulum](Reality-Transurfing-Steps-1-4-Complete.md#stopping-a-pendulum)
+  * [Simple Solutions to Complex Problems](Reality-Transurfing-Steps-1-4-Complete.md#simple-solutions-to-complex-problems)
+  * [The Suspended State](Reality-Transurfing-Steps-1-4-Complete.md#the-suspended-state)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-1)
+* [Chapter III. THE WAVE OF FORTUNE](Reality-Transurfing-Steps-1-4-Complete.md#chapter-iii-the-wave-of-fortune)
+  * [Antipode to the Pendulum](Reality-Transurfing-Steps-1-4-Complete.md#antipode-to-the-pendulum)
+  * [The Boomerang](Reality-Transurfing-Steps-1-4-Complete.md#the-boomerang)
+  * [Transmission](Reality-Transurfing-Steps-1-4-Complete.md#transmission)
+  * [Magic Rituals](Reality-Transurfing-Steps-1-4-Complete.md#magic-rituals)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-2)
+* [Chapter IV. BALANCE](Reality-Transurfing-Steps-1-4-Complete.md#chapter-iv-balance)
+  * [Excess Potential](Reality-Transurfing-Steps-1-4-Complete.md#excess-potential)
+  * [Resentment and Judgement](Reality-Transurfing-Steps-1-4-Complete.md#resentment-and-judgement)
+  * [Dependent Relationships](Reality-Transurfing-Steps-1-4-Complete.md#dependent-relationships)
+  * [Idealization and Overvaluation](Reality-Transurfing-Steps-1-4-Complete.md#idealization-and-overvaluation)
+  * [Contempt and Vanity](Reality-Transurfing-Steps-1-4-Complete.md#contempt-and-vanity)
+  * [Superiority and Inferiority](Reality-Transurfing-Steps-1-4-Complete.md#superiority-and-inferiority)
+  * [Love to Have, Love to Hate](Reality-Transurfing-Steps-1-4-Complete.md#love-to-have-love-to-hate)
+  * [Guilt](Reality-Transurfing-Steps-1-4-Complete.md#guilt)
+  * [Money](Reality-Transurfing-Steps-1-4-Complete.md#money)
+  * [Perfection](Reality-Transurfing-Steps-1-4-Complete.md#perfection)
+  * [Importance](Reality-Transurfing-Steps-1-4-Complete.md#importance)
+  * [From Battle to Balance](Reality-Transurfing-Steps-1-4-Complete.md#from-battle-to-balance)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-3)
+* [Chapter V. THE INDUCED TRANSITION](Reality-Transurfing-Steps-1-4-Complete.md#chapter-v-the-induced-transition)
+  * [The Generation Shift](Reality-Transurfing-Steps-1-4-Complete.md#the-generation-shift)
+  * [The Pendulum Vortex](Reality-Transurfing-Steps-1-4-Complete.md#the-pendulum-vortex)
+  * [Disaster](Reality-Transurfing-Steps-1-4-Complete.md#disaster)
+  * [War](Reality-Transurfing-Steps-1-4-Complete.md#war)
+  * [Unemployment](Reality-Transurfing-Steps-1-4-Complete.md#unemployment)
+  * [Epidemic](Reality-Transurfing-Steps-1-4-Complete.md#epidemic)
+  * [Panic](Reality-Transurfing-Steps-1-4-Complete.md#panic)
+  * [Poverty](Reality-Transurfing-Steps-1-4-Complete.md#poverty)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-4)
+* [Chapter VI. ТHE ALTERNATIVES FLOW](Reality-Transurfing-Steps-1-4-Complete.md#chapter-vi-тhe-alternatives-flow)
+  * [The Information Field](Reality-Transurfing-Steps-1-4-Complete.md#the-information-field)
+  * [Knowledge Out of Nowhere](Reality-Transurfing-Steps-1-4-Complete.md#knowledge-out-of-nowhere)
+  * [The Needy, the Indignant and the Fighter](Reality-Transurfing-Steps-1-4-Complete.md#the-needy-the-indignant-and-the-fighter)
+  * [Going With the Flow](Reality-Transurfing-Steps-1-4-Complete.md#going-with-the-flow)
+  * [Guiding Signs](Reality-Transurfing-Steps-1-4-Complete.md#guiding-signs)
+  * [Letting Go](Reality-Transurfing-Steps-1-4-Complete.md#letting-go)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-5)
+* [Chapter VII. INTENTION](Reality-Transurfing-Steps-1-4-Complete.md#chapter-vii-intention)
+  * [Lucid Dreaming](Reality-Transurfing-Steps-1-4-Complete.md#lucid-dreaming)
+  * [The Dream Space](Reality-Transurfing-Steps-1-4-Complete.md#the-dream-space)
+  * [The Magical Power of Intention](Reality-Transurfing-Steps-1-4-Complete.md#the-magical-power-of-intention)
+  * [Outer Intention](Reality-Transurfing-Steps-1-4-Complete.md#outer-intention)
+  * [The Game Script](Reality-Transurfing-Steps-1-4-Complete.md#the-game-script)
+  * [The Game According to Your Rules](Reality-Transurfing-Steps-1-4-Complete.md#the-game-according-to-your-rules)
+  * [The Purification of Intention](Reality-Transurfing-Steps-1-4-Complete.md#the-purification-of-intention)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-6)
+* [Chapter VIII. SLIDES](Reality-Transurfing-Steps-1-4-Complete.md#chapter-viii-slides)
+  * [Illusion](Reality-Transurfing-Steps-1-4-Complete.md#illusion)
+  * [Distorting Reality](Reality-Transurfing-Steps-1-4-Complete.md#distorting-reality)
+  * [Positive Slides](Reality-Transurfing-Steps-1-4-Complete.md#positive-slides)
+  * [Widening Your Comfort Zone](Reality-Transurfing-Steps-1-4-Complete.md#widening-your-comfort-zone)
+  * [Visualising the Goal](Reality-Transurfing-Steps-1-4-Complete.md#visualising-the-goal)
+  * [Visualising the Process](Reality-Transurfing-Steps-1-4-Complete.md#visualising-the-process)
+  * [Transfer Chains](Reality-Transurfing-Steps-1-4-Complete.md#transfer-chains)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-7)
+* [Chapter IX. THE HEART AND MIND](Reality-Transurfing-Steps-1-4-Complete.md#chapter-ix-the-heart-and-mind)
+  * [The Wind of Intention](Reality-Transurfing-Steps-1-4-Complete.md#the-wind-of-intention)
+  * [The Heart's Sail](Reality-Transurfing-Steps-1-4-Complete.md#the-hearts-sail)
+  * [The Wizard Within](Reality-Transurfing-Steps-1-4-Complete.md#the-wizard-within)
+  * [The Mirage](Reality-Transurfing-Steps-1-4-Complete.md#the-mirage)
+  * [Guardian Angels](Reality-Transurfing-Steps-1-4-Complete.md#guardian-angels)
+  * [A Soul Box](Reality-Transurfing-Steps-1-4-Complete.md#a-soul-box)
+  * [Fraile](Reality-Transurfing-Steps-1-4-Complete.md#fraile)
+  * [Unity of Heart and Mind](Reality-Transurfing-Steps-1-4-Complete.md#unity-of-heart-and-mind)
+  * [Sound Bite Slides](Reality-Transurfing-Steps-1-4-Complete.md#sound-bite-slides)
+  * [A Window onto the Alternatives Space](Reality-Transurfing-Steps-1-4-Complete.md#a-window-onto-the-alternatives-space)
+  * [The Frame](Reality-Transurfing-Steps-1-4-Complete.md#the-frame)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-8)
+* [Chapter X. GOALS AND DOORS](Reality-Transurfing-Steps-1-4-Complete.md#chapter-x-goals-and-doors)
+  * [How to Choose Your Own Things](Reality-Transurfing-Steps-1-4-Complete.md#how-to-choose-your-own-things)
+  * [How to Become a Trendsetter](Reality-Transurfing-Steps-1-4-Complete.md#how-to-become-a-trendsetter)
+  * [Other People's Goals](Reality-Transurfing-Steps-1-4-Complete.md#other-peoples-goals)
+  * [Breaking Through Stereotypes](Reality-Transurfing-Steps-1-4-Complete.md#breaking-through-stereotypes)
+  * [Your Goals](Reality-Transurfing-Steps-1-4-Complete.md#your-goals)
+  * [Your Doors](Reality-Transurfing-Steps-1-4-Complete.md#your-doors)
+  * [Intention](Reality-Transurfing-Steps-1-4-Complete.md#intention)
+  * [Realization](Reality-Transurfing-Steps-1-4-Complete.md#realization)
+  * [Inspiration](Reality-Transurfing-Steps-1-4-Complete.md#inspiration)
+  * [Reviving the Goal](Reality-Transurfing-Steps-1-4-Complete.md#reviving-the-goal)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-9)
+* [Chapter XI. ENERGY](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xi-energy)
+  * [Energy Levels](Reality-Transurfing-Steps-1-4-Complete.md#energy-levels)
+  * [Stress and Relaxation](Reality-Transurfing-Steps-1-4-Complete.md#stress-and-relaxation)
+  * [Energy Vampires](Reality-Transurfing-Steps-1-4-Complete.md#energy-vampires)
+  * [The Protective Shield](Reality-Transurfing-Steps-1-4-Complete.md#the-protective-shield)
+  * [Increasing Your Energy Levels](Reality-Transurfing-Steps-1-4-Complete.md#increasing-your-energy-levels)
+  * [The Energy of Intention](Reality-Transurfing-Steps-1-4-Complete.md#the-energy-of-intention)
+  * [The Step of Intention](Reality-Transurfing-Steps-1-4-Complete.md#the-step-of-intention)
+  * [Illness Pendulums](Reality-Transurfing-Steps-1-4-Complete.md#illness-pendulums)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-10)
+* [Chapter XII. FRAILING](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xii-frailing)
+  * [Intention in Relationships](Reality-Transurfing-Steps-1-4-Complete.md#intention-in-relationships)
+  * [The Flow of Relationships](Reality-Transurfing-Steps-1-4-Complete.md#the-flow-of-relationships)
+  * [Attuning to Fraile](Reality-Transurfing-Steps-1-4-Complete.md#attuning-to-fraile)
+  * [Energy in Relationships](Reality-Transurfing-Steps-1-4-Complete.md#energy-in-relationships)
+  * [Pardon](Reality-Transurfing-Steps-1-4-Complete.md#pardon)
+  * [Job Hunting](Reality-Transurfing-Steps-1-4-Complete.md#job-hunting)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-11)
+* [Chapter XIII. COORDINATION](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xiii-coordination)
+  * [The Insecurity Labyrinth](Reality-Transurfing-Steps-1-4-Complete.md#the-insecurity-labyrinth)
+  * [Coordinating Importance](Reality-Transurfing-Steps-1-4-Complete.md#coordinating-importance)
+  * [The Battle with the Clay Golem](Reality-Transurfing-Steps-1-4-Complete.md#the-battle-with-the-clay-golem)
+  * [Ending the Battle](Reality-Transurfing-Steps-1-4-Complete.md#ending-the-battle)
+  * [Release](Reality-Transurfing-Steps-1-4-Complete.md#release)
+  * [Coordinating Intention](Reality-Transurfing-Steps-1-4-Complete.md#coordinating-intention)
+  * [Apples Fall to the Sky](Reality-Transurfing-Steps-1-4-Complete.md#apples-fall-to-the-sky)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-12)
+* [Chapter XIV. FORWARD TO THE PAST](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xiv-forward-to-the-past)
+  * [Transaction](Reality-Transurfing-Steps-1-4-Complete.md#transaction)
+  * [Shades in the Scenery](Reality-Transurfing-Steps-1-4-Complete.md#shades-in-the-scenery)
+  * [Gliding](Reality-Transurfing-Steps-1-4-Complete.md#gliding)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-13)
+* [Chapter XV. LETTERS FROM THE PAST](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xv-letters-from-the-past)
+  * [A Run of Bad Luck](Reality-Transurfing-Steps-1-4-Complete.md#a-run-of-bad-luck)
+  * [The Game of Partners](Reality-Transurfing-Steps-1-4-Complete.md#the-game-of-partners)
+  * [Charity](Reality-Transurfing-Steps-1-4-Complete.md#charity)
+  * [How to Win Back the One You Love](Reality-Transurfing-Steps-1-4-Complete.md#how-to-win-back-the-one-you-love)
+  * [Intention](Reality-Transurfing-Steps-1-4-Complete.md#intention-1)
+  * [Importance Potential](Reality-Transurfing-Steps-1-4-Complete.md#importance-potential)
+  * [Reality Inversion](Reality-Transurfing-Steps-1-4-Complete.md#reality-inversion)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-14)
+* [Chapter XVI. DANCES WITH SHADOWS](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xvi-dances-with-shadows)
+  * [The Origin of Intention](Reality-Transurfing-Steps-1-4-Complete.md#the-origin-of-intention)
+  * [The Law of Bad Luck](Reality-Transurfing-Steps-1-4-Complete.md#the-law-of-bad-luck)
+  * [Everything Happens to Spite You](Reality-Transurfing-Steps-1-4-Complete.md#everything-happens-to-spite-you)
+  * [The Pendulum Rule](Reality-Transurfing-Steps-1-4-Complete.md#the-pendulum-rule)
+  * [Stabilising the Structure](Reality-Transurfing-Steps-1-4-Complete.md#stabilising-the-structure)
+  * [The Indigo Arrivals](Reality-Transurfing-Steps-1-4-Complete.md#the-indigo-arrivals)
+  * [Energy Lords](Reality-Transurfing-Steps-1-4-Complete.md#energy-lords)
+  * [Declaration of Intention](Reality-Transurfing-Steps-1-4-Complete.md#declaration-of-intention)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-15)
+* [Chapter XVII. THE DREAMS OF THE GODS](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xvii-the-dreams-of-the-gods)
+  * [The Two Sides to Reality](Reality-Transurfing-Steps-1-4-Complete.md#the-two-sides-to-reality)
+  * [The Waking Dream](Reality-Transurfing-Steps-1-4-Complete.md#the-waking-dream)
+  * [The Children of God](Reality-Transurfing-Steps-1-4-Complete.md#the-children-of-god)
+  * [The Dream Theatre](Reality-Transurfing-Steps-1-4-Complete.md#the-dream-theatre)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-16)
+* [Chapter XVIII. THE MIRROR WORLD](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xviii-the-mirror-world)
+  * [The Dual Mirror](Reality-Transurfing-Steps-1-4-Complete.md#the-dual-mirror)
+  * [The Reality Amalgam](Reality-Transurfing-Steps-1-4-Complete.md#the-reality-amalgam)
+  * [Chasing Your Reflection](Reality-Transurfing-Steps-1-4-Complete.md#chasing-your-reflection)
+  * [The World Comes To You](Reality-Transurfing-Steps-1-4-Complete.md#the-world-comes-to-you)
+  * [The Maker's Intention](Reality-Transurfing-Steps-1-4-Complete.md#the-makers-intention)
+  * [The League of Mirror Makers](Reality-Transurfing-Steps-1-4-Complete.md#the-league-of-mirror-makers)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-17)
+* [Chapter XIX. THE GATEKEEPER TO ETERNITY](Reality-Transurfing-Steps-1-4-Complete.md#chapter-xix-the-gatekeeper-to-eternity)
+  * [The Energy of Intention](Reality-Transurfing-Steps-1-4-Complete.md#the-energy-of-intention-1)
+  * [Correcting the Mirror](Reality-Transurfing-Steps-1-4-Complete.md#correcting-the-mirror)
+  * [The Reality Maker](Reality-Transurfing-Steps-1-4-Complete.md#the-reality-maker)
+  * [Coordinating the Dream](Reality-Transurfing-Steps-1-4-Complete.md#coordinating-the-dream)
+  * [The Maker's Verdict](Reality-Transurfing-Steps-1-4-Complete.md#the-makers-verdict)
+  * [SUMMARY](Reality-Transurfing-Steps-1-4-Complete.md#summary-18)
+* [Afterword. A STRANGE REALITY](Reality-Transurfing-Steps-1-4-Complete.md#afterword-a-strange-reality)
+* [GLOSSARY](Reality-Transurfing-Steps-1-4-Complete.md#glossary)
+  * [Importance](Reality-Transurfing-Steps-1-4-Complete.md#importance-1)
+  * [Wave of Fortune](Reality-Transurfing-Steps-1-4-Complete.md#wave-of-fortune)
+  * [Choice](Reality-Transurfing-Steps-1-4-Complete.md#choice)
+  * [Unity of Heart and Mind](Reality-Transurfing-Steps-1-4-Complete.md#unity-of-heart-and-mind-1)
+  * [Guardian's Riddle](Reality-Transurfing-Steps-1-4-Complete.md#guardians-riddle)
+  * [Signs](Reality-Transurfing-Steps-1-4-Complete.md#signs)
+  * [Excess Potential](Reality-Transurfing-Steps-1-4-Complete.md#excess-potential-1)
+  * [Induced Shift](Reality-Transurfing-Steps-1-4-Complete.md#induced-shift)
+  * [Coordination of Importance](Reality-Transurfing-Steps-1-4-Complete.md#coordination-of-importance)
+  * [Coordination of Intention](Reality-Transurfing-Steps-1-4-Complete.md#coordination-of-intention)
+  * [Life line](Reality-Transurfing-Steps-1-4-Complete.md#life-line)
+  * [Material Realisation](Reality-Transurfing-Steps-1-4-Complete.md#material-realisation)
+  * [Pendulum](Reality-Transurfing-Steps-1-4-Complete.md#pendulum)
+  * [Intention](Reality-Transurfing-Steps-1-4-Complete.md#intention-2)
+  * [Dependent Relationships](Reality-Transurfing-Steps-1-4-Complete.md#dependent-relationships-1)
+  * [Polarisation](Reality-Transurfing-Steps-1-4-Complete.md#polarisation)
+  * [Alternatives Space](Reality-Transurfing-Steps-1-4-Complete.md#alternatives-space)
+  * [Balanced Forces](Reality-Transurfing-Steps-1-4-Complete.md#balanced-forces)
+  * [Sector of the Alternatives Space](Reality-Transurfing-Steps-1-4-Complete.md#sector-of-the-alternatives-space)
+  * [Slide](Reality-Transurfing-Steps-1-4-Complete.md#slide)
+  * [World Layer](Reality-Transurfing-Steps-1-4-Complete.md#world-layer)
+  * [Alternatives Flow](Reality-Transurfing-Steps-1-4-Complete.md#alternatives-flow)
+  * [Transurfing](Reality-Transurfing-Steps-1-4-Complete.md#transurfing)
+  * [Frailing](Reality-Transurfing-Steps-1-4-Complete.md#frailing)
+  * [Goals and Doors](Reality-Transurfing-Steps-1-4-Complete.md#goals-and-doors)
 
----
+***
 
-# FOREWORD
+## FOREWORD
 
 FOREWORD
 
@@ -257,15 +259,15 @@ In this book we are not going to do exercises, meditate or obsess with the self.
 
 We all make mistakes in life and then think how wonderful it would be if we could turn back the clock and put everything right. I am not promising you a "train ticket back to your childhood", but mistakes can be put right and doing so is a bit like returning to the past, or even stepping 'forward into the past'. The meaning of these words will become clearer towards the end of the book. You will not have heard or read anywhere else the things I am going to tell you here, so be prepared for the unexpected as enjoyable as it is surprising.
 
----
+***
 
-# Chapter I. THE ALTERNATIVES MODEL
+## Chapter I. THE ALTERNATIVES MODEL
 
----
+***
 
 Dreams Don't Come True
 
-## The Rustle of the Morning Stars
+### The Rustle of the Morning Stars
 
 I was woken by the neighbour's dog barking. The nasty animal was always waking me up. How I hated it! Why should I have to be woken up by the noise of someone else's pet? I decided to go out for a walk, calm down and distract myself from the intense desire to set fire to my neighbour's house. They say dogs are like their owners. This one was. There always seemed to be some idiot in my life trying to get me down. Feeling stressed I started to get dressed. My slippers had disappeared again. Where are you, you sneaky little buggers? When I find you I will chuck you out!
 
@@ -311,7 +313,7 @@ At first the idea seemed absurd. I would probably have forgotten all about it if
 
 Ever since I discovered Transurfing (or rather, since I was given it to discover) my life has been filled with joyful meaning. Anyone who has ever been involved in some kind of creative work will know the happiness and fulfilment that comes with creating something with your own hands. Imagine then the feeling of creating your own destiny. Even the expression 'to create your own destiny' as it is interpreted in its usual sense, fails to describe what I mean here. Transurfing is a method that frees you to choose your own destiny, literally like you would choose something in a supermarket. I want to share this with you so that you can understand why 'apples fall to the sky', why the 'morning stars rustle', and many other curious things.
 
-## The Guardian's Riddle
+### The Guardian's Riddle
 
 There are different interpretations of the nature of fate. One interpretation is that fate is your lot in life, something predetermined and which however hard you try, you can never escape. This definition is rather limiting as it suggests that if a rough lot has befallen you in life there is no hope of anything ever getting any better. Despite this, there will always be those who willingly accept this definition of fate because it is convenient. They would rather life be reliable and the future more or less predictable than live with the fear of uncertainty.
 
@@ -439,7 +441,7 @@ From the alternatives model it follows that man can create his own destiny. In T
 
 Whatever you 'order', your choice is always granted unconditionally. Choice however, is different to desire. Wishes are only granted in fairy tales and most people just keep on wishing. It is no wonder that the belief is so ingrained in our minds that wishes are very difficult, if not impossible to fulfil. We have already taken the first small step towards solving the Guardian's riddle. Soon you will find out why wishes are not granted and dreams do not come true.
 
-## SUMMARY
+### SUMMARY
 
 Reality is manifest in an infinite variety of forms.
 
@@ -475,15 +477,15 @@ You cannot change the fact that scenery exists, but you can choose a different t
 
 You do not have to fight for happiness. You simply have to choose an alternative reality that is more to your liking.
 
----
+***
 
-# Chapter II. PENDULUMS
+## Chapter II. PENDULUMS
 
----
+***
 
 Rent Yourself Out
 
-## Destructive Pendulums
+### Destructive Pendulums
 
 We are taught from childhood to obey the will of others, to perform our duties, serve our country, our family, the company we work for, a political party, the state, or even an idea; to serve anyone except ourselves. To varying degrees, everyone has a sense of duty, responsibility, necessity and guilt. Everyone is ready to serve a group or organization in one way or another, be it family, a club, school, company, political party, the state and so on. All these structures emerge and develop when a separate group of people begin to think and act in the same way. Then, they are joined by others and the structure grows, gaining strength, forcing its members to follow the rules and eventually amassing the potential to gain control over large groups of society.
 
@@ -527,7 +529,7 @@ Transurfing could also become a pendulum if someone turned it into a pseudo-reli
 
 I am telling you all this in order to describe what it really means to choose your fate, so have patience dear reader. Not all these ideas are easy to grasp but as we go on, a clearer picture will emerge.
 
-## The Battle of the Pendulums
+### The Battle of the Pendulums
 
 The main feature of a destructive pendulum is its aggressive impulse to destroy other pendulums in order to win over potential adherents. With this purpose the pendulum works to turn its followers against the followers of other pendulums in the sense of: 'We are good and they are bad.' People who get involved in this type of argument end up losing their way and striving towards spurious goals which they mistakenly consider their own. This is the destructive nature of the pendulum. Fighting against the followers of other pendulums is totally futile and can destroy lives, one's own and the lives of others.
 
@@ -549,7 +551,7 @@ A pendulum gets a firm grip on the frequency of an adherent's thought energy by 
 
 For the purposes of Transurfing it does not actually matter too much how interaction occurs on an energetic level between the pendulum and the devotee. We will examine the nature of the interaction using a simplified model. No-one can explain precisely how something really happens because at that level of questioning one has to ask what is meant by 'really' and the questions and speculation continue with the infinite process of learning. This is not what we are interested in here so will make do with simplified models and metaphors that serve our purpose, satisfied with the fact that we are at least capable of understanding some things. Now we will look at how pendulums manipulate their adherents.
 
-## Puppet Strings
+### Puppet Strings
 
 Pendulums are very good at coercing their adherents to give up energy voluntarily. A large, powerful pendulum, for example, can force its adherents to act according to a certain set of rules. Weaker pendulums go about things slightly differently. When an individual lacks the power to force another to do something they turn to other methods such as reasonable argument, persuasion and promises. These are feebler methods unique to a human society that has divorced itself from the forces of nature. Sometimes pendulums will use these techniques as well but they also have a much more powerful weapon at their disposal. Pendulums are energy-beings, and so they function in accordance with the immutable laws of the universe.
 
@@ -577,7 +579,7 @@ So, we have looked at the methods pendulums use to influence people. The questio
 
 We say that 'a fault confessed is half redressed' because a person who has acknowledged their guilt is willing to subjugate themselves to the power of the pendulum. The pendulum is not interested in the adherent's remorse for their actions. It is only interested in restoring lost control. A pendulum will instantly become kinder if you allow it to manipulate you. If the accused refuses to repent they can be got rid of because nothing more can be gained from them. If they do repent the pendulum's true motives are usually veiled behind moral principles saying that a person who has shown remorse cannot be such a villain after all. You can easily differentiate between true moral principles and the hidden interests of the system if you keep in mind what the pendulum really represents and what its true goals are.
 
-## You Get what You Do not want
+### You Get what You Do not want
 
 As illustrated above, a pendulum can be powered both by its supporters and its opponents. Loss of energy on behalf of an adherent is just half the story. If a pendulum is sufficiently destructive it can damage a person's welfare and future.
 
@@ -593,7 +595,7 @@ Everywhere you are pursued by exactly the very thing you do not want, that you f
 
 The only way to eliminate the things you do not want from your life is to break free from the influence of the pendulum that has seized your thought energy and from then on, avoid responding to its provocation or getting pulled into its game. You can free yourself from a pendulum's influence in two ways by defeating it or by stopping its sway. We will look more closely at how this can be done below.
 
-## Defeating the Pendulum
+### Defeating the Pendulum
 
 Trying to battle with a pendulum is futile. As was explained above, when you battle with a pendulum you just end up supplying it with energy. The first and most important condition for successfully defeating a pendulum is to refuse to get into conflict with it. Firstly, the more actively you try to fight off pendulums that get you down the more they will pressure you. You can repeat endlessly: "Leave me alone! Get away from me!" and think you are fighting them off, but actually, you are just providing them with energy making them cling to you even more.
 
@@ -621,17 +623,17 @@ If someone is getting to you, see whether the model of the destructive pendulum 
 
 We often come across situations, however, where it is not that easy to ignore the pendulum. For example, if your boss demands something from you, an outright refusal or open defense of yourself would entail a loss of energy because both approaches amount to fighting the pendulum. You can however, act as if you are willing to play the pendulum's game as long as you remain aware of the fact that you are just pretending.
 
-Imagine a heavily built burly man was to come at you with a sledgehammer and take a blow at you. If you react as if you are totally unperturbed, neither going to defend yourself nor to attack him you could calmly step aside and observe the man take his sledgehammer and hack down into the empty space beside you. When you behave in this calm and unperturbed manner the pendulum cannot hook into you and instead falls past you into empty space. 
+Imagine a heavily built burly man was to come at you with a sledgehammer and take a blow at you. If you react as if you are totally unperturbed, neither going to defend yourself nor to attack him you could calmly step aside and observe the man take his sledgehammer and hack down into the empty space beside you. When you behave in this calm and unperturbed manner the pendulum cannot hook into you and instead falls past you into empty space.
 
 The same principle is central to certain martial arts like aikido. In aikido when one player makes an attack the opponent defends by taking the other player by the arm and moving in the direction of the attack as if casually seeing them on their way. Without having to exert any force the defending player sends their opponent flying in the direction of the original attack. The secret lies in not trying to block the attack. The players learn to accept the momentum of the attack and to move with the other player in this direction for a while before letting go. The energy of the attack is spent in empty space, because there is nothing to catch hold of.
 
 The technique of the gentle dodge lies in responding with acceptance when the pendulum makes its first blow and then diplomatically stepping back, or subtly directing the movement in the direction that suits you. For example, imagine your boss is stressed and heaps a pile of work on you demanding it be done exactly in the way he thinks best. You know that the work would be better done differently, or maybe the work does not ordinarily come within your responsibilities. If you object, argue or defend yourself your boss will simply demand that you accept his authority and do what he says; after all, he has made a decision and you are defying him. Do the opposite; listen carefully and agree with everything he says. This allows the pendulum to discharge its first impulsive surge of energy. Then, start carefully discussing the details of the job. By now, you will have accepted your boss's energy and be radiating at his frequency. Because it has not met with any opposition the energy of your boss's initial approach will gradually subside. It is not advisable to tell your boss that you know better how the job should be done. Neither is it advisable to refuse to do the job or to get into an argument. It is much more diplomatic to ask for his advice on how he thinks the job could be done most efficiently or how perhaps another employee could do it more effectively. By doing this, you are swinging along with the pendulum, but you are doing it consciously, from the position of the observer without being caught up in the game. The pendulum on the other hand continues to swing completely absorbed by its own game. In the game the pendulum is the one who makes the decisions. The others agree with it or consult it for advice. If you try out this approach you will see that energy which was previously directed at you will be redirected towards a colleague or other potential solution to a problem. For you personally, the pendulum will have been defeated.
 
-## Stopping a Pendulum
+### Stopping a Pendulum
 
 There are some situations where the pendulum cannot be defeated which means it cannot be ignored or escaped. I had a friend once, who was a really nice, kind-hearted guy as well as being gifted with incredible physical strength. Late one evening we were travelling in a tram and spotted a group of bullies looking for trouble; in other words, a really destructive pendulum. There were quite a few of them and they were feeding each other with negative energy convinced of their own invulnerability. As a rule, this type of group needs to be constantly bullying someone who will react to their provocation in order to increase their energy level.
 
-The men in the group started picking on my friend, probably because the kind and peaceful expression on his face suggested he was easy prey. They tried in any way they could to pick a fight by insulting and taunting him; however, my friend remained silent and refused to be provoked. In other words, he was trying to defeat the pendulum. I decided not to get involved because I knew he had nothing to fear whereas the thugs were really risking it. Finally, my friend could not take it any longer and got up from his seat and heading for the exit. The most brazen adherent blocked his way. Then my friend, who was by now totally cornered, grabbed the punk by the scruff of the neck and delivered a powerful blow to his head. 
+The men in the group started picking on my friend, probably because the kind and peaceful expression on his face suggested he was easy prey. They tried in any way they could to pick a fight by insulting and taunting him; however, my friend remained silent and refused to be provoked. In other words, he was trying to defeat the pendulum. I decided not to get involved because I knew he had nothing to fear whereas the thugs were really risking it. Finally, my friend could not take it any longer and got up from his seat and heading for the exit. The most brazen adherent blocked his way. Then my friend, who was by now totally cornered, grabbed the punk by the scruff of the neck and delivered a powerful blow to his head.
 
 The victim's face was smashed to a pulp. The remaining toughies froze with fear and amazement. My friend turned to grab the next one, who in a trembling voice mumbled: "That's enough, man…stop!" The energy of the pendulum had been instantly dispersed and its adherents, who were very taken aback, edged slowly away from him, finally tumbling out of the tram.
 
@@ -655,7 +657,7 @@ There is another interesting method aimed at gently bringing a pendulum to rest.
 
 For example, if your boss shouts at you, maybe they are tired or having problems at home and what they really need is a little peace of mind. Imagine your boss relaxing in a comfortable armchair watching the television, sitting beside an open fire, fishing by a river or having a beer with friends. Perhaps you know of something else your boss likes to do. It may be that your boss is being pressured to take on more responsibility and is afraid of doing so. Perhaps what he needs is confidence. Imagine your boss skiing confidently, driving around in a sports car or being the centre of attention at a party. Your boss might be in some kind of pain. Imagine him feeling happy and fresh, swimming in the sea, riding a bicycle or playing football. Of course, it is better to imagine them doing what they specifically like to do in their free time but you do not have to guess. It is enough to simply imagine the person feeling content and happy.
 
-What is really happening in a situation like this where your boss suddenly appears on the scene with a problem (or it could be someone else like a mugger)? Try to instantly distract yourself from whatever the problem is. That way, you avoid putting your head into the noose that locks your thoughts into a certain frequency from the very outset. Now imagine this person receiving exactly what they need. (What does a robber need; to eat; drink; get high?) Visualize an image of the person's fulfillment. If you are successful you can consider the problem solved. After all, the pendulum does not swing randomly. Something specific shifts it out of balance, causing it to start swaying. Consciously or unconsciously the pendulum is seeking for the one thing that will restore its balance. The energy of your thoughts set to a certain positive frequency will do that, at least indirectly, and the pendulum will instantly substitute its aggression with goodwill as a result. If this is hard to believe, test out the technique for yourself. 
+What is really happening in a situation like this where your boss suddenly appears on the scene with a problem (or it could be someone else like a mugger)? Try to instantly distract yourself from whatever the problem is. That way, you avoid putting your head into the noose that locks your thoughts into a certain frequency from the very outset. Now imagine this person receiving exactly what they need. (What does a robber need; to eat; drink; get high?) Visualize an image of the person's fulfillment. If you are successful you can consider the problem solved. After all, the pendulum does not swing randomly. Something specific shifts it out of balance, causing it to start swaying. Consciously or unconsciously the pendulum is seeking for the one thing that will restore its balance. The energy of your thoughts set to a certain positive frequency will do that, at least indirectly, and the pendulum will instantly substitute its aggression with goodwill as a result. If this is hard to believe, test out the technique for yourself.
 
 A pendulum-person approaches you with a problem which you solve, not in an obvious way, but on an energetic level. The technique is based on the principle that stops a pendulum. You give the pendulum your energy, but only a tiny piece of it in comparison to the amount of energy you could have lost had you been drawn into the pendulum's game. Besides that, you have also done a good deed by helping someone in need, if only for a short time. The interesting thing is that this person will adopt a friendlier attitude towards you even though they may never guess why they feel so comfortable in your company. That can be your secret.
 
@@ -665,7 +667,7 @@ The last question is where all the energy goes when a pendulum is brought to res
 
 Psychologists and psychotherapists are well acquainted with equivalent practices of defeating or stopping a pendulum. In this sense the techniques described here are nothing new. However, they will be of value to anyone unfamiliar with practical psychology and give a clear understanding of how and why psychological protection is so effective.
 
-## Simple Solutions to Complex Problems
+### Simple Solutions to Complex Problems
 
 Another practical value of these techniques for defeating or stopping a pendulum is acquiring the ability to solve all kinds of problems: complicated situations in your personal life, conflict, unfavorable circumstances or simply a set task. There are always simple solutions to complex problems. The key to solving a problem always lies somewhere on the surface, the question is how to spot it. The pendulum that creates the problem obscures your vision, making it harder to find the key.
 
@@ -675,7 +677,7 @@ If you play on someone's complexes by scaring, worrying or confusing them, they 
 
 A pendulum can act via its adherents, i.e. people who are connected with a particular problem as well as non-living objects. The pendulum holds a person's thought energy at a certain frequency, sucking their energy whilst they carry the burden of the problem. You might think that focusing on the problem would help you to concentrate on finding a solution to it, and yet the opposite happens; it actually hinders you from finding a solution.
 
-The pendulum focuses our thinking on a very narrow sector of the informational field. As a result, a person thinks and acts within the limits of a narrow corridor, unable to see the bigger picture or perceive the solution which may well lie outside that sector of the information field. Unusual or intuitive solutions often present themselves when you free yourself from the pendulum and are able to think in a different way. The secret of genius lies in remaining free from the influence of pendulums. While the thought energy of most people is held at certain frequencies by pendulums, the thought energy of a genius is free to attune itself to different frequencies and move into unexplored areas of the information field. 
+The pendulum focuses our thinking on a very narrow sector of the informational field. As a result, a person thinks and acts within the limits of a narrow corridor, unable to see the bigger picture or perceive the solution which may well lie outside that sector of the information field. Unusual or intuitive solutions often present themselves when you free yourself from the pendulum and are able to think in a different way. The secret of genius lies in remaining free from the influence of pendulums. While the thought energy of most people is held at certain frequencies by pendulums, the thought energy of a genius is free to attune itself to different frequencies and move into unexplored areas of the information field.
 
 The way to avoid getting caught in the pendulum's snare is to keep whatever problem you are dealing with in perspective and remain aware of the pendulum's intent to trick you into playing its game. Rent yourself out–be detached. Try looking at the situation as if you had no emotional attachment to it. Act as you normally would but remain observant, don't play the game. Remember that the pendulum wants to take you by the hand and lead you into a complex labyrinth. Do not let the problem get a hold on you, scare, worry, or confuse you. Just remember that there is always a straightforward solution to every problem. Do not accept the "complicated" interpretation projected by the pendulum.
 
@@ -685,7 +687,7 @@ If you have to solve a challenging problem remember that you do not have to rely
 
 This method really does work if you are able to stay detached and free yourself from the pendulum. This is not always easy but later in the book you will discover new methods for dealing with pendulums. For now we are just at the beginning of the Transurfing technique. Are you feeling as if I have taken you by the hand and am leading you into a labyrinth? Stay free, even of those who preach to you of freedom.
 
-## The Suspended State
+### The Suspended State
 
 When you have disentangled yourself from the influence of destructive pendulums you acquire a newfound freedom but if you do not have a goal to focus on you can find yourself hanging in a suspended state. If you have neglected your goals being because of a preoccupation with defeating the pendulums around you or stopping their sway, you may end up in a vacuum. On the one hand, conflicts and concerns that previously haunted you, fade; arguments occur less frequently; anxiety and worry gradually disappear from your life and all without you really noticing it, like a storm that gradually calms and passes.
 
@@ -697,7 +699,7 @@ Your freedom lies in being free from the pendulums of others. There are pendulum
 
 Pendulums do not necessarily have to represent something detrimental as long as a person is self-aware. It is never possible to be completely free of pendulums. The question is how to avoid being oppressed by a pendulum's influence so that you can consciously work them in favour of your own purpose. Transurfing offers the specific tools needed to achieve this. Even though it is not possible to free yourself from the phenomenon of pendulums completely, it is not entirely necessary that you do so. On the contrary, at the end of the day, it is pendulums that turn dreams into reality.
 
-## SUMMARY
+### SUMMARY
 
 A pendulum is created by the energy of a group of people thinking in the same way.
 
@@ -731,15 +733,15 @@ To avoid getting stuck in a suspended state, find your own pendulums.
 
 It is essential to acquire the habit of remembering what you know.
 
----
+***
 
-# Chapter III. THE WAVE OF FORTUNE
+## Chapter III. THE WAVE OF FORTUNE
 
----
+***
 
 Your thoughts return to you like a boomerang
 
-## Antipode to the Pendulum
+### Antipode to the Pendulum
 
 Now we can look at the task I set you earlier of determining which type of pendulums could be described as constructive. The answer is none. It sounds paradoxical but it is true and I hope I have not offended the reader by asking a trick question. All pendulums have one and the same goal, which is to receive energy from their adherents. If the energy supply is cut off then the pendulum's swing stops.
 
@@ -761,7 +763,7 @@ Because the wave has no interest in you personally it is easy to lose sight of. 
 
 This is one of the most paradoxical aspects of the freedom of choice. People really can choose happiness and success for themselves and yet at the same time remain restricted by pendulums that lead them away from the wave of fortune. Here we return to a theme we discussed earlier; to claim freedom of choice you must be independent. You have the right to be free of the influence of other people's pendulums. Now we will clarify how you can claim this right.
 
-## The Boomerang
+### The Boomerang
 
 Most people's minds are filled with constant chatter. If the chatter is not controlled negative thoughts begin to dominate very often. As people we are most concerned with what we fear, with what oppresses or displeases us. The human psyche has developed over a period of thousands of years under the influence of destructive pendulums, which have kept people in a condition of fear so that they can be manipulated. As a result, people tend to have a very clear idea of what they do not want and yet have a very vague idea of what they do want.
 
@@ -785,7 +787,7 @@ It is not enough to make sure you are not taking in negative energy from without
 
 One very clear conclusion can be drawn from all that has been said above. You are always on a life line that represents the quality of your energetic vibration. If you take in negative energy you will experience disappointments in your life and if you give out negative energy it will return to you like a boomerang in the form of disappointment.
 
-## Transmission
+### Transmission
 
 Instead of playing the game of a destructive pendulum, seek out pendulums that benefit you in some way by their game. Acquire the habit of giving your attention to all that is positive and good. As soon as you see, read or hear something pleasing or encouraging hold it in your thoughts and let it lift your spirits. Imagine that you are walking through a forest where there are beautiful flowers as well as poisonous thorns. Which would you choose? If you pick a bunch of elderberry flowers and put them in a vase in your home you will soon get a headache. What would be the point of that? It is the same thing as reacting to destructive pendulums. It is better to pick a jasmine flower, admire its beauty, and savour its aroma. Let in the things that are positive and you will be greeted on your path by ever more good news and auspicious opportunity.
 
@@ -815,7 +817,7 @@ If you practice this technique consistently, with time you will succeed in repla
 
 Another possible result is that the next time you meet with the wave of fortune, pendulums will not succeed in distracting you from it and the bird of happiness will remain in your hand. In order to fully embrace the bird you have to surround yourself with positive energy. You have to become a transmitter of positive energy as well as a receiver of exclusively positive energy. If you can do this the world around you will very quickly change for the better and you will easily slide onto more successful life lines. In the end, the wave of fortune will greet you, lift you up and rush forward carrying you on to success. Transurfing does not end with learning to ride the wave of good fortune. This is just the first step. As you read on you will see that there are many more surprising discoveries to be found.
 
-## Magic Rituals
+### Magic Rituals
 
 To conclude this chapter I want to share an example of how the technique of attuning to the wave of success works. There are various situations in which people automatically make attempts to attune to this frequency even though they may not be aware of what they are doing on an energetic level. For example, at the beginning of the day, traders often give their first buyer a significant reduction. Intuitively they feel that their first buyer is very important and so they give a good deal to the first buyer to secure the day's trade. In the language of Transurfing they are attuning to the vibration of successful trading. It is difficult to simply hold the idea of a good day's trade in mind, whereas the first sale instils the trader with real hope and faith as a result of which the attunement takes place of its own accord. Through action, the trader has mounted the wave of successful trading by radiating thought energy with corresponding parameters. The trader believes that their wares will sell quickly and buyers are immediately 'gripped' by the vibration of this thought and obediently make a purchase when the trader hints at the idea, convinced that they have found a bargain.
 
@@ -823,7 +825,7 @@ Another curious magic ritual is used by market traders who brush paper money acr
 
 People in different professions invent their own 'magical' rituals which they conduct to help them in various situations. People believe in them and apply them in order to attune to a successful life line and mount the wave of good fortune. As you already know, it is not the form the ritual takes that matters but the result it produces.
 
-## SUMMARY
+### SUMMARY
 
 The wave of good fortune is an accumulation of favorable life lines in the alternatives space.
 
@@ -843,15 +845,15 @@ Pendulums cannot throw you off the wave of fortune once remembering has become a
 
 The habit of remembering is developed through consistent practice.
 
----
+***
 
-# Chapter IV. BALANCE
+## Chapter IV. BALANCE
 
----
+***
 
 Taking care without worrying
 
-## Excess Potential
+### Excess Potential
 
 Everything in nature strives towards balance. Changes in air temperature are balanced by wind. Differences in temperature are compensated by thermal exchange. Wherever there is excess potential of any energy form, balanced forces emerge to correct the imbalance. We are so accustomed to such statements on the nature of things that we fail to ask ourselves why it must necessarily be so, or how exactly the law of balance works.
 
@@ -895,7 +897,7 @@ Some might say that throwing yourself completely into your work is on the contra
 
 Exactly the same goes for study. Later in this chapter we will look at other situations in life, where excess potential is created, and the impact of balanced forces.
 
-## Resentment and Judgement
+### Resentment and Judgement
 
 We will begin with resentment of self. This feeling arises when a person is unfulfilled by their personal achievements and qualities, and finds it hard to accept their own weaknesses. It is quite possible to be conscious of your own shortcomings without inflating them into a complex. If you are intensely focused on your own foibles, excess potential will be created. Balanced forces immediately get to work to eliminate the potential. Their action can be focused either on developing certain new qualities or on battling with the original weakness. People have a tendency to work with one or the other depending on their nature. Most often a person chooses to battle with the less attractive parts of themselves and their position turns against them. There is no point in trying to hide weaknesses, and overcoming them can be tricky. Trying to hide them only creates the opposite effect which makes the situation even worse. For example, when a shy person makes an effort to hide their shyness they can come across as very held back or, on the contrary, excessively cheeky.
 
@@ -931,7 +933,7 @@ We are all guests in this world and no-one has the right to judge that which the
 
 Returning to the metaphor of visiting an exhibition with pictures that you do not like, the saying "Make yourself at home, but don't forget you are a guest" is very fitting. No-one has the right to judge but everyone has freedom of choice. If you fervently express your discontent the pendulum benefits, but if you quietly walk away and visit a different exhibit, you will benefit. I hear you ask: "But what if there is nowhere else to go? That there is no alternative is a misconception instilled by the pendulum and this book is dedicated to the task of ridding the reader of this false limiting belief.
 
-## Dependent Relationships
+### Dependent Relationships
 
 Idealising the world is the reverse side of the coin of dissatisfaction. When you idealise the world things take on a rose-coloured tint and much appears better than it really is. As you know, when a person sees something that is not really there excess potential is created.
 
@@ -951,7 +953,7 @@ All conflicts are based on contrast and contradistinction. An initial statement 
 
 Below are several examples of the consequences of various types of idealization.
 
-## Idealization and Overvaluation
+### Idealization and Overvaluation
 
 Overvaluation is when a person is imagined to have qualities they do not in fact embody. On one level the illusions of the mind are quite harmless. On the energetic level however, they generate excess potential because potential is created wherever there is a flux in quantity or quality. Overvaluation is a projection and concentration of qualities there where they are not present in reality. There are two types of idealization. In the first type an individual is portrayed as having qualities which are in fact totally uncharacteristic. In order to eliminate the resulting inhomogeneity in the energy field, balanced forces have to create some kind of counter force.
 
@@ -983,7 +985,7 @@ The second extreme concerns the right to ownership, which is of course jealousy.
 
 All of the above relates as much to women as it does to men, but this is not the final word on the matter. We will return to this question later when we look at the other concepts that underpin Transurfing. Everything is so simple and yet at the same time so complex; complex because a person in love loses their ability to rationalise and so the recommendations above will probably fall to the wayside. I shall not however, upset myself with these things because I resist the need for the reader's recognition.
 
-## Contempt and Vanity
+### Contempt and Vanity
 
 Judging other people is a very powerful way of destroying balance, particularly when we have contempt for them. On an energetic level there are no good or bad people; there are simply those who observe the laws of nature and those who unsettle nature's 'status quo'. The latter always eventually succumb to the power of balanced forces which strive to restore balance.
 
@@ -1005,7 +1007,7 @@ There is nothing wrong with a person taking pride in their achievements or lovin
 
 Contempt and vanity are the vices of man. Animals do not embody these characteristics in their behaviour. They are lead by the consistent purpose of fulfilling nature's will perfectly. Nature is more perfect than the human mind. The wolf like all predators feels no hate or contempt for its prey (try feeling hate or contempt towards a lamb chop). People, however, build their relationships with each other on masses of excess potential. The majesty of animals and plants lies in the fact that they are unaware of their greatness. Conscious awareness has given man many advantages, but it also brings with it the rubbish of feelings like guilt, inferiority, vanity and contempt.
 
-## Superiority and Inferiority
+### Superiority and Inferiority
 
 Feelings of superiority and inferiority are indicative of dependent relationships. When you compare your own qualities to those of others you inevitably create excess potential. On an energetic level it makes no difference whether you express you superiority publicly, or just secretly congratulate yourself on being better than others. Quite obviously, open expressions of superiority cause others to dislike you. People who make comparisons are often striving to artificially boost their own ego at the cost of others. This kind of behaviour always creates excess potential, even if it is just a shadow of the arrogance that is not expressed openly, and balanced forces will come in with a slap.
 
@@ -1035,7 +1037,7 @@ Here is another example of how one quality compensates for another. The conditio
 
 Can you see where the open window is? Maybe you think that these types of dynamic do not concern you and that you don't suffer from issues like these. Do not deceive yourself. Everyone to some degree or another has a tendency to create excess potential in the energy fields around them but if you follow the principles of Transurfing, complexes of inferiority or superiority will simply vanish from your life.
 
-## Love to Have, Love to Hate
+### Love to Have, Love to Hate
 
 "I want, never gets!" There is truth in this childhood admonition although here I would rephrase it slightly to: "The stronger you want something the less likely you are to get it". When you want something so much that you are willing to place everything on the cards to get it, you create huge excess potential which destroys balance. Balanced forces can then throw you onto a life line where there is no trace of the object you desired.
 
@@ -1063,7 +1065,7 @@ Now you can think back and recognise what things in your life you have attribute
 
 balanced forces are on your side because their task is to compensate bad with good. Things can no more be bad all the time than they can be good all the time. No-one can ride the wave of success all their lives. This is what it would look like on an energetic level if you were to re-attune your energy in this way. Imagine you were attacked, abused, beaten up and everything you had on you was taken, and then all of a sudden, you were shoved a bag which turned out to be full of money. The more you were wounded, the greater the amount of money in the bag there would be.
 
-## Guilt
+### Guilt
 
 Guilt is pure excess potential. In nature there are no notions of good and bad. For balanced forces both good and bad deeds are equivalent. The important thing in either case is to restore balance if excess potential arises. If you have behaved badly, became aware of it and then started to feel guilty (I should be punished) you will have created potential. If you have acted well, become aware of it and started feeling proud of yourself (I should be rewarded) then you will also have created potential. Balanced forces have no concept that some things should be rewarded and others punished. They simply eliminate inhomogeneity in the energy field.
 
@@ -1099,7 +1101,7 @@ The famous Russian writer, Anton Pavlovich Chekhov, once said: "Drop by drop I a
 
 Moreover, wherever you happen to be, in prison, in the army, in a gang, at work, on the street or in a bar, you will never again find yourself in a situation where somebody will threaten you with violence. Others may from time to time, be subject to violence in one form or another, but because you have renounced the feeling of guilt and driven it from your subconscious you will reside on life lines where scripts of punishment simply don't exist.
 
-## Money
+### Money
 
 It is almost impossible to avoid a dependent relationship on money because it is very hard to love money without wanting more of it. All one can do is attempt to limit the aspect of dependency to a minimum. Be happy if money has come to you but never kill yourself worrying about not having enough money, or spending it, otherwise you will have less and less of it. If a person does not earn much money they probably make the mistake of complaining that they never have enough because the parameters of this type of thought energy correspond to life lines in which there is no wealth.
 
@@ -1127,7 +1129,7 @@ At the same time, you should be attentive to money and treat it carefully. If yo
 
 Neither should you worry about spending money because this is a necessary part of fulfilling your mission. If you have made the decision to spend money on something have no regrets. When you try to save up a handsome sum and spend as little as possible you create strong excess potential because energy has been built up in one place. In this case it is highly likely that you could lose everything. Money should be spent wisely to keep a flow going as potential appears where there is no flow of energy. Wealthy people support charities with good reason as it reduces the excess potential of their accumulated wealth.
 
-## Perfection
+### Perfection
 
 Finally, we look at the most ambiguous and paradoxical way in which balance is compromised. Things that start small can turn out to have the severest of consequences. Usually, we are taught from childhood to do things carefully; to be thorough and always do our best. We are taught to be responsible and are instilled with a sense of what is right and what is wrong. Undoubtedly, this is how things should be; otherwise the next generation would turn into an entire army of slobs and slackers. The down side to this kind of upbringing is that in some of the pendulum's adherents the striving for perfection is so deeply instilled that it becomes part of their persona.
 
@@ -1145,7 +1147,7 @@ Of course the reader is nothing like the picture of the idealist portrayed here.
 
 What starts as an innocent striving for perfection ends in claims to the privileges of master. Accordingly, the resistance exerted by balanced forces which initially takes the form of minor problems increases in intensity. If the idealist is protected by a pendulum they will get away with their behaviour for a while but eventually the time will come when they will have to pay for their deeds. When a guest forgets that they are just a guest, and makes claims to the role of master they run the risk of being thrown out altogether.
 
-## Importance
+### Importance
 
 Finally, we will look at the idea of importance as this is the most common cause of excess potential. Importance arises when something is attributed excess meaning. Importance represents excess potential in pure form. In the process of eliminating importance, balanced forces create problems for the person that created it.
 
@@ -1171,7 +1173,7 @@ Reducing importance does not just significantly eliminate problems from your lif
 
 All the importance we attribute to things, be it inner or outer is simply a projection. No-one is of any true importance in this world and yet the riches of life are available to us. Children playing happily on the beach, splashing about and having fun in the waves do not think about whether they are good or bad, whether the water is good or bad or whether the other children are good or bad. Whilst the situation remains unchanged, they are simply happy and in harmony with nature. We all came into the world like that, as a child of nature. If a person maintains a state of harmony the best that life has to offer will be available to them but as soon as a person begins to project importance problems arise. People fail to see the causal link between their projections and the problems they experience and so they buy into the idea that the world is a truly hostile place, where it is really hard to get what you want. In fact, the only obstacle on the path to fulfilling your desires is the projection of artificial importance. I may not have managed to convince you so far that this is the truth of things but I have not run out of arguments yet!
 
-## From Battle to Balance
+### From Battle to Balance
 
 You may wonder if there is a way of counteracting the action of balanced forces. In fact our day to day life is an ongoing battle with balanced forces. All the difficulties and problems we encounter are linked with the actions of balanced forces. Trying to resist balanced forces is futile as they will have their way no matter what. Any effort to avoid the consequences of their actions will only aggravate the situation. The only remedy for the impact of balanced forces is to reduce the excess potential of importance produced as a result of the underlying problem. The kind of situations life throws at us are so diverse it would be impossible to give a universal recipe to cover all of them. There are however, certain general recommendations that can be made to ease the way.
 
@@ -1207,7 +1209,7 @@ If you have driven yourself into a state where it is practically impossible to l
 
 With that thought I conclude this chapter on the complex and difficult theme of balance. Now that you understand how the mechanism of balanced forces works, you will easily be able to determine the reason for one failure or another. We conclude that it is essential to observe the principle of balance. It remains only to offer a word of caution against applying the principle too ardently, from becoming fixated with or fanatic about it, as this will only negate the very principle itself. If you try and explain to a centipede in minute detail how it should walk it will become so confused that it won't be able to move at all. All things in moderation. Allow yourself from time to time to disturb the balance at little. Nothing awful will happen as long as you do not force the arrow off the scales.
 
-## SUMMARY
+### SUMMARY
 
 Excess potential is only created when you attribute importance to your assessment.
 
@@ -1265,15 +1267,15 @@ Do not try to overcome obstacles; reduce the amount of importance you project on
 
 Take care without worrying.
 
----
+***
 
-# Chapter V. THE INDUCED TRANSITION
+## Chapter V. THE INDUCED TRANSITION
 
----
+***
 
 Do Not Absorb Negative Information
 
-## The Generation Shift
+### The Generation Shift
 
 People have always hankered after "the good old days". With age life somehow seems to get worse. People turn to reminiscing about their youth and times when the colours were richer, first impressions more vivid, dreams attainable, music was better, the climate more favourable, people were more approachable, and meat was more tender, to say nothing of their health. Life was full of hope, pleasure and joy. Once a certain number of years have passed, people begin to sense that events do not make them as happy as they did before. Picnics, parties, concerts, films, celebrations, dates, warm sea water…from an objective point of view all these things are still pretty much the same quality as they were before. Parties are still fun, films are still interesting and sea water still feels warm. Nonetheless, life is not the same as it used to be. The colours have faded, our responses have dulled and enthusiasm has waned.
 
@@ -1291,7 +1293,7 @@ The habit of reacting negatively is so deep-seated that human beings are beginni
 
 You might think that life is not as good as it used to be but the younger generation happens to think that life is wonderful. Maybe they just do not know how great things were, when you were their age. Having said that, when you were young, the older generation complained about life too and reminisced about the good old days. This pattern cannot simply be explained by the tendency of the human psyche to erase all negative memories leaving just the positive ones. The criticism is aimed at the present moment which is supposedly worse than it used to be.
 
-If you accept the fact that life is getting worse with every passing year then you would have to agree that the world should have simply fallen to pieces a long time ago. An uncountable number of generations have passed since the beginning of human history and each one believes that life's colours have faded. Many an old man will tell you with absolute certainty how much better Coca-Cola used to be. Coca-Cola was invented in 1886\. Imagine how disgusting coke must be by now if it has been consistently worsening in quality since then! Or perhaps one's sense of taste weakens with age, although that is hardly the case. Anyway, the old man will probably tell you how everything else is of a poorer quality today too, be it furniture, clothes or any other item.
+If you accept the fact that life is getting worse with every passing year then you would have to agree that the world should have simply fallen to pieces a long time ago. An uncountable number of generations have passed since the beginning of human history and each one believes that life's colours have faded. Many an old man will tell you with absolute certainty how much better Coca-Cola used to be. Coca-Cola was invented in 1886. Imagine how disgusting coke must be by now if it has been consistently worsening in quality since then! Or perhaps one's sense of taste weakens with age, although that is hardly the case. Anyway, the old man will probably tell you how everything else is of a poorer quality today too, be it furniture, clothes or any other item.
 
 If the world were the same for everyone, after several dozen generations life would have become a nightmare for everybody. So how should we understand the paradoxical statement that the world is not the same for everyone? We all live in the same world comprised of the material realization of alternative life lines and yet every individual experiences a different possible alternative. On the surface of things there are obvious differences in people's fate. Some are rich, some are poor; some are successful and some are struggling; some are lucky and some unlucky. We all have our own personal reality within the common world we live in. It seems quite straightforward, just as there are rich and poor neighbourhoods in a single town.
 
@@ -1311,7 +1313,7 @@ There are deviations from this tendency, both for the better and for the worse. 
 
 In previous chapters we have already talked about how to avoid creating a living hell in your own life layer. You may also wonder whether it is possible for a person to retrieve an earlier section of their world, or return to a life line that was filled with colour and hope like it was in childhood. The Transurfing technique can help with this task but before we look at that it is first useful to understand how exactly a person can end up shifting from a life line full of success and hope to a life line where they would face the question: "So how exactly did your life end up like this?"
 
-## The Pendulum Vortex
+### The Pendulum Vortex
 
 The human psyche works in such a way that it reacts most strongly to negative irritants such as unwanted information, hostility, danger or any other form of negative energy. Of course, positive influences can also stir strong emotions but the intensity and force of emotions like fear and rage by far outweigh those of joy and happiness. The reason for this originates in ancient times when fear and rage were crucial to survival. What use is joy in a context like that? Joy is not as useful when it comes to defending yourself, avoiding danger and foraging for food. In addition, throughout the entire history of humanity life has been filled with burden and hardship that have brought more grief and fear than joy and happiness. This is generally speaking why man yields readily to thoughts of gloom and depression, while feelings of joy and happiness pass relatively quickly. Have you ever heard of a normal person suffering from too much joy? People who suffer from stress and depression however can be found in good number wherever you look.
 
@@ -1323,7 +1325,7 @@ This is the mechanism that winds the spiral mentioned above: At first a person i
 
 The phenomenon of being drawn further towards the vortex can be described as an induced transition to a life line where the adherent becomes the victim of a destructive pendulum. The individual's response to the pendulum's initial prod and the mutual exchange of energy that follows induces a shift to a life line with a vibration very similar to that of the pendulum's sway. As a result, a negative event occurs in the layer of this person's life.
 
-## Disaster
+### Disaster
 
 Most people accept that theoretically they could end up being involved in a catastrophic event but not all actually allow the possibility into the layer of their personal world. There are people who do not watch TV serials, have no interest in the news, and are emotionally undisturbed by events taking place somewhere else in the world. They live in a different life layer to these events and are adherents of other pendulums. They remain undisturbed by the fact that somewhere in the world there has been a plane crash. They listen to the news indifferently whilst they eat their supper probably because they have enough to deal with in their own lives.
 
@@ -1339,7 +1341,7 @@ The task is to stay as far away as possible from the pendulum's vortex. This mea
 
 If you find it impossible to retain a positive outlook when confronted with negativity you can always turn to your Guardian Angel. For example, if you are afraid of flying, stay away from planes. If you are afraid it means that somewhere in the spectrum of your energy there is a frequency that resonates at the vibration of a like line in which a plane crash occurs. It does not mean that you will immediately transition to this life line, but nonetheless, the possibility exists. If you are the kind of person who does not think of the dangers of flying at all, then you have nothing to fear. On the other hand, if you experience unusually high levels of anxiety before boarding a plane it would be wise to skip the flight. If this is totally out of the question you would be wise to learn to listen to the rustle of the morning stars. What that is and how it can be heard, you have yet to discover.
 
-## War
+### War
 
 Wars break out essentially for the same reason that fist fights do. One party expresses their opinion. The other party holds the opposite opinion and so the opinion expressed by the first is like the prod of a destructive pendulum. The second party takes offense at the prod and reacts with double the amplitude. The first shouts back even louder. Both parties become increasingly aggressive until things finally come to blows.
 
@@ -1349,7 +1351,7 @@ The situation can only be changed at the outset before things escalate out of co
 
 Here we should be clear about what it means not to tolerate war or revolution. You could hate war or be actively campaigning against it. It makes no difference to the pendulum which side of the fence you stand on. It will claim your energy in both cases. If energy is emanated at the frequency of war a shift will occur onto a corresponding life line. If you accept war and participate in it then you are effectively on the battle field. If you fight against war it will consume you anyway. Not to accept the pendulum's game means to ignore it. I realize that it is not always possible to ignore something life war but this is the danger of the induced shift. It is not worth taking the position of defender or opponent of war. There have always been neutral countries which have remained on the sideline and watched while entire nations destroyed each other. From the point of view of the pendulum trying to provoke a fight with its rivals, people who ardently protest against war at demonstrations are potentially just as committed and desirable adherents as the supporters of conflict. Active protest against war potentially provides the pendulum with just as much energy as the support of war, although naive adherents will be convinced of the opposite. The real way to prevent war is simply to support peaceful action and where possible expose a pendulum's true motives. Do you remember the metaphor of the hive of wild bees? The pendulum tells its adherents that the bees are dangerous and must be killed. But what is the pendulum's true motive. What does it really need? Honey perhaps…
 
-## Unemployment
+### Unemployment
 
 As we have said, there are different ways of playing the game of a destructive pendulum, either by supporting it or negating it. The second option is probably the most perilous, since the desire to actively avoid a pendulum creates excess potential that can pull you into the vortex of an induced transition. Almost everyone nowadays experiences concern at some point or another about losing their job. An induced transition to finding yourself out on the street would be quite a crafty manoeuvre. Sometimes larger events start with something small and seemingly harmless; an initial feint signal. For example, you might hear that your company is not doing quite as well as it was before, or someone you know lost their job recently, or there are rumours at work that staff may have to be made redundant.
 
@@ -1357,7 +1359,7 @@ On a subconscious level, an otherwise unnoticeable red light comes on. Shortly a
 
 The fear of being sacked lies in a feeling of guilt which either smoulders away or burns brightly in your subconscious. They always fire the weakest employees first. If you allow yourself to consider that you might be weaker than your colleagues you effectively write you own name into the black list. Let go of guilt. Give yourself the luxury of being you. If that does not work start looking for another job because the excess potential of your emotional worries will be dissipated by taking action. Some people start looking for another job, as soon as they have taken on a new position, not because they intend to change jobs immediately, but because the idea of having a safety net makes them feel more confident. On the off chance that something unexpected does happen, they know they have an alternative avenue to follow. If you feel secure about the future, the action of balanced forces will not affect you.
 
-## Epidemic
+### Epidemic
 
 You are probably thinking that an epidemic can have no relevance to life lines and that people get ill simply because they have become infected by some bacteria. This is correct, but only so far as a person allows themselves to become infected, and by this, I do not mean that they were not wearing a protective health mask. That would not have saved them. I cannot prove my point with theoretical argument; just as I cannot prove anything I have said in this book, just as you would not walk around with a mask on during a flu epidemic, just to test whether the mask works or not. I am sharing what I know to be true. Whether it resonates with you or not only you can know.
 
@@ -1373,7 +1375,7 @@ The induced shift actually starts from the very moment that you respond to the p
 
 "What about breast fed babies infected with AIDS?" the fastidious reader will ask. "Do they too radiate the energy of induced transition?" In response it should be said, that firstly, we are looking at the phenomenon of epidemic as a general tendency and secondly, I am not suggesting that the concept of infection is a delusion or that thought energy radiating at the frequency of illness is the sole cause of ill health. Transurfing is neither a dogma, nor does it claim to be the final authority on truth. No idea should be taken to be absolute truth. We can only take into account patterns and regularities. Truth is always "somewhere close by", but where exactly, nobody can say.
 
-## Panic
+### Panic
 
 Panic generates the most intense and quickly induced transition. Panic very effectively highlights the distinctive features of an induced transition. Firstly, the spiral coils very strongly when a person panics because any signal of real danger always has a convincing sound to it. It is so easy then to be immediately drawn into the game of a destructive pendulum. The increase in the pendulum's sway also gathers speed very quickly for the same reason.
 
@@ -1381,7 +1383,7 @@ Secondly, when a person panics they almost completely lose their self-control, s
 
 However, if you can somehow keep your head you may succeed in saving yourself and others. For example, when a ship is sinking a group of desperate passengers will clamber around a small number of lifeboats whilst other boats nearby remain empty. It only takes a second to look around and notice the empty crafts but this is the cunning quality of the induced shift that works like a whirlpool sucking in anything located at its periphery.
 
-## Poverty
+### Poverty
 
 From a logical point of view how does a simple man from the slums become rich, not including criminal means or beautiful stories about people becoming millionaires overnight? The rags to riches story is very difficult explain using only common sense, so what, you may ask, is the use of logic? Transurfing does not entirely fit into the framework of common sense. On the other hand, it does enable you to achieve things that would otherwise appear impossible.
 
@@ -1417,7 +1419,7 @@ It is as if someone has taken them by the hands, spun them round and round, only
 
 The only way to avoid an induced transition is to avoid gripping onto the tail of the spiral, thereby avoiding getting caught up in the pendulum's destructive game. It is not sufficient to know how the mechanism works. To remain free of the pendulum's power you must maintain a constant awareness of it. You must not allow your inner Guardian to doze off. Pull yourself up every time you realize that, out of habit, as if in a dream, you have accepted a pendulum's game, i.e. you have expressed discontentment, indignation, anxiety, or contributed to a destructive discussion and so on. Remember: everything that causes you to express a negative reaction is a provocative prod from a destructive pendulum. The same thing happens when you are dreaming; until you realize that what you are seeing is a dream, you are simply a pawn in someone else's game and there is nothing to stop you from being tormented by nightmares. As soon as you wake up, shake off the delusion and realize the nature of the game. You are in control. When you do this you will no longer be the victim of circumstances, while everyone around you continues to exist in a zombie-like state.
 
-## SUMMARY
+### SUMMARY
 
 Everyone creates the separate layer of their own world.
 
@@ -1435,15 +1437,15 @@ Do not allow negative information into your layer.
 
 "Do not allow" does not mean strive to avoid, but rather, to intentionally ignore, to express no interest.
 
----
+***
 
-# Chapter VI. ТHE ALTERNATIVES FLOW
+## Chapter VI. ТHE ALTERNATIVES FLOW
 
----
+***
 
 When you go with the flow the world meets you halfway
 
-## The Information Field
+### The Information Field
 
 The alternatives space is an information field or energy matrix, a template for what things could be like. When a sector of the matrix is lit up by an energy that has the same resonance, that part of the template is transformed into physical reality. The question is whether the information held in the matrix can be used whilst it exists in its intangible form.
 
@@ -1467,7 +1469,7 @@ Not all clairvoyants can see perfectly and so mistakes are made. Mistakes can be
 
 Whether you believe in these things or not is a very personal thing. Remember, Transurfing is just a model that allows us to apply the laws of the universe to serve our own interests. It does not claim to provide a comprehensive description of the structure of the universe. Neither is Transurfing a monument in granite bearing the inscription: "Here lies the secret". Truth, as you know, is only ever somewhere close by. The idea that man is capable of synthesizing anything new using the rational mind alone is simply the product of a certain attitude. It is just that society has been relying on the model that generated that attitude for a long time now. It should be pointed out however, that the conventional worldview is as impossible to prove as the Transurfing model. Whether things actually happen according to one system or another does not concern us here too much. The fact remains, that information originating in the alternatives space is somehow available to us in the form of hunches, visions, insights and signs, and as far as we are able we must attempt to understanding its meaning.
 
-## Knowledge Out of Nowhere
+### Knowledge Out of Nowhere
 
 Only a few very unique individuals are capable of reading data held in the information field. The majority of us receive reverberations of data in the form of momentary premonitions and vaguely perceived knowledge. People involved in the worlds of science and creativity often receive insights after many long days or years of contemplation. It can take such a long time to unveil something entirely new because thought energy, however deeply a person concentrates, can be more easily attuned to sectors of the alternatives space that have already been transformed into physical reality. Anything fundamentally new originates in sectors of the alternatives space that have not yet been transformed into physical reality. Unfortunately, we do not yet fully understand how to attune our thoughts to these sectors.
 
@@ -1505,7 +1507,7 @@ If you cannot pick up on a clear feeling when you do this it suggests that your 
 
 If you get a clear sense of "Yes, I feel good about this", or "No, I do not feel good about this", then you have clearly heard the rustle of the morning stars. Now you know the answer to your question. It does not mean that you will necessarily act according to the dictates of the heart for we are not always free to act as we would wish to, but at least you will know what to expect from a sector which has not yet been transformed into physical reality.
 
-## The Needy, the Indignant and the Fighter
+### The Needy, the Indignant and the Fighter
 
 In any situation a person can respond with two extremes of behaviour. One extreme is to be swept along by the current like a powerless paper boat and the other is to row stubbornly against the tide.
 
@@ -1535,7 +1537,7 @@ Now the question arises as to how the phrase "go ahead and get it" should be und
 
 Now we are going to look at different tactical ways of behaving in various situations.
 
-## Going With the Flow
+### Going With the Flow
 
 The needy and the indignant go weakly with the flow of life while the fighter pushes against the flow. Of course, in life, no one person is a pure example of either role. We all adopt one or more of these roles to a greater or lesser extent as life changes and yet none of them are particularly effective. If it is not advisable to fight and going with the flow is too limp what other options are there?
 
@@ -1583,7 +1585,7 @@ Here is another example. You have a list of things to do and you are wondering w
 
 I will not go on with a long list of examples. If you spend even just one day truly going with the flow you will discover for yourself just how helpful and surprising living your life in this way can be. Every time you have to come up with a solution to a problem ask yourself which approach would be the easiest and go with that. Every time something or someone comes in to distract you, do not hurry to resist it or skirt around it. Try detaching yourself from the situation and then observing what happens next. Every time you face a new task, ask yourself: How can I do this as simply as possible? Then allow whatever it is to get done with as much ease as possible. Every time someone suggests something different or tries to prove their own point of view try not to jump in and argue back. Maybe the rational mind just cannot understand the advantage or see the alternative. Activate your inner Guardian. First observe and only then take action. Come down into the auditorium. Do not hurry to take control. Let the game develop as far as possible of its own accord under your supervision. There is no need to madly splash your hands about in the water. Try not to get in the way of the flow of life and you will feel much better for it.
 
-## Guiding Signs
+### Guiding Signs
 
 How can we distinguish between an approaching sandbank or waterfall and a normal turn in current? There are always tangible signs that will help us navigate ourselves through life. Life is constantly sending us signs.
 
@@ -1631,7 +1633,7 @@ There is just one 'but'. If a series of misplaced steps have got you all tied up
 
 This is all that can be said about guiding signs within the context of the Transurfing model. Ultimately, only you can interpret the signs that are personal to you. There is no need to teach you how to interpret signs. You will instinctively understand their meaning if you are observant of yourself and the world around you. Be wary of attributing excess importance to signs that are not sufficiently clear or that would introduce negative interpretations into your personal life script. You will not get caught up on a sandbank or fly off down the rapids if you avoid creating excess potential. After all is said and done we can survive quite well without signs if we have to. It is not given to us to understand their meaning fully. The only sign particularly worth focusing on when you are making a decision is your gut feeling and intuition. It really is worth listening to the rustle of the morning stars.
 
-## Letting Go
+### Letting Go
 
 The existence of streams in the alternatives flow can potentially free the mind of two overwhelming burdens: the need to solve problems rationally and the need to control. That is, if the mind will allow itself to be freed. The mind will require a more or less rational explanation to be comfortable enough to let go. As you may have noticed quite a lot of what is described in this book is irrational which is why, although it is not the purpose of Transurfing to offer a description of the structure of the universe, I try to validate the conclusions I have drawn that would otherwise be difficult for the mind to accept.
 
@@ -1677,7 +1679,7 @@ Another possible scenario is that you generate vigorous activity without observi
 
 Does this mean that you should keep your mouth closed and your head down? That would be a little extreme. The question should be approached with a sober mind. You should only consider getting annoyed and telling someone off if they are bothering you directly and then only if your criticism will change the situation for the better. Never criticize anything that happened in the past and cannot be changed. In everything else, go with the flow, not in a literal sense by agreeing with everything and everybody, but by moving the centre of gravity from control to observation. Observe more and do not be in a hurry to control things. There is no need to be concerned about getting the right balance. A healthy sense of moderation will come with practice.
 
-## SUMMARY
+### SUMMARY
 
 The mind interprets information using a set of established designations.
 
@@ -1745,15 +1747,15 @@ Having let go of attachment to control you will find you have genuine control of
 
 If you move harmoniously with the flow of alternatives the world will meet you half way.
 
----
+***
 
-# Chapter VII. INTENTION
+## Chapter VII. INTENTION
 
----
+***
 
 Potential is only limited by intention
 
-## Lucid Dreaming
+### Lucid Dreaming
 
 In this chapter we come closer to solving the Guardian's riddle about the fact that we are free to choose anything we want in life and how to go about it. One of the keys to the riddle lies in what we call dreaming. A person spends a third of their lifetime asleep. Unfortunately, scientific research can only offer us a limited understanding of the human sleep state and so what exactly happens to a person when they are asleep remains a mystery. Philosophical interpretations of dreams are no more enlightening, spanning from one extreme to another. Some say that dreams are an illusion whilst others claim that life itself is nothing more than a dream. Who should we believe? The Transurfing model of the universe supports neither position.
 
@@ -1787,7 +1789,7 @@ If you find that do not remember your dreams note what direction you sleep in. I
 
 Do not worry if you have no desire to practice lucid dreaming or perhaps have tried to induce lucid dreams without success. Lucid dreaming does play a certain role in Transurfing but it is not essential to practicing the technique. In addition, lucid dreaming carries a subtle threat. You are probably wondering why I introduced the topic so positively if now I intend to caution you. Lucid dreaming is a secret door that opens into the unknown. It would be irresponsible of me not to mention the potential danger that lurks behind that door so I will explain this below.
 
-## The Dream Space
+### The Dream Space
 
 To solve the Guardian's riddle we have to be able to answer two questions: why is anything possible in lucid dreaming and why do dreams seem so real?
 
@@ -1857,7 +1859,7 @@ We will not go into the theme of travel via astral projection here. Astral proje
 
 There is no need to be particularly afraid of dreaming but it should be taken seriously. If you get a negative feeling in your gut when you read about lucid dreaming it indicates that this is not an activity you should become involved in. Your gut feeling will tell you whether something is risky for you personally or not. The heart is better than the mind at sensing impending danger and so dreaming without the active intrusion of the rational mind is far safer. However, if you are quite decided that lucid dreaming is for you, be cautious. Do not go sticking your head in the lion's mouth and be careful to retain maximum levels of awareness. In dreaming as in waking, make yourself at home but do not forget you are a guest.
 
-## The Magical Power of Intention
+### The Magical Power of Intention
 
 We have explained that our thoughts and desires direct how we move through the alternatives space and that when we are asleep this movement is free of the burden of inert matter inherent in material realization. The slightest hint of a thought is enough to instantly carry the dreamer into a corresponding sector of the field. In sectors manifest in the physical everything happens more slowly due to the heavy density of matter. The principle however, is the same: our thoughts have a direct impact on the course of events in our life.
 
@@ -1897,7 +1899,7 @@ Waiting, worrying, doubt and desire only drain your energy. Intention in action 
 
 Intention is the driving force that transforms sectors of the alternatives space into physical reality. The question is why our fears are also realized. Surely our fears cannot be categorized as intention? In real life, just as in dreams, we are constantly chased by alternatives with a script to match our fears, anxieties, aversions and hates. Why should these scripts be transformed into physical reality if we neither desire them, nor intend to have them? And yet we do experience the things we love to hate. It would appear that the nature of our desires, whether it is something we love or something we love to hate, is ultimately irrelevant. Why? The mystery is unveiled by an even more enigmatic and powerful force we refer to as outer intention.
 
-## Outer Intention
+### Outer Intention
 
 Intention is a combination of desire and action. The intention to do something by your own efforts is obviously a personal inner intention. It is much more difficult to extend the action of intention to the external world. We refer to this kind of intention as outer intention. Outer intention has the potential to rule the world, or rather, to choose the model of behaviour the external world lives by, as well as determine the script and scenery.
 
@@ -1981,7 +1983,7 @@ Much of what has been described above may be a little obscure. It is a theme tha
 
 It is not our goal to acquire the power of absolute intention capable of lifting the body into the air. If we knew how to levitate there would be nothing left to say. The alternatives space exists and the freedom of choice exists. You choose which possible pathway in the alternatives space manifests as your physical reality. The task we have set ourselves is to learn how to achieve goals given the capabilities and resources we already have at our disposal. Even though these may have their limitations Transurfing represents knowledge that can awaken a power we rarely make use of. Transurfing does not require you to exhaust yourself with meditations, various practices, lucid dreaming and other mystical activities that are enough to make the head spin. I understand that the Transurfing model seems unlikely to work but all you have to do is reconsider your established views of the world and you will be able to achieve things you previously thought were beyond you. Likely as not you will soon become convinced that you really can make the power of outer intention work in your favour.
 
-## The Game Script
+### The Game Script
 
 Dreams are very malleable and so they serve as an excellent model by which to demonstrate how outer intention works. So, we will return now to the theme of dreams. As we said, in essence dreaming is very similar to real life. Everything that happens in a dream is a result of a game played according to a script chosen by the soul. When the rational mind sleeps we dream but we do not remember our dreams. The soul travels uninhibitedly through the alternatives space. Where exactly the soul is gallivanting whilst the mind sleeps, no-one can say. All our conscious memories are controlled by the mind. Dreams that we remember occur when the mind is just dozing. The mind's control is weaker during this stage of sleep being reduced to the role of passive observer. The mind is not imagining things when we dream; it simply perceives what the soul witnesses in sectors of the alternatives space that have not been transformed into physical reality. In non-lucid dreaming the mind does not weigh on the soul with its need to control. It is like a cinema-goer watching a film. On some level though the mind does experience what it sees and the sensations evoked are communicated to the heart which immediately attunes itself to a matching sector. The script therefore, changes as it goes along, the scenery and characters likewise adjusting to the changing script. The imagination plays a part in dreaming only to the extent that it generates ideas.
 
@@ -2013,7 +2015,7 @@ In non-lucid dreaming, the dream just 'happens'. Outer intention acts independen
 
 The level of conscious awareness is higher in waking than it is in dreaming and this is sufficient to direct inner intention. Outer intention requires an even higher level of conscious awareness. In lucid dreaming, as in waking reality in order to work with outer intention you have to wake up.
 
-## The Game According to Your Rules
+### The Game According to Your Rules
 
 What can you do if you are attacked in a dream? There are four types of inner intention: flight, fight, awakening and realization. Opposition and retreat, in response to being attacked in a dream, are primitive forms of response generated by inner intention. If you are attacked in a dream and you fight back events will unfold in much the same way as they would in waking reality, i.e. in accordance with the standard model of behaviour. Your conscious mind already has a script for how the fight should end. If you are accustomed to losing, you will lose the fight and vice versa. Your dream will shift around the alternatives space in accordance with your script.
 
@@ -2065,7 +2067,7 @@ It is not easy to achieve a state of harmony between heart and mind once you ste
 
 Maximum awareness can be achieved as long as the inner Guardian is constantly present in your consciousness. The Guardian objectively evaluates what is happening and assesses in whose interests the game is being played. It makes sure that you will not get drawn into the game like a puppet. You have to remember to ask yourself every minute of the day: "Are you asleep or not?" so that it becomes an attitude. You can also practice lucid dreaming if you are unafraid to do so but the dream will come to an end and everyday reality will return. Surely it makes more sense to focus on developing conscious awareness and mindfulness in your everyday life. As you can now see, this alternative gives you the chance to furnish your life layer according to your own taste. It is your choice.
 
-## The Purification of Intention
+### The Purification of Intention
 
 Outer intention is a huge, unfathomable force. At the same time you can see how fluid and subtle it is. It is control and at the same time, the renunciation of control. It is the decision to have at the same time as the abandonment of the need to achieve. It is something unfamiliar to the mind. We are used to securing what we desire by setting an inner intention. We are used to thinking that if we have the right direct impact on the world it will respond immediately. The idea of inner intention is clear and straight forward. Even so, things do not always come that easily. You still have to make an effort, insist on your goals, struggle for what you want and fight your way forward. The method of Transurfing suggests that if you let go of launching an advance the world will offer its embrace. Obviously, such an unconventional approach is bound to leave the rational mind confused.
 
@@ -2103,7 +2105,7 @@ Imagining the scenario of defeat should be a one-time event. There is no point i
 
 Finally, letting go into outer intention does not necessarily mean completely rejecting your personal intentions, sitting at home with your arms folded waiting for harmony between heart and mind to magically appear. No-one is stopping you from achieving your goals in the usual way. Eliminating desire and importance has the same beneficial effect when applied to inner intention. It is just that now, the powerful force of outer intention can also work in your favour helping you achieve things you previously thought impossible.
 
-## SUMMARY
+### SUMMARY
 
 In conscious dreaming the mind controls the game script.
 
@@ -2165,15 +2167,15 @@ In order to reduce the importance associated with the goal the possibility of fa
 
 Once you have accepted the possibility of failure, do not think, just move in the direction of your goal.
 
----
+***
 
-# Chapter VIII. SLIDES
+## Chapter VIII. SLIDES
 
----
+***
 
 You Deserve the Best
 
-## Illusion
+### Illusion
 
 Transurfing suggests that we should be careful when tempted to interpret illusion as pure fantasy of the mind. Dreams, hallucinations, psychotic reality perception and even reality itself are all generally referred to as illusion. With the exception of psychosis, the perception of a different reality is more than just a fantasy of the mind. Dreams and hallucinations are experienced as a result of the soul's journeying through the alternatives space. Illusory perceptions of reality are often experienced when we glimpse other sectors of the information field that have not yet been streamed into the pathways of material reality; and finally, reality itself is no illusion. Anyone bold enough to claim that all they perceive is nothing more than an illusion, has too high an opinion of themselves.
 
@@ -2191,7 +2193,7 @@ As well as perceiving alternative realities, we are also capable of experiencing
 
 Of course the mind is capable of great imagination and fantasy but only within the relatively narrow limits of its accumulated experience. The mind can only construct a new model of a house from the bricks of a previous design. So where is the line between imagination and actual perception of another reality? It is a fine line that has no concrete boundaries, and yet this of no great relevance to the purpose of this book. What is important, however, is how our internal beliefs affect our perception of reality and how this reflects on a person's life. Next we will explore what lies at the root of a distorted perception of reality and how strongly this distortion can influence the shape of one's physical reality.
 
-## Distorting Reality
+### Distorting Reality
 
 No individual is capable of a totally objective perception of the world around them. It is like inserting a slide into a video projector. Uniform light passes through the film and is transformed into an image that becomes visible on the screen. Metaphorically speaking, the light represents the world around us; the slide represents our worldview, i.e. the model of our understanding of the world; and the image on the screen is our perception of things.
 
@@ -2223,7 +2225,7 @@ The behavioural pattern will continue until such time as the person stops ascrib
 
 All you have to do is insert a positive, coloured slide and you will see that it works just as flawlessly as a negative one. Focus on the most positive sides of your personality and people will perceive you in that light. This is the other positive aspect of slides which can and should be exploited.
 
-## Positive Slides
+### Positive Slides
 
 When you concentrate your attention on the unwanted parts of yourself that you would rather conceal or be rid of altogether you create a negative slide. The task in this case is to switch your attention to the qualities you do like about yourself and other attributes you would like to acquire. As we have shown previously, it is not possible to totally disguise your imperfections but if you want to you can easily emphasize and develop your strengths and virtues.
 
@@ -2249,7 +2251,7 @@ It might seem that positive slides are like rose-tinted glasses. Contrary to the
 
 There is no need to worry that the positive slide will skew your perception. In the majority of cases the element of inner control will make sure that any distortion is relatively minor. The distortion brought about by a positive slide will be beneficial, as long as you do not go to the extremes of imagining yourself to be a Napoleon. Everything should be approached in good measure, not forgetting the dangers of excess potential. In contrast, the distortion created by a negative slide can do immeasurable harm, but the fact of the distortion is not the primary issue. The main feature of a slide lies in that fact that outer intention will slowly transform it into physical reality.
 
-## Widening Your Comfort Zone
+### Widening Your Comfort Zone
 
 Are you filled with the ambitious desire to become a star or a millionaire? If so, can you give yourself permission to become one? Most people believe that fame, money and power are the privilege of the chosen few, but if this is the case, who chooses the chosen ones? Primarily, they chose themselves, and only later, is the choice confirmed by others. If you dream of something but cannot allow yourself to have the dream, it just will not happen.
 
@@ -2281,7 +2283,7 @@ There is no better example of the will to have than the new Russian billionaires
 
 On what basis did property that was previously common come to be owned by this elite group of individuals? This period in Russia's history is of course unique, but there were many other talented people around at the time, who ended up with nothing; so why these few? The individuals who finally reaped the resources, were the ones who gave themselves the permission to have. The newfound wealthy few suffered no feelings of guilt, qualms of conscience, doubt or sense of inferiority. They did not consider themselves in any way undeserving and it never occurred to them to feel guilty for shopping in expensive boutiques. They had the will to have and so dispassionate outer intention gave them what they wanted; and yet you would this approach implausible!
 
-## Visualising the Goal
+### Visualising the Goal
 
 The Transurfing methods proposed for reaching personal goals lie beyond the realms of common sense and conventional worldview. Of all known unconventional methods, visualising one's goals has most in common with the methods of Transurfing. Visualisation involves using the imagination to create a mental picture of a goal in as much detail as possible and carrying the picture in your mind.
 
@@ -2307,7 +2309,7 @@ Perseverance is essential only in the initial stages. Once visualising the slide
 
 If you think the slide represents the entire method of visualisation in Transurfing you are mistaken. Even a slide of the highest quality can take a long time to materialize, particularly if the goal lies in a fairly remote sector of the alternatives space in relation to your current life line. The process of reaching the goal however, can be quickened with the help of the Transurfing visualisation technique. Soon you will learn what this is.
 
-## Visualising the Process
+### Visualising the Process
 
 Let us practice this task a little and imagine that your main goal is to get rich. In an attempt to reach this goal you practice visualising a suitcase stuffed full of notes. You do the exercise according to all the rules of the third visualisation type over a relatively long period of time. What will the result be from this practice and when will it show itself?
 
@@ -2343,7 +2345,7 @@ Do not worry if you do not yet know how your goal can be realized. Continue to v
 
 The method does not stop at visualising the process either. The material realisation of the alternatives space is inert, like resin, which is why, unless you have a messiah's mastery of outer intention, the transition has to occur gradually. Gradually not only means continually but also progressively. Herein lies the secret of another aspect of visualisation in Transurfing.
 
-## Transfer Chains
+### Transfer Chains
 
 If the realization of your personal goal lies in life lines which are quite distant from your current coordinates it is practically impossible to attune your energy to these life lines directly. For example, if you are intending to sit an exam but have absolutely no knowledge of the relevant subject matter you cannot attune your energy to a life line in which you pass the exam with flying colours. If you know nothing about the relevant subject you will not be able to visualise your answer to a single question.
 
@@ -2367,7 +2369,7 @@ Here I would like to add a few more words about signs. If you interpret a sign w
 
 It remains only to clarify the place the third type of visualisation has in Transurfing and whether it is worth practicing goal-based visualisation techniques. The answer is unequivocal. It is essential to practice goal-based visualisation in any form that is convenient. The goal should be held in the mind in the form of a slide which helps widen the limits of the comfort zone and attune the frequency of your thought energy to the target lifeline. This is the sole function of third type visualisation. In contrast, the physical shift to a target life line is accomplished by the workhorse of Transurfing, i.e. visualisation of the process of moving towards the goal. By visualising the process you unite your personal, inner intention with outer intention.
 
-## SUMMARY
+### SUMMARY
 
 Illusions are not the result of fantasy but the perception of a different reality.
 
@@ -2417,15 +2419,15 @@ If it is not clear to you how to achieve your goal, focus on visualising the sli
 
 The slide will take you in the necessary direction.
 
----
+***
 
-# Chapter IX. THE HEART AND MIND
+## Chapter IX. THE HEART AND MIND
 
----
+***
 
 The soul comes into the world reaching out trustingly with a child's arms.
 
-## The Wind of Intention
+### The Wind of Intention
 
 Everyone is born an individual, unique creature that later develops a personality. Thoughts, knowledge, convictions, habits, even character, gradually build up like layers of plaque. These parts of the self obviously do not come out of nowhere and yet what is there of us originally? Could we all really have begun as a completely clean sheet? Just try for a moment being a completely clean sheet. Close your eyes and stop the mental chatter. If you contemplate the blackness you will manage not to think for a short period of time. For a moment your mind will be completely empty and yet you do not stop being yourself in this moment. The activity of the mind is temporarily halted but a sense of the integrity of the self remains.
 
@@ -2457,7 +2459,7 @@ The principle of the loophole is relatively simple. The mind has will but is not
 
 Creating a harmonious connection between heart and mind is a difficult but nonetheless realistically achievable task. As we saw earlier, the effect of outer intention is quite tangible when it comes to working against the will of the conscious mind and materialising our worst expectations. What we need to do now is to understand how our best expectations can also be realized. In the chapter on 'Intention' we defined the key conditions for mastering outer intention: awareness, reducing importance, and letting go of the goal. Soon you will discover new secrets of Transurfing which will open more doors onto the mysterious world of outer intention.
 
-## The Heart's Sail
+### The Heart's Sail
 
 People generally tend to interpret themselves and other physical phenomena in the world as essentially material objects. Yet all material objects have one informational and energetic essence in common which defies conventional perception. It is this essence that directs the behaviour of material realization in the alternatives space. The language of abstract symbols we are used to referring to is only sufficient to describe the outer manifestations of this informational and energetic essence. The original essence itself cannot be unambiguously described using the language of the mind, hence the magnitude of philosophical and religious movements that have attempted to do so.
 
@@ -2489,7 +2491,7 @@ Due to colossal intellectual effort the mind has achieved outstanding success in
 
 The difficulty is that the heart, unlike the mind does not think; it knows. While the mind considers the information it receives passing it through the analytical filter of the template worldview, the heart receives knowledge from the information field directly, without subjecting it to analysis, and communicates with outer intention in the same manner. In order to make this communication more focused there has to be agreement between the will of the mind and the strivings of the heart. Union between heart and mind is essential. If you can achieve this connection your heart's sail will fill up with the wind of outer intention and carry you directly to your goal.
 
-## The Wizard Within
+### The Wizard Within
 
 Your heart already has everything you need to know to realize your desires. Do you remember the story about the Wizard of Oz? The clever Tin Man dreams of having a brain, the kind Scarecrow longs for a heart, the brave lion strives to acquire courage and the girl Ellie wants to go home. All the characters already have the things they desire but if Goodwin the Wizard tells them so it will sound too implausible to be true and so he creates a magic ritual instead.
 
@@ -2529,7 +2531,7 @@ The creature that hides behind many different masks and costumes is imbued with 
 
 If you admire the geniuses of the art world, science or cinema, know that you too can join their ranks. The reason the work of a genius appeals to you so much is because these creative works are born of the heart. What you choose to create will please others just the same, as long as it originates from the uniqueness of your soul. Everything that is ordinary and mediocre is created by the mind. There is nothing unsurpassable about the mind or its creations. You carry a real treasure within you; for the heart is unique. Only the heart can produce an ingenious creation. Make sure the mind allows it to do so.
 
-## The Mirage
+### The Mirage
 
 All their lives people are forced to believe that success, wealth and fame only befall the chosen few. At university, in tournaments, competitions and similar events people are constantly made to understand that they are far from perfect and that other people are better and more deserving than they are. The ones who achieve success, wealth and fame in abundance are the ones who do not buy into the deception. It is that simple. It might be difficult to believe that everyone deserves these things and is capable of achieving them, but you can begin to believe it if this is your intention.
 
@@ -2573,7 +2575,7 @@ Watch out that you do not get caught up on another pendulum hook by being provok
 
 There is a law in the world of pendulums which has it that only the occasional few may become a favourite and everyone else must fulfil the function of ordinary adherents and observe the rules of the system. Transurfing cannot get rid of this law but it can help you personally to break away from it. Then if you make the most of the unique qualities of your soul the pendulums will be obliged to include you among their favourites.
 
-## Guardian Angels
+### Guardian Angels
 
 Many people believe that they have a Guardian Angel who helps them. If you believe in your personal Guardian Angel that is wonderful because it means that it exists. When you think about you Guardian Angel, turn to it with confidence and are grateful and you can be sure that these thoughts make your Angel real. There is nothing that cannot exist in the alternatives space. You may even believe that thoughts can create an independent informational energetic being if it pleases you to do so. The more sincerely you love your Angel and express your gratitude for any small thing it helps you with, the stronger the little Angel will become and the more it will support you. Ultimately, it does not really matter whether the Angel exists independently or whether it is created by your thoughts.
 
@@ -2593,7 +2595,7 @@ Consider your success to be your Angel's merit. What will happen if you do? The 
 
 It is better to give the reward and thanks to your Angel than create the excess potential associated with pride, or express your gratitude to a pendulum that has bestowed a little joy upon you. Your Angel needs your energy but it will not ask you for it. If you think you have received help from a pendulum there is no harm in thanking the pendulum too but be aware that the pendulum will always automatically receive a portion of your energy because with a pendulum there is no such thing as a free lunch, ever. Whatever you do, do not neglect your Angel. Remind your Angel constantly that you love it and are grateful to it. It will become stronger as a result and reward you handsomely.
 
-## A Soul Box
+### A Soul Box
 
 Your soul came into the world wide eyed, full of hope and trust but the pendulums promptly picked it up and assured it that no one had been waiting to meet it, no-one was particularly pleased to see it and that it will be expected to do hard, dirty work just to earn a small crust of bread. Of course, not everyone is born into poverty but the wealthy have their problems too, just of a different kind. In the world of pendulums the wealthy suffer no less than the poor.
 
@@ -2629,7 +2631,7 @@ Change your relationship to whatever threw you off balance in the first place. T
 
 The game is harsh and relies on human weakness. The moment you give any slack to importance you lose. If you keep importance at zero the pendulums fall through your emptiness and the clay golem disintegrates. You will source strength in the awareness that you understand the rules of the game. As soon as you notice that a pendulum is trying to hook into you and knock you off balance have a chuckle to yourself and adamantly reduce the level of importance. Gradually, this will become a habit and when it does you will feel your strength and understand that you can determine the script yourself. By winning the pendulum game you beget freedom of choice.
 
-## Fraile
+### Fraile
 
 Until now we have been talking about how sectors of the alternatives space have specific characteristics or parameters. For the sake of simplicity we agreed to consider these characteristics frequencies. If when there is unity between heart and mind, the frequency of your thought energy corresponds to the frequency of a sector in the alternatives space, the power of outer intention will facilitate your transition to that same sector. In other words, the scripts and scenery of the sector in question will become materialized in the layer of your physical world.
 
@@ -2667,7 +2669,7 @@ One of the commandments says: "Love your neighbour as yourself". For some reason
 
 There is no need to set out in search of the Holy Grail somewhere in the depths of the jungle. The Holy Grail is within you. It is the fraile of your soul.
 
-## Unity of Heart and Mind
+### Unity of Heart and Mind
 
 The heart comes into the world trustingly reaching out with a child's arms. Then it discovers that pendulums have conquered the world and transformed it into a jungle. Pendulums immediately try and convince the heart that no-one was expecting it and that in this world everyone has to fight for a place under the sun and pay tribute to the pendulums. The naïve, direct heart must be put in its place straight away. The heart is told that no-one is interested in her desires, that there is more suffering than happiness in the world, that holidays are only held on prearranged dates and that it will have to work extremely hard just to earn a crust of bread. That is it. The heart is crestfallen. The eyes well up with tears of despair or the heart is increasingly indignant. That's not right, it's not fair! The hackles are up and it looks as if the only choice is to plod dejectedly along a path enforced by pendulums or scratch away desperately in an attempt to pursue one's own goals.
 
@@ -2733,7 +2735,7 @@ If the goal is chosen correctly the heart and mind will both be satisfied. The f
 
 I repeat: when considering your goal, don't think about how prestigious it is or how achievable it is, or how exactly you might achieve it; the only thing you should pay any attention to is how comfortable it makes you feel. Does thinking about it make you feel good or bad? This is the only thing that matters; otherwise you may end up confusing feelings of inhibition with feelings of inner tension. When faced with a challenging or unfamiliar situation it is natural to experience some reluctance, inhibition or shyness. You may wonder: "Can all this really be for me?", whereas gut feelings and inner tension are associated with dejection, chore, oppressive responsibility, despondency, apprehension and painful anxiety. If creating slides does not ease feelings of inhibition then what you are experiencing is clearly a negative gut feeling of inner tension. In this case you should be totally honest with yourself and decide whether the goal really is that essential after all.
 
-## Sound Bite Slides
+### Sound Bite Slides
 
 Human perception can be divided into three main types: auditory, visual and kinetic. Some people can better operate with visual images, others are more sensitive to sensation and the third group is particularly receptive to sound. Until now we have talked about creating slides with a preference for visual and sensory objects.
 
@@ -2757,7 +2759,7 @@ Nothing can be achieved by the mind pressuring the heart. Neither can you genera
 
 As you can see, an affirmation represents a kind of sound slide. You can use affirmations and film slides and of course, they are additionally effective when integrated into the same practice. Here is an example of an integrated slide. It contains a picture of your new home. You are sitting beside an open fire, in a creaking rocking chair with the logs in the fire happily spitting and crackling away. It is so nice to sit and watch the fire! You can hear the sound of the rain outside where a cold wind blows but you are warm and cosy beside the fire. You have your favourite treat on a small table beside you and there is an interesting film on television. You see, hear and sense the whole scene and say to yourself: "I feel comfortable". You are not simply watching the slide; you are living it.
 
-## A Window onto the Alternatives Space
+### A Window onto the Alternatives Space
 
 People always have controlled and uncontrolled thoughts running through their mind. Some people refer to this as the inner dialogue but in essence it is not a dialogue but a monologue because the mind really has no-one else to chat to aside from itself. The heart is not capable of thinking and talking; it only feels and knows. The inner dialogue is loud in comparison to the silent sensations of the heart and so intuition manifests itself very rarely and is barely noticeable. Some people believe that if you can quiet the inner monologue, the mind will give you access to intuitive information. This is true, but it is not possible to switch the monologue off totally when you are in a conscious state. Imagine that you have concentrated on being still and have managed to relax the flow of thoughts and words. You may have no apparent thoughts, experiencing the emptiness within, but this does not mean that the monologue has been silenced. The mind is not asleep; quite the opposite in fact. It is very alert because its task has changed. It must not think or chatter. It is as if the mind is saying: "Ok. I'll be quiet. We'll see how you get along without me." That the monologue appears to have been silenced is an illusion. The inner monologue can only be truly quieted when the mind relinquishes its control or at least relaxes its vigilance. When the monologue only appears to have been stopped the mind is still on the look-out and you could say drowns out the feelings of the heart even more with its very deafening 'silence'.
 
@@ -2795,7 +2797,7 @@ How is this done? Rather than simply being untuited the premonition must be inte
 
 You might think that you can create the same effect by running a slide lying in bed before you fall asleep. You would think that the slide would gradually slip into a dream and the heart and mind would be united; yet as strange as it may seem, this approach does not work. I will explain why in the next section. Before I do though, see if you can answer the question: why is there no point in trying to run a slide in your sleep?
 
-## The Frame
+### The Frame
 
 A transitional zone exists between the moment in which we have an intuitive premonition of an event and the actual event as it is shaped by outer intention. In other words, when you intuitively sense that a certain event is going to happen, your thoughts brush across it without thinking. Then, ordinarily, the event is later materialized, particularly if the mind agrees with the heart's premonition. It makes you wonder whether you simply had a premonition that the event was going to happen, or whether your subconscious thoughts actually induced the event working in a similar way to outer intention.
 
@@ -2833,7 +2835,7 @@ If you find the frame technique very difficult to work with, do not worry. Leave
 
 In any case, it is very useful to acquire the habit of being attentive to the window. If you can learn to catch the open window moment you will begin to have intuitive insights more often.
 
-## SUMMARY
+### SUMMARY
 
 The mind has will but is incapable of feeling outer intention.
 
@@ -2911,15 +2913,15 @@ When the will to have is free of the desire to have the pendulum has nothing to 
 
 You calmly take what is yours without insistence, just like you take the post from your letter box.
 
----
+***
 
-# Chapter X. GOALS AND DOORS
+## Chapter X. GOALS AND DOORS
 
----
+***
 
 By breaking through stereotypes, You open doors.
 
-## How to Choose Your Own Things
+### How to Choose Your Own Things
 
 In this chapter we will talk about how to discern the true strivings of the soul from the false goals pendulums are everywhere trying to impose upon us. The problem is that a false goal, however attractive it may seem, ultimately will not bring you anything but disappointment. When you chase after a false goal you either achieve nothing, your efforts simply providing feed for pendulums, or, having you achieve the goal but discover it was not really what you wanted after all. Is it really worth missing the unique opportunity of this life spending valuable time correcting your mistakes? Despite the fact that a lifespan seems a long time it passes quickly and unnoticeably and so it is essential that you learn to find the things that bring you personal happiness.
 
@@ -2965,7 +2967,7 @@ This technique will not work if you are choosing clothes for someone else, for a
 
 Of course, this technique does not only apply to clothes but to any other case where you have to choose something for yourself. I would very much like to hope that the book you are holding in your hands is 'yours'.
 
-## How to Become a Trendsetter
+### How to Become a Trendsetter
 
 Do you ever want to become a trendsetter? Previously, you had to watch how others dressed and try to keep up with the fashion, but did you ever ask yourself who created fashion? Fashions already exist before they reach the salons of the leading couturiers. New trends are created by people who are relatively free from pendulums. They are ruled by their own independent judgements and preferences. They dress by listening to their heart and hit the mark. Then their idea is noticed, picked up on by others and begins to spread spontaneously. This is how they begin to dictate fashion.
 
@@ -2991,7 +2993,7 @@ In other words, the mind has to include one simple truth into its list of refere
 
 Unity of heart and mind is such a rarity that you can literally sell at a huge profit. All great achievements of art and culture are an expression of this unity. Stars become stars only because people are interested in what is missing from their own lives – unity of heart and mind.
 
-## Other People's Goals
+### Other People's Goals
 
 Until now we have looked at the outside world as an alternatives space with sectors linked together in life lines. If the parameters of a person's thought energy correspond to the energy of a given sector that sector is then transformed into physical reality through the process of material realization. On an energetic level the individual also represents a unique essence imbued with its own inimitable spectrum of emission. There is a life line in the alternatives space that matches every individual's fraile perfectly.
 
@@ -3033,7 +3035,7 @@ You might ask: "How can I discover what I really want if I do not already know w
 
 What if you find there is nothing you really want? If you look inside yourself and have no sense of an innermost desire this suggests that your life force is depleted. Depression and apathy is a clear sign that your current energy levels are only sufficient to support your basic existence. In this case you should focus on increasing your energy reserves. It is not possible for your heart to have no desires but you do have to have the strength to hear it.
 
-## Breaking Through Stereotypes
+### Breaking Through Stereotypes
 
 Despite the fact that we have said a lot about pendulums already I would like to introduce some new examples of how they can knock you off track. Ask yourself whether a pendulum is imposing a foreign goal on you under the guise of some noble pretext. For example, an appeal is being made to "kind souls" to help protect defenceless animals, injured soldiers, starving children or other vulnerable groups. Or perhaps someone somewhere is fighting for their freedom and they need your courageous heart. The kind soul flies off there and then to wherever it is needed.
 
@@ -3079,7 +3081,7 @@ A person suffering from a feeling of inferiority is easily led by the nose. Rath
 
 May your mind awake from its heavy apparition to see that it has a wonderful priceless treasure in the heart. By uniting the heart and mind you acquire true freedom and strength. Do not be afraid to break through stereotypes created by pendulums; if you do, you will discover the true nature of many things in the world. Breaking through stereotypes you open locked doors.
 
-## Your Goals
+### Your Goals
 
 I suspect that you already have an innermost goal and at least a rough idea of how to achieve it. It does not really matter though if you cannot yet see how to make your dream a reality. If you have the will a way will present itself. The important thing is to define your innermost desire and acquire the will to have and act with intent. Intention transforms desire into a concrete goal. Without intention a desire can never be fulfilled. First of all however, you have to be distinctly aware of what you want in life. Obscure wording such as "I want to be rich and happy" will not work.
 
@@ -3141,7 +3143,7 @@ So finally, you will have succeeded in resisting the temptation of obsessing abo
 
 Your chest will breathe freely having freed yourself from the burden of false goals. You will be no longer feel that you have to force yourself to do things your heart does not feel drawn towards. You will give yourself permission to be happy right here, right now having abandoned the struggle for an illusory happiness that only exists in the future. The mind will let the heart out of its box and discover the wonderful feeling of lightness and freedom that comes with the onset of spring after a long hibernation instead of trying desperately to fill the spiritual emptiness with cheap pendulum surrogates. The onerous feelings of depression and strain will be gone. It is much more pleasurable, is it not, to head towards your own goal knowing that it comes from within you than to search in vain for your goal in the outside world. Your mind will have rid itself of useless junk and things that belong to others. It will abandon the futile search for the means and simply launch the necessary task into the layer of your world. The heart will choose its own toy and jump up and down clapping its hands in delight. You will have broken through the conditioned stereotype giving yourself permission to have, despite the seeming unattainability of the goal. As a result, doors will fly open before you that previously had been closed. The mind will at last have accepted the idea that the goal can be realistically achieved. Life will be transformed into an ongoing holiday. The heart will skip joyfully after the mind. The heart and mind will walk hand in hand together along the smooth, cheery road to the kind of happiness that exists right here, right now.
 
-## Your Doors
+### Your Doors
 
 If on the path towards your goal you find yourself constantly with obstacles it suggests that either you have chosen a foreign goal or that you have set off through a foreign door. The only thing in life that is genuinely important is the process of defining your own goal and finding your own door. You can spend your entire life working and yet achieving nothing because it is not the right goal for you. Nothing is more disappointing than finally coming to the realisation that your efforts were all in vain and life has not worked out the way you dreamed it would.
 
@@ -3197,7 +3199,7 @@ As a rule, private individual doors do not have a crowd of people hustling aroun
 
 Even a door meant for you personally will close if you crudely contradict the law of balance by giving it too much importance or putting all your eggs in one basket. Yet if you reduce importance the door will reopen. We will return to this idea at the end of the chapter.
 
-## Intention
+### Intention
 
 I believe that if you have taken the time to choose the goal and door for you it shows that you have intention. Intention is what transforms a desire into a goal. Without intention, desires are never realized and dreams do not come true. A goal is different to a dream in the same way that intention is different to desire. When you have intent your dream becomes a specific goal. Empty dreams and castles in the air will not change anything in life. Only intention i.e. the will to have and act can change your life.
 
@@ -3221,7 +3223,7 @@ I wish to warn you against making a major mistake. There is one more false stere
 
 You do not need to include any scenarios in your target slide that depict you in the act of achieving your goal. The target slide must simply depict a final picture of what life looks like to you once the goal has already been achieved as if you already have it. All that is required is that you take pleasure in watching the slide and that you put one foot in front of the other with the help of purified inner intention. Visualisation of the process involves working on the scenery but in a completely different way. You convince the mind not that everything will go smoothly but that everything is already going smoothly. Visualisation of the current link in the transfer chain should keep pace with what you are doing now and what you will be doing just one step ahead of that. In convincing yourself that everything will come to favourable fruition you continue to hold the deadly grip of control. Relax the grip. Do not think about problems that have not happened yet; just go calmly with the alternatives flow.
 
-## Realization
+### Realization
 
 I walked on the wet pavement…
 
@@ -3281,7 +3283,7 @@ The fairytale confirms the idea that if you find your own happiness first you ca
 
 For now, whilst you are only on the path to your goal you should put your own happiness first. Then you will avoid frightening your heart away from the goal. On the path to your goal allow your heart to think only of itself. Once you have achieved your goal you can afford your altruistic mind as much freedom as it desires in looking after your loved ones, nature, homeless animals, starving children and whoever else you feel drawn to help.
 
-## Inspiration
+### Inspiration
 
 Once on the path to your goal through the right door you will be racing the crest of the wave of good fortune. You will radiate harmonious energy because of the feeling of ease that has entered your heart. We have already talked about transmission in the chapter on the wave of fortune and how to drum up and maintain an emotional high. It can be quite difficult to maintain this feeling consistently but once you are experiencing the joy and peace that comes from unity of heart and mind, the quality of energy radiating from you will adjust itself. Everything will start to pick up. Various problems will find a way of disappearing and inspiration will visit you often provided you do not try to evoke the feeling intentionally.
 
@@ -3313,7 +3315,7 @@ So, let us suppose that you have observed these three conditions. All that is le
 
 So this is the scene you end up with. You set the table for yourself, light the candles for yourself, make yourself comfortable and begin drinking tea for your own pleasure without waiting for anyone else to arrive. You can be certain that the whimsical muse will be affected by your display of indifference wondering how you could have forgotten about her. She will appear and instantly fall in beside you. That is the secret.
 
-## Reviving the Goal
+### Reviving the Goal
 
 What should you do if you have set about achieving someone else's goal but do not want to abandon it? Can a foreign goal be achieved? Indeed it can. Armed with the Transurfing method you will have a huge advantage in comparison to those who do not know the rules of the game in the pendulum world. However, achieving a foreign goal requires considerably more effort and you should be aware of this fact. On the path to achieving a foreign goal you should allow yourself to be guided by the same principles described for following your own goal. The only difference being that all these principles have to be followed with the utmost impeccability. That is all that remains to say on the subject of achieving a foreign goal.
 
@@ -3347,7 +3349,7 @@ You inevitably ask yourself whether it is worth listening to the advisors and ma
 
 As you can see, the only excuse in the process of choosing your destiny is the fact that not all goals and doors in the alternatives space are truly meant for you. This does not mean however, that you cannot choose them. Nothing prohibits you from making such a choice but you can expect to encounter problems as a result. Do you really need that? When you choose foreign goals and doors you are taking the path of greatest resistance. The whole beauty of the freedom of choice lies in the fact that personal goals and doors appear to the individual to be so much better than any other. But in order to indulge in freedom of choice you have to free yourself from the influence of pendulums that impose foreign goals and doors.
 
-## SUMMARY
+### SUMMARY
 
 A foreign goal is always punishing, coerced and feels like an obligation.
 
@@ -3397,17 +3399,17 @@ Do not slam any doors or burn any bridges.
 
 Do not allow yourself to be influenced by others. Trust yourself.
 
----
+***
 
-# Chapter XI. ENERGY
+## Chapter XI. ENERGY
 
----
+***
 
 You do not have to fight for your health or store up energy.
 
 Simply let it in.
 
-## Energy Levels
+### Energy Levels
 
 To practice Transurfing effectively you have to be in a good state of health and have a relatively powerful energy field. You may think that your health is quite good as it is but not really know what true health feels like. If you struggle to get out of bed in the morning and do not want to go to work or university; if you feel sluggish after lunch and find yourself nodding off, and in the evening wish for nothing better then to plonk yourself down in front of the television, you cannot say that you are in good health. If this describes your lifestyle, your energy levels are clearly only sufficient to support a measured existence.
 
@@ -3429,7 +3431,7 @@ Free energy plays the most important role in assuring a person has a proactive a
 
 Physiological energy is spent in the physical execution of our actions. Here we will focus primarily on the first type of energy that goes into creating intention. This is in effect the energy of intention and it is thanks to this energy that we experience the motivation to have and act.
 
-## Stress and Relaxation
+### Stress and Relaxation
 
 When a person is depressed or tense their central meridians become blocked. The meridians narrow and the circulation of free energy either slows down or stops altogether. In this state intention loses its energy supply. When intention is blocked a person usually becomes incapable of dealing with stressful situations effectively. Stress can also have the opposite effect on the meridians making them suddenly dilate. When this happens a person is capable of doing incredible things that ordinarily they would never be capable of doing. There are known examples of this although they are rare. In the majority of cases a person's abilities and resources are severely reduced when the body experiences high levels of stress.
 
@@ -3451,7 +3453,7 @@ For the practice of Transurfing you have to be able to swiftly induce a relaxed 
 
 The whole procedure of inducing a relaxed state consists in the following. Without hurrying quickly scan your body with your inner eye and release any contraction. Focus your attention on the entire surface of your body in one go. Imagine that your skin is a membrane that suddenly and rapidly warms through from the inside out. Focus your attention on the surface of your body. Imagine this stage in any way you like: your skin is warming up, covered in a tingling sensation or electrical discharge. The important thing is to feel your skin. Now imagine that energy is sparkling all over the surface of your body like iridescence on a soap bubble. In this moment you are a part of the Universe and are in perfect balance with it. There is no need to try and simulate any special sensation. Everyone experiences these things differently. There is no need to try at all in fact. Do the exercise as if in passing but decisively nonetheless. The integral feeling you experience when you feel the entire surface of your body overflowing with energy is equivalent to a state of relaxation, balance and oneness with the world. After you have practiced the exercise a few times you will begin to achieve this state instantly and soon, inducing a relaxed state will be as easy as folding your arms.
 
-## Energy Vampires
+### Energy Vampires
 
 We are all swimming in an ocean of energy. But accessing this energy is not that simple because it is not differentially distributed in relation to man. To consciously access this energy a person has to intentionally widen their meridians and consciously draw the flow into the body. You drink water consciously and intentionally but are unable to draw in energy with the same clarity of sensation. People are in principle capable of intentionally "recharging" from the Cosmos but this ability remains limited to its embryonic stage.
 
@@ -3473,7 +3475,7 @@ There is no need to start looking out for potential energy vampires in everyone 
 
 A developed awareness will help you to remain conscious in the moment that someone tries to pull you into a game or a trap. Maintaining a low importance level makes it much harder for someone to attune to your frequency. You should also remain very aware of any feelings of guilt that might plague you. Whilst I am empty there is nothing for anyone to hook into. Most manipulator vampires will leave you alone if they have made one or two unsuccessful attempts to hook into you to no avail, and a strong auric field will provide you with reliable protection from any unwanted interference.
 
-## The Protective Shield
+### The Protective Shield
 
 The human body is surrounded by an invisible energy field called an aura. The average person is not aware of feeling their aura but they can imagine it. To sense your aura feel the surface of your whole body like you do when you slide into a hot bath. Notice that I did not say: 'try to feel the surface of your body'. Just do it. When you dive straight in and do not assume that you must first try to do something before it will work, you will find that you can do it first time around and do not have to practice. Energy moves in a slow wave from the centre of your body and then spills over onto the surface forming a ball. Imagine being surrounded by the ball of your energy body. It does not matter that you cannot physically touch it. With your imagination alone you have taken the first step towards managing your energy body and with time you will begin to get a physical sense of it.
 
@@ -3489,7 +3491,7 @@ This is energy training. By joining the currents into a sphere you create a prot
 
 You should be aware that of itself your energy body will not protect you from vampires and pendulums because the freeloaders pump energy by adjusting their settings to your frequency. When a pendulum tries to hook into its prey the victim's state of balance is undermined. In this moment, you have to wake up and reduce importance if you are to defeat the pendulum. Then the muscles will relax, your energy levels will be restored to a state of balance and the pendulum will fall through into emptiness. If you are not swaying the swaying pendulum cannot take your energy. Conscious awareness is essential if you are to develop control in moments when you involuntarily lose your inner balance.
 
-## Increasing Your Energy Levels
+### Increasing Your Energy Levels
 
 Increasing your energy levels does not involve accumulating large reserves of energy. This might sound a little strange because we are so used to popular phrases such as: "I do not have enough energy" or "I am full of energy". Only physiological energy can be stored. All you have to do is eat good food and get enough rest and the energy is stored as calories. However, the human body has no way of storing free energy which is takes from the Cosmos. If a person's meridians are wide enough they will run free energy but if they are narrow, the flow of energy will be impaired. So, high energy levels first and foremost depend on the width of the meridians.
 
@@ -3531,7 +3533,7 @@ When you are waiting for a very important meeting, abandon importance and activa
 
 By drawing free energy towards you and letting it pass through your energy body you make the same energy available to others. They will be able to feel it on a subconscious level and without being aware of the reason they will feel well-disposed towards you. The secret of your charm will be a mystery to them.
 
-## The Energy of Intention
+### The Energy of Intention
 
 As we said at the beginning, energy enters the human body in the form of central currents of energy flow which are programmed by a person's thoughts and on exiting the body adopt the same parameters as that person's thoughts. The programmed energy builds up in the corresponding sector of the alternatives space which causes that reality alternative to be realized materially. The programming is appropriate only if the heart and mind are one, otherwise the thought energy is like radio frequency interference.
 
@@ -3543,7 +3545,7 @@ You need to have some initial intention to increase the energy of intention. The
 
 Do not forget, that the intention to improve your biofield must be purified of importance and desire potentials. Diligence and gusto in the attempt to enhance the energy flow will cause the reverse and create a block. Intention relies on focus, not gusto. It is only by focusing on the process that you achieve the desired result. Performing the exercises with maximum effort is a waste of time and energy if the mind is busy dreaming of something else whilst you are doing them. Loosen the grip of diligence and focus on action.
 
-## The Step of Intention
+### The Step of Intention
 
 Imagine an average newborn brought into a society where people age very slowly and live to the age of around three hundred years old. How long do you think the child will live for? What I am trying to say is that from birth people are taught the standard script that health deteriorates with age, the body withers and in the end, we all die which can undoubtedly be explained by standard physiological causes.
 
@@ -3577,7 +3579,7 @@ Attempts made by representatives of the fairer sex to lose weight are a perfect 
 
 The only conclusion worth drawing is that if you want to be healthy and beautiful you have to change your lifestyle. This means giving up old habits and acquiring new ones, not from necessity but from a place of conviction. You must have strong motivation and intention and your intention must be pure. You cannot hope to radiate energy at the frequency of healthy life lines or to transition to these life lines if you do the same as you have always done. It is not as difficult as it might seem to make a change in lifestyle. Changing old habits is a matter of intention and time, and not much time at that. The choice is yours.
 
-## Illness Pendulums
+### Illness Pendulums
 
 Everyone has been ill as some point in their life. Being ill usually brings a mass of problems and anxieties with it making one prone to negative thoughts and emotions. This energy then emanates through your personal space providing fertile soil for the development of pendulum related illnesses that absorb negative energy so efficiently.
 
@@ -3605,7 +3607,7 @@ By parting with illness pendulums you become completely free, but the freedom do
 
 Obviously if a person consistently takes good care of themselves they will radiate energy at the frequency of healthy life lines and be far too busy to have anything to do with illness. You can see that there are two completely contrasting life styles: one based on healing illness and the other on looking after your health. Clearly, in relation to ill-health the first relates to inner intention and the second to outer intention. Which lifestyle you will live is entirely your choice.
 
-## SUMMARY
+### SUMMARY
 
 Physiological energy is spent on the execution of physical action.
 
@@ -3639,15 +3641,15 @@ During the exercises pay attention to the central meridians.
 
 Intention lies in focused concentration not gusto and diligence.
 
----
+***
 
-# Chapter XII. FRAILING
+## Chapter XII. FRAILING
 
----
+***
 
 Abandon the intention of receiving; replace it with the intention of giving, and you will receive the very thing you gave up.
 
-## Intention in Relationships
+### Intention in Relationships
 
 We tend to measure our success in life on the one hand by the level of our achievements and on the other, by the volume of problems we have amassed. Transurfing helps us not to fight problems and rather than how to solve them, how to avoid coming up against them in the first place. In the context of Transurfing, our goals are also achieved in an uncommon way with the help of outer intention. One way or another, all our problems and achievements are born of our relationships with other people, personal and professional.
 
@@ -3721,7 +3723,7 @@ An even more effective way of influencing other people is to try and induce thei
 
 You can issue a challenge to a group as well as an individual in the form of: "So, who among you is the best?" If you are playing on feelings of professional honour then the challenge may sound: "Let's not lose face!" You can also appeal to inner importance: "Let's show them what we are made of!" If a person accepts the challenge in the context of their self-worth they will carry out your will as if it were their own and you will have their commitment precisely because you have abandoned your own inner intention and paid attention to that of another. Work with other peoples' inner intention, not your own.
 
-## The Flow of Relationships
+### The Flow of Relationships
 
 Most people or companies produce some kind of product for consumption. So, how do you motivate consumers to want to buy your product? If you think they will choose yours simply because it is such a fantastic product you are sadly mistaken. A typical mistake people make when they are directed by inner intention is to assume the standpoint that: "People are bound to buy our product because ours is a masterpiece".
 
@@ -3789,7 +3791,7 @@ Given the nature of the environment we live in, you can become a real treasure f
 
 No-one will say these words aloud and they may not even say them to themselves but this is what their subconscious feeling would sound like if it could be expressed. Imagine the gold that lies at your feet. People are usually so anxious and burdened with importance that they wander around failing to notice the nuggets lying right under their noses. You have a huge advantage: mindfulness, the absence of importance as well as the willingness to give others your attention. Make the most of your advantage and you will see gold where others can only see stones.
 
-## Attuning to Fraile
+### Attuning to Fraile
 
 When people communicate with each other they tend to make adjustments and allowances to take account of the character, temperament, intellectual level, manners etc of the person they are talking to. If two people cannot adjust to each other's differences they will not achieve a level of mutual understanding and any communication between them will be no more than empty words and hot air. You cannot achieve mutual understanding without attuning to the frequency of your partner.
 
@@ -3839,7 +3841,7 @@ Being in love is of course the most perfect way of attuning to another's fraile.
 
 So here I have roughly described the principles of frailing. The way I have described relationships as those directed by intention and those that go with the flow is purely relative. Relationships that go with the flow can be examined from the position of intention and vice versa. In the end it is all down to frailing. You attune to your partner's frequency; you both turn in the same way; you act in that person's interests moving in the same direction and as a result, you achieve something you could never have achieved via the standard methods of inner intention.
 
-## Energy in Relationships
+### Energy in Relationships
 
 In the chapter "pendulums" I talked about the benefit of visualisation. Just to remind you, the essence of visualisation is the following: Let us suppose that someone is causing you a problem, annoying you or even attacking you. Or perhaps the situation is the opposite and you need something from someone. If this is the case, you need to roughly determine what is driving that person; what is eating at them and what they are lacking: health, confidence, inner calm? Everyone has something that eats away at them, even if it is something relatively small and niggling, especially if that person is causing you problems or it may be you causing them a problem! Now imagine a situation in which that person receives exactly what they need.
 
@@ -3865,7 +3867,7 @@ When talking to a person one to one you can mentally launch a beneficial visuali
 
 A favourable visualisation is an effective and tolerant means of attuning to the frequency of the person you are conversing with. Energy vampires attune to fraile by pulling on painful strings or invading your soul space. Unlike energy vampires you are not 'pawing' at the other person's fraile or draining their energy. They will appreciate it and be grateful to you.
 
-## Pardon
+### Pardon
 
 If you know you have shortcomings that could hinder you from achieving your goal or think that you lack the necessary knowledge and skills accept it. Accept yourself just the way you are. Allow yourself the luxury of having shortcomings and lacking the necessary qualities. This will help and give you a sense of relief and inner calm. If you try to hide the fact that you lack the necessary qualities and conceal your shortcomings they will undoubtedly show themselves at a critical moment.
 
@@ -3881,7 +3883,7 @@ The battle with your own shortcomings is the work of inner intention. It is the 
 
 There is a grain of truth in the saying: "What the eye fears, the hands do". What is better, to be tortured by doubt, to wallow in your hang ups, to lick your lips in desire and fitfully conceal your weaknesses or to simply shake off the baggage and calmly fulfil the work of purified intention? If you cannot drop importance, you must at least leg go of the grip of control and shift from worrying to taking action. Just begin the process of doing, in whatever way you can. It does not matter whether your actions are effective initially or not. Allow yourself to act badly. The potential of importance will be dissipated in the course of action; the energy of intention will be released and everything will work out fine.
 
-## Job Hunting
+### Job Hunting
 
 To conclude this chapter I would like to demonstrate how the principles of Transurfing, including frailing, work in practice in a situation that is relevant to everyone. You have probably read various sources giving instruction on how to write your resume and how to behave in a job interview. You may gain new and useful insights from the material I am going to share with you below.
 
@@ -3933,7 +3935,7 @@ Your task lies in answering questions in such a way that you return to the conte
 
 Finally, if you were not the successful applicant the job obviously was not meant for you. You never know what problems you may have escaped so luckily. Be calm–wait for the job that is meant for you and you will be the successful applicant. If you have been accepted to a position that is meant for another you can expect to come into problems. So, carry on searching for the job that is yours. How to go about this you already know. The issue of work should not be grounds for the slightest wave of inner discomfort. This is the time to go to work as if to a celebration.
 
-## SUMMARY
+### SUMMARY
 
 Use other people's inner intention to achieve your own goals.
 
@@ -3981,15 +3983,15 @@ Allow yourself the luxury of having shortcomings and lacking strengths.
 
 The excess potential of inner importance is dissipated through action.
 
----
+***
 
-# Chapter XIII. COORDINATION
+## Chapter XIII. COORDINATION
 
----
+***
 
 I do not want or hope – I intend.
 
-## The Insecurity Labyrinth
+### The Insecurity Labyrinth
 
 No-one and no thing can prevent you from reaching your goal once you have taken the path through the right door except yourself. In other words, only lack of faith and lack of confidence can hinder your progress. Lack of self-belief and lack of confidence are basically one and the same thing. Both undermine the effectiveness of inner intention and make outer intention practically impossible.
 
@@ -4025,7 +4027,7 @@ Confidence is nothing more than temporary excess potential. Whatever packaging y
 
 And so, we have just successfully broken through another false belief but how are we to manage without confidence? Transurfing offers an alternative – coordination. What coordination represents you will find out very shortly in the next section.
 
-## Coordinating Importance
+### Coordinating Importance
 
 Why do we need confidence? To boldly and determinedly conquer out place in the sun. Pendulums have imposed one sacrosanct postulate which sounds: there is no such thing as a free lunch; if you want to achieve something you have to fight for it, insist, demand, outstrip your rivals and elbow your way forwards, but in order to act boldly and decisively you have to have confidence.
 
@@ -4075,7 +4077,7 @@ True, calm coordination does not relate to anything external and so it requires 
 
 Coordination grants you freedom from pendulums allowing you to move independently in whatever direction you wish to claim whatever you desire. If at the present time you have to fulfil tiresome obligations, detach yourself and imagine that you are being filmed for a movie. Hang on, for you will have to play your role to the end, at least until the end of the current series until you walk through the right door. Practice visualising your target slide without thinking about the means and wait for outer intention to open the door to you.
 
-## The Battle with the Clay Golem
+### The Battle with the Clay Golem
 
 At last I am free of the unnecessary burden of excess potential. Inner and outer importance no longer exist. I have no need to assert my superiority or hide my inferiority. I fear neither the past nor the future. I have nothing to protect and nothing to conquer. I am finally free of the influence of pendulums and can take care of myself. If only this were true…
 
@@ -4125,7 +4127,7 @@ The negative impact of the mass media on the human psyche requires the individua
 
 Generally speaking, your task comes down to consciously breaking the rules. This can be done in two ways. Either drop importance and scupper the pendulum in the emptiness of your indifference, or still its sway by reacting in an inadequate manner. If you struggle with reducing importance you can always stick with the second method. Any inadequate reaction to provocation is a gross violation of the rules of the game.
 
-## Ending the Battle
+### Ending the Battle
 
 The freedom of choice lies in one incredibly simple fact. There is no need to fight to achieve your goal. All you need is the will to have. As soon as you allow yourself to have you can begin the process of calmly placing one foot in front of the other in the direction of your goal. Pendulums will impose a different scenario forcing you to fight for your goal, declaring war on the world and yourself. Pendulums recommend starting with yourself. They make you believe that you are not perfect and so will not achieve your goal until you change. Once you have changed, then you must join the battle for a place in the sun. There is only one motivation behind this scenario which is to drain the victim's energy. By battling with yourself you give your energy to the pendulum and you do just the same when you join the battle against the outside world.
 
@@ -4169,7 +4171,7 @@ Do not let unsuccessful attempts to acquire dispassionate will worry or upset yo
 
 In life people are always having to take tests, exams, take part in contests, and all sorts of personal assessments but the will to have depends only on yourself. You are your own examiner. Any mark you give yourself is usually a reflection either of the belief that you are incapable and unworthy, or that the goal is unrealistic. People do this automatically, out of habit. All you have to do is allow yourself to have whatever else is happening. It is unfamiliar of course, but why not dare to try it and allow yourself to have. Newton's and anyone else's apples may fall to the ground but let yours fall to the sky. You might desperately wish to acquire the will to have but nonetheless, abandon desire. Enough of desiring; you are going to get what you need anyway. Just think about taking what already belongs to you. Take it calmly without demanding or insisting with the thought of: If want it, what is the problem? I will have it"
 
-## Release
+### Release
 
 The will to have is created by the free energy of intention. Two things get in the way of allowing yourself to have. The first is conflict between the heart and mind. The second is the excess potential of inner and outer importance, which use up free energy. One would be mistaken to think that the will to have is equal to banal thinking that sounds "I want and I will". In reality, such thoughts must be filled with the energy of intention otherwise they are just be the mumbling of the mind and nothing more. Thoughts must flow from the unity of heart and mind. Otherwise, the programming of the energy of intention will not be pure. If a large portion of free energy is consumed by excess potential intention will have no power to it.
 
@@ -4215,7 +4217,7 @@ With time the will to have shifts into its third stage of ordinariness. Because 
 
 And finally, how not to give way under the weight of your problems? There is always something that will get us down to one degree or another. It is extremely difficult to just up and let go of all importance but there is one very interesting and powerful method in Transurfing that can help – coordinating intention.
 
-## Coordinating Intention
+### Coordinating Intention
 
 People normally feel that they are subject to circumstances, powerless to change the way things are. Sometimes they are lucky and fly on the wave of fortune for a short time. Sometimes it even looks as if success is just within reach. All you have to do is act decisively and put up a good fight and yet despite all your efforts defeat follows victory.
 
@@ -4265,7 +4267,7 @@ Coordination develops with practice. It is not enough to understand the coordina
 
 Coordination is the most effective means of moving through the alternatives space. You perceive every event as positive and so always move onto a favourable branch of your life line and more frequently encounter the wave of fortune. Be must be careful not to end up with your head in the clouds. You are not meant to be floating in the air but rather taking conscious, intentional action that enables you to balance as you ride the wave of fortune. This is the essence of Transurfing.
 
-## Apples Fall to the Sky
+### Apples Fall to the Sky
 
 As it is written in the Holy Scripture: "According to your faith be it unto you". There is so much truth in this line. You only ever receive as much as you are willing to receive. Whatever this is, outer intention will fulfil your orders impeccably. You have what you have because it corresponds to the template of your worldview and vision of your place in the world. Now that you are acquainted with all the main principles of Transurfing you can manage your fate according to your own free will. Your fate will be shaped to reflect your personal choices and beliefs.
 
@@ -4335,7 +4337,7 @@ Apathy dissipates when fresh hope emerges. Both animals and human beings who wal
 
 We need hope to begin taking action. Begin taking action and you will see that apples fall to the sky. When hope has done its work, you will become conscious of the freedom of choice. Then you will say to yourself: I do not want and I do not hope. I intend.
 
-## SUMMARY
+### SUMMARY
 
 Self-confidence is the same as a sheepish manner turned inside out.
 
@@ -4391,15 +4393,15 @@ Do not think about the means of achieving your goal; turn the target slide in yo
 
 Then outer intention will have its way and apples will fall to the sky.
 
----
+***
 
-# Chapter XIV. FORWARD TO THE PAST
+## Chapter XIV. FORWARD TO THE PAST
 
----
+***
 
 The Past Lies Just Ahead.
 
-## Transaction
+### Transaction
 
 Sometimes we hear a random song that suddenly reminds us of times in our life when we were happy or we will catch the fleeting edge of a feeling we had when we were full of hope and life felt, if not like a holiday, then at least like the preparation for one. In these moments we feel a wave of nostalgia for what has been lost. It is sad to know that these moments were somewhere in the past and we can never return to them. Are these moments really lost forever?
 
@@ -4447,7 +4449,7 @@ The potentials of desire and necessity drain the energy of intention to such an 
 
 Only practice the transaction exercise from time to time out of curiosity and with the aim of enjoying it. Do not take the transaction exercise too seriously. Its only purpose is to enable you to see the movement of the force of material realisation in the alternatives space. Of all the Transurfing exercises most attention should be given to running the target slide and visualising the current link in the transfer chain stream into realised pathways of reality. Outer intention works whether you see it or not. It is just that now you have a kind of porthole into the alternatives space and the opportunity to observe your movement there. It is quite impressive. You will not be disappointed.
 
-## Shades in the Scenery
+### Shades in the Scenery
 
 Now we shall take a more detailed look at what you are really seeing as a result of transaction. It all sounds so unlikely that doubts will naturally arise. Might it be the effect of some kind of illusion created by the workings of human perception? Where is the guarantee that what you are seeing is the change in shades of scenery as you shift from one sector to another?
 
@@ -4491,7 +4493,7 @@ There is a certain type of person whose life always seems to be falling apart. P
 
 Now you know that as well as travelling through the alternatives space you are also in a sense travelling through time. You cannot return the past but it is possible to retrieve that free feeling of the new, hope, and happiness that was lost as a result of moving down a chain of negative branches. Earlier on in the book we talked about why the feeling of freshness in life fades with time. Moving towards your goal is like returning to the past when ice-cream was delicious, hope was bright and life was still joyful and promising. Do not despair – the past lies just ahead!
 
-## Gliding
+### Gliding
 
 Finally we have arrived at the moment when I can reveal the answer to the Guardian's Riddle. The statement that everyone has the absolute freedom to choose their own destiny is only a riddle until you clearly understand the origins of bondage. Based on all that has been said so far in this book, I can now share the answer with you.
 
@@ -4525,7 +4527,7 @@ Transform your joy into the intention of celebration. Use your right to choose a
 
 Now there is no need to continue battling. You will get what is yours in the end. By turning your back on the battle you tear off the strings and acquire your true freedom, without losing the prop they gave. The new prop is the alternatives flow. Remember that your choice will be fulfilled. Attune your thoughts to your target line and then the flow will be directed towards your goal. There is no force capable of preventing you on the path towards your goal if you go with the flow, stay balanced and observe the principle of coordination. You are no longer a small paper boat on the wave of circumstance and no puppet in the hand s of pendulums. You have a sail, unity of heart and mind. You have a helm, your choice. You glide through the alternatives space on the wind of outer intention.
 
-## SUMMARY
+### SUMMARY
 
 Turning the key releases tension and frees the energy of intention.
 
@@ -4549,17 +4551,17 @@ The world is a mirror that reflects your relationship to it.
 
 You win your freedom by ending the battle.
 
----
+***
 
-# Chapter XV. LETTERS FROM THE PAST
+## Chapter XV. LETTERS FROM THE PAST
 
----
+***
 
 "But you yourself must not distinguish your victory from your defeat"
 
 B. Pasternak
 
-## A Run of Bad Luck
+### A Run of Bad Luck
 
 "I have some questions I have not been able to find the answers to. According to your theory, if I look for the good in everything I should end up riding a wave of positive events. I tried that but it did not work for me, and it was not just the once, otherwise I would not have noticed it.
 
@@ -4605,7 +4607,7 @@ Do not be upset at the thought of opportunities lost. If you define your goal an
 
 So, do not despair: if you move towards your innermost goal the past will lie before you. Perhaps until now you have allowed yourself to be distracted by other people's goals?
 
-## The Game of Partners
+### The Game of Partners
 
 "You said that seemingly incompatible individuals marry as if to punish one another. When I read this I thought it described my situation perfectly. Could you give me any practical advice as to how to find a way out of the situation, what to do and think.
 
@@ -4641,7 +4643,7 @@ When people grow up they lose the ability to play indifferently and become menta
 
 Try to live your life together as children. Adopt the roles you have attributed each other and play at them indifferently, 'just for fun'. For example, as soon as your partner begins to do something you do not like and you find yourself getting irritated as before, play your role in picturesque or grotesque manner, with humour. As a result the dynamics of the conflict caused by dreaming unconsciously when you are awake will become crystal clear. Then you will begin to realise just how many arguments are pulled out of thin air like in the soap-operas. When you become aware of this moment you will at last be able to accept yourself and others just the way they are.
 
-## Charity
+### Charity
 
 "For the past two years I have been totally immersed in trading currency (FOREX) but have not been able to get to a point where I could trade stably and profitably. For two years now I have suffered constant losses. Maybe my colleague is right who writes that the market is the invention of the devil "Give what is Caesar's to Caesar and what is God's to God". They say that when you play on the market you trade in your own soul, and unfortunately it is true. That is how it is. The only way out for me now is to donate everything to the church, but this will not resolve the karmic consequences…
 
@@ -4733,7 +4735,7 @@ If you suddenly feel overcome with a wave of sympathy for a particular poor old 
 
 Acknowledge your freedom. You do not owe anyone anything. Claim your right to knowledge. You are equally as capable of creating and providing answers. Yet if you are not free of importance you will be tortured by feelings of doubt. If you are free of importance then you are right and when you are free you can allow yourself to sympathise and empathise.
 
-## How to Win Back the One You Love
+### How to Win Back the One You Love
 
 "I beg you to tell me how to win back the man I love."
 
@@ -4803,7 +4805,7 @@ On the other hand, if you cannot define your goal do not torment yourself with t
 
 As far as your question goes concerning how to win back your wife I am afraid there is nothing I can advise you. The key phrase: "She is searching for herself but our relationship is becoming colder and she does not seem to want to see me" it is clear that the problem is not financial stability and the lack of it. If she does not love you it is impossible to win her back.
 
-## Intention
+### Intention
 
 "My question is this: can the laws of Transurfing be extended to other people? For example, in the case that a mother wants to heal her children (mine suffer from mental illness) or has (I have) the intention for Russia to become a wealthy country and for its people to be happy".
 
@@ -4849,7 +4851,7 @@ You are the one who says that no man is lucky in everything. That is your person
 
 When you stop simply wanting and intend to have then you will receive. Take note of the Transurfing motto: "I do not want or hope, I intend".
 
-## Importance Potential
+### Importance Potential
 
 "Tell me how to overcome fear, anxiety and panic. How do you avoid getting brought down by these emotions on a practical level? When someone close to me leaves like my daughter or son for example, the fear comes over me in a wave and consumes me: Did they land ok, why do not they ring to say they have arrived?"
 
@@ -4935,7 +4937,7 @@ In the meantime the remedy for forced obligation can be play. Remember how in ch
 
 You only suffer from forced obligation if your mind becomes immersed in the game. Adopt the role of the acting member of the audience, the participating spectator. Act in a detached manner. Do not give yourself entirely to the work you are forced to do. Make as if it were a game. Rent yourself out.
 
-## Reality Inversion
+### Reality Inversion
 
 Reality moves its frames indomitably along the film roll of time. Holidays come and go. It is just a shame that they end so quickly. Hemmingway was right when he said that life is a moveable feast that stays with you, although rarely does anyone manage to live that way. The moveable feast is unexpectedly lost somewhere along the way after which all life's colours fade. Emptiness and oppressive melancholy fill the space in the soul sometimes for obvious reasons and sometimes not.
 
@@ -5005,19 +5007,19 @@ Personally, I am no fan of using the contrast method in solitude, so I do not so
 
 As you can see, reality inversion is similar to the principle of coordination of intention. The only difference is that inversion is a more radical approach based on humour.
 
-## SUMMARY
+### SUMMARY
 
 If you do not control reality, reality will control you.
 
----
+***
 
-# Chapter XVI. DANCES WITH SHADOWS
+## Chapter XVI. DANCES WITH SHADOWS
 
----
+***
 
 My world and I are going for a walk.
 
-## The Origin of Intention
+### The Origin of Intention
 
 A characteristic feature of the relationship people have with the outside world is that anything new is eventually treated as something mundane. Like clouds in the sky, reality constantly changes in appearance, but the rate of change is too slow for us to perceive. The movement of material realisation through the alternatives space is like the movement involved in cloud formation. We can only perceive it when it is captured on film and the footage is sped up.
 
@@ -5065,7 +5067,7 @@ As a rule people are fairly unambiguous in their behaviour. In trying to get wha
 
 We will go about things in a different way. We will hide our hands behind our back and make the world meet our desires half-way. Everything that comes next will relate to how we can do this. Transurfing is a technique for controlling reality without direct impact, only not for fun as in a game, but for real.
 
-## The Law of Bad Luck
+### The Law of Bad Luck
 
 In order to learn how to control reality you must at the very least understand how reality is created. Every individual is the direct creator of the layer of their own world but the majority of people do not understand how this process works.
 
@@ -5143,7 +5145,7 @@ For example, try at least for a while to forget about your neighbours, stop judg
 
 As soon as you are able to pull off the suction pad of your relationship, your neighbours' polarisation will disappear and they will gradually cease to bother you. And if you manage to completely break the dependent relationship you might make room for something incomprehensible to happen; your toxic neighbours may just end up becoming your best friends!
 
-## Everything Happens to Spite You
+### Everything Happens to Spite You
 
 Is it strange, do not you think, that Sod's law should exist at all? Why should the world be so cruel? Or perhaps it is not, and Sod's law is just speculation and prejudice? And yet there is no getting away from it, Sod's law as a tendency definitely exists. Fortunately, the Transurfing model not only reveals the reason for this, it can also explain how to avoid getting caught out by this frustrating phenomenon.
 
@@ -5241,7 +5243,7 @@ The same thing applies in other cases. If the 'jester is jumping' it means that 
 
 In general, things are not too bad. Things will not happen 'to spite you' if your consciousness is awake. You may of course be thinking that the above is some kind of weird nonsense. It can be hard to get your head round the idea that certain entities can control us. Whether you accept this knowledge or not is a matter of personal choice. Do not take it on faith either. Observe and then draw your own conclusions.
 
-## The Pendulum Rule
+### The Pendulum Rule
 
 In the world today at every turn we are forced to encounter direct or indirect material related to sexual relationships. In the Transurfing model this theme, just like many others, is approached from an unusual angle. Sex, or rather our relationship to sex, plays a hugely significant role in our personal lives whether we want to acknowledge it or not. It does not matter whether a person has an active sex life. From time to time everyone has flashes of thought that express their relationship to sex.
 
@@ -5389,7 +5391,7 @@ It is true that many people will be adverse to the idea that they are caught up 
 
 It is not my intention to force information on anyone neither do I feel obliged to prove my ideas. Anyone can put the principles shared here into practice and prove or discredit them as they see fit. I am simply the person walking past who says: "Hey! Did you know that there is something called Transurfing Reality? "Really?" "Yup! That is where I am headed but you can go where you like." That is all.
 
-## Stabilising the Structure
+### Stabilising the Structure
 
 In accordance with its law the pendulum does all it can to augment the energy of an existing conflict. The battles from which pendulums draw their energy are constantly going on around us and they usually involve two or more opposing structures. There are many examples of this: war, revolution, competition and other forms of confrontation.
 
@@ -5503,7 +5505,7 @@ Corporate ethics entail more stringent regulations, discipline and diligence. Ta
 
 So you have to be able to behave in a conscious and flexible manner in line with the reality of the pendulum world. It is not as difficult as it might seem. The important thing is to wake up sooner rather than later.
 
-## The Indigo Arrivals
+### The Indigo Arrivals
 
 One of the clearest manifestations of the onset of a new reality is the phenomenon known as the "Indigo Children" described in detail in the book of the same name by Lee Carroll and Jan Tober. The term was coined by the clairvoyant Nancy Ann Tappe who researched the connections between a person's personality and the colour of their aura.
 
@@ -5573,7 +5575,7 @@ The only truly important thing is that until such time as the structure has decl
 
 Could you, dear reader, be an Indigo? It does not matter either way. We are all in essence the same, either grown-up children or the grown-ups' children.
 
-## Energy Lords
+### Energy Lords
 
 It is a strange thing, quite normal and yet strange at the same time. Cultural plants and pets were once wild and existed independently in a natural environment. But then man "woke up" and realised that he could establish control over them. It is the quality of conscious awareness that enabled man to rise above the plants and animals and exploit them for his own needs whilst they continued to exist in a state of unconscious dreaming. Then structures had to be created that would determine where and how the enslaved species would live.
 
@@ -5645,7 +5647,7 @@ After that meeting we had the pleasure of seeing the cat again on quite a few of
 
 There is nothing wrong with making the most of the benefits of civilisation as long as you do not become addicted or dependent. You can tell a free individual from the herd because of their awareness. All you have to do is wake up and become aware of what is really happening. I have learned these things and am sharing them with you now for the simple reason that…well, actually it is a secret. But I will share it with you dear reader. I have returned to the wild. I have run away from the farm.
 
-## Declaration of Intention
+### Declaration of Intention
 
 Until now we have only focused on how to free yourself from pendulums and escape their influence. But is it possible to benefit in some way from a pendulum? Any dream is essentially brought about with the help of pendulums. There is no getting away from the fact that we all live and work in some structure or another. It is simply a question of whether the structure deprives you of your dream or helps you to realise them.
 
@@ -5729,7 +5731,7 @@ Two clear patterns can be traced in both stories. Firstly, popularity develops i
 
 The most interesting pattern in these stories consists in the fact that the works that consequently become a huge hit are not acknowledge during the initial period of anonymity. People listen to the songs but they do not draw any attention. And then there is a sudden moment when the songs begin to create a different, unusual impression on people of something innovative and original. The sound acquires a hint of something very stylish and fashionable. And for some inexplicable reason everyone simultaneously agrees that it is brilliant.
 
-So where does this common sense of novelty and style come from for the "Beatles" sound was already characteristically "Beatles" back in 1962\. Why did not it capture anyone's imagination? Why was no-one mad about "Abba" in 1972? They were singing the same songs then so what happened; why did people suddenly find them so electric in 1975?
+So where does this common sense of novelty and style come from for the "Beatles" sound was already characteristically "Beatles" back in 1962. Why did not it capture anyone's imagination? Why was no-one mad about "Abba" in 1972? They were singing the same songs then so what happened; why did people suddenly find them so electric in 1975?
 
 This phenomenon can be explained by the fact that every epoch has a characteristic quality, sound or hue, in other words, its own charisma. However, a new epoch is not just initiated of its own accord. It is drawn into being by the intention of the people, like a cloud in the alternatives space. Then the pendulum stabilises the collective intention.
 
@@ -5737,7 +5739,7 @@ At first a small group of fans forms. Each fan radiates thought energy to the tu
 
 Now you know how new trends are born you can boldly make the most of your lawful privilege to be yourself without looking back at the rest of the world. This is the only way to realise the opportunity to communicate to the world your unique individuality. Pendulums will not put up with unique individuals. They will be forced to make you a star. Stop chasing your shadow and set out on your path independently. Then the pendulums will have no other choice than to follow you. You are quite capable of becoming a trendsetter by virtue of the fact that the qualities of your soul are totally unique. A luxury individual cloud has already been prepared in the alternatives space and awaits your arrival. Announce your declaration of intention!
 
-## SUMMARY
+### SUMMARY
 
 The life goal and purpose of all living beings is to shape reality.
 
@@ -5783,15 +5785,15 @@ It is impossible to beat a pendulum. You have to either abandon the dangerous ga
 
 In order to create your own game you have to give yourself permission to be yourself.
 
----
+***
 
-# Chapter XVII. THE DREAMS OF THE GODS
+## Chapter XVII. THE DREAMS OF THE GODS
 
----
+***
 
 I take care of my world.
 
-## The Two Sides to Reality
+### The Two Sides to Reality
 
 From time immemorial people have understood that the world has a dual nature. On the one hand everything that happens on the material level can more or less be understood and explained from the point of view of the natural sciences. On the other hand when we encounter phenomena from the subtle planes the laws cease to be applicable. Why is it that we are unable to unite different aspects of reality in a single knowledge system?
 
@@ -5857,7 +5859,7 @@ However, the most surprising example is human beings who simultaneously combine 
 
 In such a unique position it would be at best short-sighted to live within the limits of the conventional worldview and use only side of reality, the physical side. You will learn how to work with the dual mirror of the world and how to accomplish things that would previously have seemed impossible. You will be convinced yet, that your potential is limited only by your intention.
 
-## The Waking Dream
+### The Waking Dream
 
 When a potential possibility is manifested as reality the surface of the dual mirror shows a symmetrical image. The sector of the metaphysical alternatives space lies on one side of the mirror and its material manifestation lies on the other. All living beings are balanced on the edge of the mirror because their body and mind relate to the material world while their soul remains inseparably connected to the alternatives space.
 
@@ -5937,7 +5939,7 @@ We round up this topic with one more question: if somewhere in the alternatives 
 
 Let those who like to be nourished by hope struggle with this question. It is the same as asking whether anything exists beyond the visible Universe. We can never know, just as butterflies collecting nectar in Africa cannot know that there is such a place as America and that flowers grow there too. Is not our world wonderful enough? Why should we constantly demand an explanation to everything from it when we could simply enjoy the nectar of the flowers we can reach.
 
-## The Children of God
+### The Children of God
 
 From the dim and distant past people have had the habit of ascribing exclusively positive traits to god-fearing citizens and accusing the godless of all kinds of sin. The devout citizens created the stereotype for themselves and for everyone else as a sort of presumption of their innocence. And the habit existed at the same time as horrendous atrocities were committed and continue to be committed based on the goal that would supposedly please God – to persecute dissidents. But in reality, faith of itself does not make a person righteous.
 
@@ -5981,7 +5983,7 @@ But belief is not the same as understanding. Prayer does not automatically facil
 
 You communicate with God by shaping the layer of your world, your reality. When you take joy in your creation God takes joy with you. This is what true service to God means. Belief in God is above all belief in yourself and in your own strength as a creator. There is part of the Creator in each and every one of us. Make the Father happy. As far as you believe in your own potential you will believe in God and carry out the words he spoke: "According to you faith be it unto you".
 
-## The Dream Theatre
+### The Dream Theatre
 
 As we said already at the beginning of the book, the primordial motive that underpins the behaviour of all living beings is the need to somehow independently manage one's life. Any purposeful activity or process can be largely described as an attempt to control individual reality. Anything that happens in life can always be reduced to one and the same task: to establish control over one's immediate environment.
 
@@ -6061,7 +6063,7 @@ If your intention is the intention of God then who do your fears and doubts belo
 
 Is God so powerless that he would have to struggle? He does not have to waste his efforts on the battle with an unyielding reality. He is capable of shaping a new reality in whatever way He desires. People can do just the same if only they can accept the idea that it is possible. So what is to stop you from waking up into the dream and exploiting your former privilege? If you are ready the rest is just a matter of technique. The next part of this book will teach you how.
 
-## SUMMARY
+### SUMMARY
 
 The world is like a dual mirror. Material reality is on one side and the metaphysical alternatives space is on the other.
 
@@ -6089,13 +6091,13 @@ If you express an intention, consider it the intention of God. How then could yo
 
 Do not ask, do not demand, do not struggle, just create.
 
----
+***
 
-# Chapter XVIII. THE MIRROR WORLD
+## Chapter XVIII. THE MIRROR WORLD
 
 My world takes care of me.
 
-## The Dual Mirror
+### The Dual Mirror
 
 The manifestations of reality take two forms: the physical, that which can be touched, and the metaphysical, that lies beyond the realms of perception. Both types of manifestation exist simultaneously, each form penetrating and complimenting the other. Dualism is an integral part of our world and many things are comprised of opposites.
 
@@ -6161,7 +6163,7 @@ As you can see the secret is simple and this really is all it takes. It is hard 
 
 How much time is needed to realise the slide depends on the complexity of the goal you set. Whilst the mind is in doubt that the goal can be realistically embodied the image will remain hazy but sooner or later some kind of representation will begin to appear in the mirror. Then you will begin to see for yourself how outer intention opens the necessary doors and provides the necessary opportunities for you to reach the goal. This will assure the mind that the technique is bearing fruit and that the goal is in fact realistically achievable. Gradually heart and mind will come to a position of unity focusing the radiation of thought energy into a sharper image. As a result a reflection will be formed creating what is normally considered a miracle: the dream that seemed impossible is transformed into reality.
 
-## The Reality Amalgam
+### The Reality Amalgam
 
 With the help of the slide technique described earlier on in Transurfing you can successfully create an image which the world mirror will stream into physical reality. Aside from any concrete image though, it would not be at all bad to maintain an unchanging background to the layer of your world that would consistently create a favourable atmosphere.
 
@@ -6227,7 +6229,7 @@ This simple technique is the key to a force more powerful than you would ever ex
 
 Prepare yourself for a magnificent cascade of pleasant events. I am not over exaggerating for a moment. The layer of your world will literally become transformed in front of your very eyes. You will be surprised at how quickly things start to change and in this moment you will realise that you will never look at the mirror of the world in the same way again. You will have experienced the rising wind of change. The wind will take care of you. You can be sure of that.
 
-## Chasing Your Reflection
+### Chasing Your Reflection
 
 Each person creates the individual layer of their world, their own reality, with their mental outlook. Their reality acquires a certain tone depending on their attitude. Figuratively speaking, certain "weather conditions" are set: there may be morning freshness in the sunshine, cloudy skies and heavy rain or even a raging hurricane and natural disaster.
 
@@ -6279,7 +6281,7 @@ Now I am a grown-up myself but nothing has really changed. I did not learn anyth
 
 So how do you control this crazy car? What should people do and where are people going wrong? The mistake we make is that we stare at our reflection. This is whole problem. This is what we should be doing: first of all we have to end the chase after our own reflection and stop for a moment. This means dragging our gaze away from the mirror and letting go of the inner intention to shift the world in the direction you want it to go. In this moment the crazy car will stop in its tracks and reality will also stop. Then something incredible will happen: the world will come to meet you.
 
-## The World Comes To You
+### The World Comes To You
 
 The ordinary human mind tries unsuccessfully to impact the reflection in the mirror when what is required is for it to change the actual image reflected. The image is produced by the nature and focus of a person's thoughts. The problem is that people look first in the mirror and only afterwards express their relationship to what they have seen. By doing this, deliberately or not, they express an intention that exacerbates reality.
 
@@ -6341,7 +6343,7 @@ There is nothing new about the idea that our world is a reflection of our though
 
 Now though, you have a specific technique at you disposal. You understand how it works and how to use it. Stop running round the mirror circle and you will see that the world will come to you.
 
-## The Maker's Intention
+### The Maker's Intention
 
 So, in order to see the reality you desire in the mirror of the world you have to take certain elementary steps: intentionally shape the corresponding image in your mind's eye paying no attention to the delayed reflection and peeking at it only in search of any new manifestation of the emerging reality.
 
@@ -6475,7 +6477,7 @@ You are the Maker of your reality as long as you know how to "move yourself" wit
 
 Now you know how to work with the amazing dual mirror. You need no longer fear the things of the world that other would consider hostile, problematic or intractable. The world is yours! Take it by the hand and say to yourself: "My world and I are going for a walk."
 
-## The League of Mirror Makers
+### The League of Mirror Makers
 
 It would seem that the question of fate in the context of Transurfing is covered. People have free choice of their future by virtue of the existence of the alternatives space which can be controlled by applying the principles of the dual mirror. Nonetheless, it is worth elucidating on the theme a little more.
 
@@ -6543,7 +6545,7 @@ The mirror makers try to convince the dot that it must move along a strictly def
 
 Now you have a dual mirror a bit like a genie that makes your wishes come true except that it is not a fairytale any more; it is an aspect of reality that had perhaps remained hidden from you until now under the cover of routine. Unlike the genie in the fairytale you cannot command the mirror genie. There is no point in making appeals to the mirror genie or seeking his compassion. Yet as soon as you declare your intention the magic mirror will willingly comply: "Ok, ok my dear". You are the true Maker of your fate if you intend to be so. Do not give your fate away to the mirror makers!
 
-## SUMMARY
+### SUMMARY
 
 The mirror principles:
 
@@ -6573,15 +6575,15 @@ To materialise a slide you must turn it methodically in your mind's eye for a su
 
 Do not suppress your emotions – change your relationship to the problem.
 
----
+***
 
-# Chapter XIX. THE GATEKEEPER TO ETERNITY
+## Chapter XIX. THE GATEKEEPER TO ETERNITY
 
----
+***
 
 My world and I are off to buy a toy
 
-## The Energy of Intention
+### The Energy of Intention
 
 In the previous chapter you were introduced to the principles of controlling reality. Now we are going to look at specific methods. The first essential condition without which Transurfing is totally impossible is that you must have good energy levels.
 
@@ -6765,7 +6767,7 @@ This effect is described in the early materials of Transurfing as the generation
 
 No. There is still time to bring it all back, the former colours, the newness of feeling and the delights of hope. If you adhere to the mirror principles you will encounter an amazing phenomenon. The former freshness of the layer of your world will be restored. When you manage to straighten out the generation shift for yourself then you will feel fully what it really means to control your own reality.
 
-## Correcting the Mirror
+### Correcting the Mirror
 
 Throughout history man has created all kinds of models for controlled reality from rock art to complex instruments and mechanisms. All these models share one feature in common. They are all subject to the inner intention of man. Being a product of pure reason, inner intention acts in a linear fashion according to the principle of "where I make a turn that is where I will go".
 
@@ -6845,7 +6847,7 @@ The Indigo children (now the majority of the younger generation) display many wo
 
 The spokes should not be loosened too much either; all things in good measure. So where is the golden mean to be found? It is a matter of observing, figuring things out and applying the principle of correcting the mirror rather than blindly following your typical approach. It is within your power to assist children in becoming outstanding personalities. They will be capable of working out for themselves how to fit into the structure.
 
-## The Reality Maker
+### The Reality Maker
 
 Up until now we have talked about how to transform your life into a conscious dream and the layer of your world into a cosy corner. The mirror principles have a tangible and yet a subtle impact on reality. Now you will be introduced to more powerful approaches.
 
@@ -6921,7 +6923,7 @@ If you are able to maintain this kind of integral feeling then you might as well
 
 So, your potential is only limited by your intention. Make your own reality!
 
-## Coordinating the Dream
+### Coordinating the Dream
 
 Everyone begins their life in a certain set of circumstances. I was born into poverty and I cannot climb out of it; I have to make the best of what I can get; I have to do what is expected of me. The situation hypnotises, grips the person so that they fall under the influence of the daydream that happens to them. All the while that the person is seeing the situation from within the dream it is all the more firmly consolidated in the world's mirror. A person who is caught by the power of their reality simultaneously maintains it. The poor get poorer and rich get richer.
 
@@ -6949,7 +6951,7 @@ Imagine that you are woken up from your mirror daydream because something is hap
 
 You are now outside of this world. You have exited the mirror.
 
-## The Maker's Verdict
+### The Maker's Verdict
 
 Now dear Reader you know everything you need to know to create your own reality. You cannot change the whole world but your individual reality is at your disposal. When you escape the illusion of the dual reflection and stand external to the world's mirror Eternity lies before with its limitless possibilities. There is not meant to be a single drop of artificial pathos in these words. The alternative space holds three truly invaluable gifts: your future which you are capable of materialising, sacred Knowledge which can transform you into a genius and something else that takes your breath away.
 
@@ -7007,7 +7009,7 @@ From the moment you claim the right to declare your own verdict on what is good 
 
 That brings me to my final point. The alternatives space contains everything and everything that you wish for with heart and mind is yours. You should be aware however, that a Gatekeeper stands at the threshold to Eternity, an absolute law that guards access to everything to be found there. This implacable guard only permits access to those who have the boldness to assert their right as Maker. Your verdict is your entrance pass: I am capable and worthy because I have decided it is so. I do not want or hope, I intend. Claim your right and the Gatekeeper will open the gates of Eternity before you.
 
-## SUMMARY
+### SUMMARY
 
 Accumulation of toxins in the body, excess potential and unrealised intention reduces your energy levels.
 
@@ -7051,11 +7053,11 @@ Leave the crowd and deliver your verdict; assert the right of the Maker.
 
 I have taken this decision because I am the Maker of my own reality.
 
----
+***
 
-# Afterword. A STRANGE REALITY
+## Afterword. A STRANGE REALITY
 
----
+***
 
 To conclude I would like to go a little further in strengthening the ground under the mind's feet. There is so much in Transurfing that seems incredible that alas, one has to keep explaining to the mind that it is all indeed real.
 
@@ -7149,13 +7151,13 @@ It is also essential to become comfortable with the simple but strange truth tha
 
 All you have to do is maintain the focus and let the alternatives flow takes its course. The means of achieving the goal will present itself. You cannot and need not know exactly how the goal will be realised. Whatever happens, if you keep your target slide in mind and observe the principle of coordination the alternatives flow will carry you to your goal. Such is the law.
 
----
+***
 
-# GLOSSARY
+## GLOSSARY
 
----
+***
 
-## Importance
+### Importance
 
 The energy of importance becomes present when disproportionate meaning is ascribed to something. Importance is pure excess potential and is eliminated by balanced forces creating problems for the person generating the potential. There are two kinds of importance: inner and outer.
 
@@ -7163,33 +7165,33 @@ Inner or personal importance manifests when a person over-estimates their own vi
 
 Outer importance is also artificially created when a person attributes excessive meaning to an object or event in the outside world. The form of expression for outer importance might sound: "Such and such is extremely important to me" or "it is extremely important to me to do such and such…" This generates excess potential which ruins everything. Imagine having to walk along a log lying on the ground. Nothing could be simpler. But what if you had to walk along the same log placed across the roofs of two high-rise buildings? The short stroll would become extremely important to you and there would be nothing you could do to convince yourself otherwise.
 
-## Wave of Fortune
+### Wave of Fortune
 
 The wave of fortune is created by a cluster of life lines that are particularly favourable to a specific individual. There is nothing the alternatives space does not contain including such golden veins. If you arrive at an outer line of this form of irregularity and experience some form of good luck you can slide onto other lines within the same cluster by inertia and consequently other fortuitous circumstances will follow on from the first. However, if you experience a bit of a bad patch after the first stroke of luck it means that a destructive pendulum has latched onto you and lead you away from the wave of good fortune.
 
-## Choice
+### Choice
 
 Transurfing proposes a fundamentally different approach to achieving one's goals. According to this approach a person makes an order as they would in a restaurant without any consideration for the means of achieving the goal. As a result the goal is realised to a large part of its own accord independently of the direct actions of the customer. Desires are not fulfilled; dreams do not come true. Yet your choice is an immutable law and will inevitably be realised. It would be impossible to explain the essence of choice in just a couple of words. Transurfing is basically all about what choice is and how to actually make choices.
 
-## Unity of Heart and Mind
+### Unity of Heart and Mind
 
 Will is inherent to the mind and yet despite this fact the mind cannot control outer intention. The heart on the other hand is capable of identifying with outer intention and yet it is not endowed with the power of the will. The heart flies around the alternatives space like an uncontrolled kite. In order to bring outer intention in line with your will you have to achieve unity of heart and mind. In this state the feelings of the heart and the thoughts of the mind are as one. For example, when a person is filled with joyful inspiration the heart "sings" and the mind "rubs its hands in glee". In this state a person is capable of being highly creative. It can also be the case that the heart and mind find agreement in emotions such as anxiety, fear and non-acceptance. This is when our worst expectations are realised. Finally, when common sense insists on one thing and the heart resists there is discord between the heart and mind.
 
-## Guardian's Riddle
+### Guardian's Riddle
 
 "Everyone can have the freedom to choose whatever they want. How can such freedom be obtained?" People do not realise that they do not have to struggle for what they want and can simply have it. It sounds very unlikely but nonetheless it is true. The key to the riddle can be found by reading Transurfing Reality in its entirety. You will not understand the solution to the riddle fully if you peek at the last chapter without reading the previous chapters.
 
-## Signs
+### Signs
 
 Guiding signs are signs that indicate a forthcoming turn in the alternatives flow. If something is approaching that could have a substantial impact on the future course of events then a sign appears to signal it. When the alternatives flow takes a new turn a person shifts onto a different life line. Each line is more or less uniform in quality. The stream of the alternatives flow can transect various lines which differ from one another in the parameters of their conditions. Change may be fairly insignificant but the difference can be felt nonetheless. This type of qualitative change is experienced either consciously or subconsciously as a sense that something is not quite right.
 
 Guiding signs only appear at the onset of a shift to new life lines. Not all individual phenomena catch our attention. For example, a crow caws. If you do not notice any qualitative difference in this event it means that you are still on the former life line. If however, there is something about it that alerts you for some reason then it should be taken to represent a sign. A sign can be distinguished from more ordinary phenomena in that it signals the start of a transition to a very new type of life line.
 
-## Excess Potential
+### Excess Potential
 
 Excess potential represents tension, a localised disturbance in an otherwise stable energy field. The irregularity is created by thought energy when an object is attributed excessive and disproportionate meaning. Desire represents an example of excess potential because it strives to draw the object of attraction to a place where it is not naturally present. The desperate desire to have something you lack creates an energetic "differential in pressure" which drums up the winds of balanced forces. Other examples of excess potential include: dissatisfaction, blame, admiration, worship, idealisation, over-evaluation, contempt, vanity, and likewise feelings of superiority, inferiority and guilt.
 
-## Induced Shift
+### Induced Shift
 
 Catastrophes, natural disasters, armed conflicts and economic crises all develop in spiral fashion. First there is the germ of the event, then its development. Tension rises until things reach a culmination with emotions spilling all over the place. Finally the accumulated energy is released into the atmosphere before a temporary ensuing calm. A whirlpool functions in relatively the same manner.
 
@@ -7197,7 +7199,7 @@ A pendulum catches the attention of a whole group of people in its noose and beg
 
 The phenomenon of the pull into the vortex is defines as an induced transition onto a life line in which the individual takes on the role of victim. The individual's response to the pendulum's push and the consequent mutual exchange of energy induces a transition into a life line similar in frequency to the oscillations of the pendulum. As a result the negative event becomes a part of the layer of that individual's world.
 
-## Coordination of Importance
+### Coordination of Importance
 
 Do not attribute excessive meaning to anything. Your importance energy is beneficial to the pendulum but not to you. Pendulums control people like puppets with the strings of importance. People are afraid to let go of the strings of importance because they are under the power of dependence which creates an illusion of support and confidence.
 
@@ -7205,7 +7207,7 @@ Confidence represents the same kind of excess potential as insecurity; it is jus
 
 To become free of pendulums you have to abandon inner and outer intention. Problems and obstacles appear on the path towards the goal because of the excess potential of importance. Obstacles are built on the foundation of importance. If importance is reduced the obstacles will crumble and cease to pose a problem.
 
-## Coordination of Intention
+### Coordination of Intention
 
 The fact that people who have a tendency towards negativity see their worst expectations realised proves that people are capable of influencing the course of events in their life. Every event on a specific life line has two branches extending from it; one favourable, the other unfavourable. Every time you encounter an event you make a choice about your relationship to it. If you choose to see an event as positive you find yourself on the favourable branch of the life line. However, a tendency for negativity makes you express dissatisfaction and choose the unfavourable branch.
 
@@ -7213,17 +7215,17 @@ As soon as something disappoints you something else equally as disappointing fol
 
 The principle of the coordination of intention can be expressed in the following manner: If you decide to perceive seemingly negative changes in the scenario as positive then that is how things will be. By following this principle you can achieve the same success in the positive as the negativists achieve in realising their worst expectations.
 
-## Life line
+### Life line
 
 A person's life just like any other example of matter in motion represents a chain of cause and effect. In the alternatives space effect is always located close to the cause. Just as one effect follows another sectors that are in close proximity in the alternatives space are organised into life lines. The scripts and sets of scenery on one life line are more or less uniform in quality. A person's life unfolds fairly stably along a given life line until an event occurs that substantially changes the script and scenery. At that point fate takes a turn and shifts into a different life line. You are always on a life line that corresponds in its parameters to your thought energy. By adjusting your relationship to the world, i.e. your mental image, you shift onto a different life line in which potential events can unfold in different ways.
 
-## Material Realisation
+### Material Realisation
 
 Under certain conditions the information structure of the alternatives space can materialise. Any thought like any sector in the field has certain parameters. When thought energy is transmitted it "illuminates" the corresponding sector of the field and realises that specific alternatives of possible physical realities. Therefore, thoughts have a direct impact on the course of events.
 
 The alternatives space serves as a template. It determines the form and trajectory of the movement dynamics of matter. The potential for material realisation moves in time and space whilst the alternatives themselves remain in a specific space for eternity. Every living being creates the layer of their individual world via the transmission of thought energy. Numerous living organisms inhabit our world and every single one of them contributes to the shaping of reality.
 
-## Pendulum
+### Pendulum
 
 Thought energy is material and does not totally disappear without trace. When a group of people begin to think in a similar way their "thought waves" accumulate in layers and invisible but real energy-information structures – pendulums are created in the greater ocean of energy. The structures begin to evolve independently until they reach a stage at which they are able to subject people to their own laws. When a person comes under the influence of a destructive pendulum they lose their freedom and are forced to become a small cog in a large machine.
 
@@ -7235,7 +7237,7 @@ The greatest threat of the pendulum's suppressive influence is that it leads its
 
 In essence the pendulum is an "egregore" and yet it is much more than this. The notion of the "egregore" does not reflect the entire range of subtle interaction between the individual and the energy-information structures referred to here as pendulums.
 
-## Intention
+### Intention
 
 Intention can be roughly defined as the resolve to have and act. Intention is realised. Desire is not. You may desire to put your hand up. The desire is shaped in your thoughts and you become aware that you wish to put your hand up. Is it the desire that actually raises the arm in the end? No. Of itself desire does not generate any physical action. The arm is only finally raised when the thought has been processed leaving just the resolve to take action. So it is the resolve to act that lifts the arm? Once again, no. You may have decided that you will lift up your arm but it will not yet be moved. So what exactly is it then that causes you to put up your hand? How do you define what lies beyond resolve?
 
@@ -7243,7 +7245,7 @@ Here the mind is powerless to provide an intelligible explanation for what inten
 
 Intention is divided into two kinds: inner and outer. Inner intention presupposes active impact on the world around us. This is the resolve the act. Outer intention is the resolve to have which causes the world to fulfil the individual's will. Inner intention is the concentration of one's attention on the process of moving towards one's goal. Outer intention is the concentration of attention on the process of how the goal realises itself. Inner intention causes the goal to be achieved, whereas outer intention allows it to be chosen. Everything that is associated with magic and paranormal phenomena relates to the areas of outer intention. Everything that can be reached within the context of the ordinary worldview is achieved by the power of inner intention.
 
-## Dependent Relationships
+### Dependent Relationships
 
 Dependent relationships are defined by a statement of conditions such as: "If you do this then I will do this". "If you love me you would drop everything and come to the edge of the world with me. If you do not want to marry me you obviously do not love me. If you praise me I will be friends with you. If you do not give me your spade I will drive you out of the sandpit."
 
@@ -7253,11 +7255,11 @@ Balance is destroyed when one thing is compared or juxtaposed to another. "We ar
 
 Where there is contradistinction balanced forces will inevitably get involved. The action of balanced forces is either aimed at dragging the subjects of contradiction apart or at bringing them together in mutual agreement or in collision. If you are the one who created the polarisation then in the majority of cases the impact of balanced forces will work against you.
 
-## Polarisation
+### Polarisation
 
 Excess potential arises when certain qualities are attributed excess meaning. Dependent relationships are formed between people when they begin to compare themselves and place conditions upon each other such as each other, such as "If you do this then I will do this." Of itself excess potential is not necessarily a problem while the distorted evaluation exists irrelatively, on its own. However, the moment that the artificially inflated evaluation of one object in placed into a relative relationship with another object polarisation occurs, which calls forth the wind of balanced forces. Balanced forces strive to eliminate polarisation and their action is usually aimed against the person responsible for creating the polarisation in the first place.
 
-## Alternatives Space
+### Alternatives Space
 
 The alternatives space represents an information structure. It is an infinite information field containing all the alternatives of all possible events. You could say that the alternatives space contains everything that ever was and everything that ever will be. The alternatives space serves as a template and coordinates grid for the movement of matter through space and time. Both the future and the past are held in a constant position as if on a film roll. The effect of time is only created as a result of the movement of a single frame in which the present is lit up.
 
@@ -7265,7 +7267,7 @@ The world simultaneously exists in two forms: physical reality that can be touch
 
 Dreams are not illusions in the normal sense of the word. The mind does not imagine its dreams it genuinely sees them. Everything we see in physical reality represents a realised alternative. In dreams we are capable of seeing things that have not been realised, that is plays with virtual scenarios and sets of scenery. Dreams show us what could have taken place in the past and what could potentially take place in the future. Dreaming is the journeying of the soul through the alternatives space.
 
-## Balanced Forces
+### Balanced Forces
 
 Wherever excess potential is present balanced forces appear aimed to eliminate it. Potential is created by human thought energy when excess meaning is ascribed to a particular object.
 
@@ -7273,17 +7275,17 @@ Compare these two situations: you are standing on the floor in your house or you
 
 The action of balanced forces in eliminating excess potential generates the majority of the problems people face. The intrigue is that a person often gets a result directly opposite to what they originally intended. At the same time there is no clear reason why this should be. This is what makes us feel that some inexplicable dark force is at play, similar to "sod's law".
 
-## Sector of the Alternatives Space
+### Sector of the Alternatives Space
 
 A specific alternative of any given event exists at every point of the alternatives space. For the sake of clarity we will assume that the alternative consists of scripts and scenery. Scenery represents the external view of form of a phenomenon whereas the script is the path along which matter moves. For convenience sake the alternatives space can be divided into sectors, every sector endowed with scripts and scenery. The greater the distance between sectors the greater the difference in scripts and scenery. Each person's fate is also represented by a multitude of alternatives. Theoretically, there are no limits to the number of possible turns of fate in a person's life because the alternatives space is infinite.
 
-## Slide
+### Slide
 
 Our perceptions of ourselves and our environment are often far from the truth. The distortion is caused by slides. For example, you are worried about certain personal shortcomings that cause you to experience a feeling of inferiority because you think that others dislike and disapprove of them too. When you are interacting with people you insert an inferiority complex slide into your "projector" which causes you to see things in a distorted light.
 
 The slide is a distorted picture of reality that exists in your mind. As a rule a negative slide is generated by unity of heart and mind which is why it is manifested into physical reality. Our worst expectations tend to come true. Negative slides can be transformed into positive slides and forced to work for you. If you intentionally create a positive slide it is capable of miraculously transforming the layer of your world. A target slide is a mental picture of the goal as if it had already been reached. The systematic visualisation of the slide leads to the materialisation of the corresponding sector in the alternatives space.
 
-## World Layer
+### World Layer
 
 Every living being materialises a given sector of the alternatives space with their thought energy and thereby creates the layer of their world. All these layers lie one on top of the other and in this way every living being contributes to the shaping of reality.
 
@@ -7291,7 +7293,7 @@ The individual creates the layer of their personal world, their separate reality
 
 Individual reality is created by two means: physical and metaphysical. In other words, a person builds their world with their thoughts and actions. Here thought forms play the leading role because they are responsible for creating a significant portion of the material problems a person has to battle with for a lot of the time. Transurfing deals exclusively with the metaphysical aspect.
 
-## Alternatives Flow
+### Alternatives Flow
 
 In the alternatives space information is static, like in a matrix. The information structure is organised in interconnected chains. The alternatives flow is generated by causal relationships.
 
@@ -7301,17 +7303,17 @@ The main reason one should not actively resist the flow is because doing so a hu
 
 A powerful intellect is of no purpose if the solution already exists in the alternatives space. If you do not get involved in the refinements and let the alternatives flow take its course the solution and what is more an optimal solution will present itself. Optimality is an inherent part of the structure of the information field. The alternatives space contains everything but it is most likely that the least energy-consuming alternative is the one that will ultimately be materialised. Nature never wastes energy.
 
-## Transurfing
+### Transurfing
 
 I did not invent the word Transurfing. It just came to me from out of nowhere just like all the other terms and content of this book. It was a while until I came to understand its meaning. It is not even entirely clear how to explain the associations linked with it. The meaning of Transurfing can be interpreted as "gliding through the alternatives space", or "transforming potential alternatives into reality" or "shifting across life lines". Generally speaking though, if you practice Transurfing you are balancing on a wave of fortune. The word is pronounced Transerfing in the same way as it is spelled. If the reader prefers to pronounce it in the English manner – be my guest, but bear in mind that the sound "yo" does not exist in the English language.
 
-## Frailing
+### Frailing
 
 Frailing is an effective technique that can be applied to interpersonal relationships and it represents an integral part of Transurfing. The most important principle of Frailing can be expressed in the following manner. Abandon the intention to get and replace it with the intention to give and you will receive the very thing you let go of.
 
 The action of this principle is based on the fact that your inner intention uses the inner intention of your partner without compromising their interests. As a result you receive from that person the very thing you were unsuccessful in achieving by the ordinary methods of inner intention. If you follow this principle you will achieve impressive results in personal and professional forms of communication.
 
-## Goals and Doors
+### Goals and Doors
 
 Everyone has their own true path in life that will bring them true happiness. Pendulums impose false goals on people that tempt them with the prospects of prestige and their seeming inaccessibility. By chasing after false goals you will either achieve nothing or you will achieve the goal only to discover that you did not really want it after all.
 
@@ -7319,4 +7321,4 @@ Your goal will transform your life into a celebration. The process of achieving 
 
 If you head towards your own goal through your own door no-one and nothing can stop you because the key of your soul fits the lock to your path. No-one can take from you what is truly yours. There should not be any problem therefore in achieving your innermost goal. The only potential problem lies in finding your goal and your door. Transuring will give you the tools to do this.
 
----
+***
