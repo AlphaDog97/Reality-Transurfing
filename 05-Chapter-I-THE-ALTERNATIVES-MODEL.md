@@ -26,58 +26,141 @@ I was woken by the rustle of the morning stars. What a sad dream. It was as if I
 我被晨星的窸窣声惊醒。多么悲伤的一个梦啊。那仿佛让我回到了过去的某个时期。谢天谢地，这只是个梦。我像我的猫一样舒了一口气，伸了个懒腰。它正懒洋洋地摊在那儿，只有耳朵动了动，表明它知道我的存在。起来啊，你这长胡须的家伙。要不要跟我一起去散步？我已经向今天预定了一场阳光灿烂的好天气，于是便向着大海出发了。
 
 The path led through the forest and the rustle of the morning stars gradually faded, giving way to the multi-voiced choir of the bird nation. Someone in the bushes was trying especially hard "Food! Food!" There he was the little wretch. However can such a little ball of fluff squawk so loudly? Only now did it occur to me that although every bird had a different voice, none were ever out of tune with the rest of the choir. They always managed to produce such a graceful symphony; no orchestra, however sophisticated could be favourably compared.
+小径蜿蜒穿过森林，晨星的沙沙声渐渐消退，取而代之的是鸟儿王国多声部的合唱。灌木丛里，有个家伙格外卖力地在叫着：“吃的！吃的！” 原来是那只小家伙。真难以想象，这么一小团毛茸茸的东西居然能发出那么大的噪音。直到这时我才意识到，虽然每只鸟的声音都不一样，但它们的歌声从来不会与合唱跑调。它们总能奏出那样优雅的交响曲——再复杂精妙的管弦乐队也无法与之相比。
 
 The sun stretched its rays between the trees, creating a magical backlighting that highlighted the voluminous depth and richness of the colours of the forest and transforming it into one miraculous hologram. The path led me diligently towards the sea. The emerald waves exchanged whisperings with the warm sea breeze. The shore seemed endless and empty but I felt comfortable and at peace as if the overpopulated world had created a secluded corner just for me. Some people believe the world is an illusion created by the mind but I could not imagine having such a high opinion of myself that I could think all this beauty was the product of my own consciousness.
+阳光从树间伸展出光线，制造出一种奇妙的逆光效果，把森林的色彩深度与丰盈感衬托得淋漓尽致，将其变成一个神奇的全息奇景。小径耐心地引领我走向大海。碧绿的波浪与温暖的海风低声私语。海岸仿佛无边无际、空无一人，而我却感到舒适与平和，仿佛这过度拥挤的世界特意为我留了这样一个幽静的角落。有人认为，世界是心灵创造的幻象，但我无法想象自己竟会有如此高的评价，认为这所有的美丽都源自我的意识。
 
 Still feeling the effect of my oppressive dream I began to reminisce about my former life, which had actually been as dull and gloomy as my dream. Like a lot of people, I had often demanded that the world give me all I felt it owed me but in response it had turned its back on me in indifference. I was advised by others wiser and more experienced than myself not to give up because the world doesn't give up that easily either. "You have to fight for what you want". So I tried battling with the world but I didn't get anywhere and ended up exhausted. My advisers had a ready answer for this too. "You are the problem. Change yourself before you start demanding things of life". So, I battled with myself but this turned out to be even harder than battling with the world.
+仍然带着压抑梦境的余味，我开始回想起自己的过往生活，那实际上同我的梦境一样沉闷而阴郁。和许多人一样，我常常要求世界给予我觉得它欠我的一切，但回应我的只是它冷漠地转过身去。那些比我聪明、阅历更丰富的人劝我不要放弃，因为世界也不会轻易放弃。“你必须为自己想要的东西而战。”于是我试着与世界对抗，可我哪里都去不了，只是弄得精疲力竭。我的劝告者对此也早有答案：“问题在你自己。在要求生活给你什么之前，先改变自己。”于是我开始与自己作战，可这比与世界作战更难。
 
 Then one day, I dreamed that I was in a nature reserve. In the dream I was surrounded by indescribable beauty. I was walking through the reserve and admiring the full wonder of it all when I came across an angry old man with a grey beard who, as far as I could make out, was the Guardian of the Reserve. He watched me in silence. I walked up to him but as soon as I opened my mouth to speak he cut across me. In a cold tone he said that he didn't want to hear a word; he was tired of noisy and capricious visitors who were constantly displeased, always making demands and left mountains of rubbish after themselves. I nodded in sympathy and walked on.
+直到有一天，我梦见自己身处一座自然保护区。梦中，我被难以形容的美景所包围。我走在保护区中，沉醉地欣赏着这一切奇观，这时遇见了一位留着灰色胡须的愤怒老者，我猜他是这片保护区的守护者。他默默地看着我。我走向他，但刚一开口，他就打断了我。冷冷地说，他不想听我说任何一句话；他厌倦了那些喧闹又任性的访客，他们总是抱怨不停、提各种要求，还总是留下成堆的垃圾。我同情地点点头，继续走了下去。
 
 I was amazed by the unique beauty of the reserve and wondered why I hadn't visited it before. Enchanted, I continued to wander around taking in the magnificence on all sides. No words could fully describe the perfection of the landscape. My mind went blank in stunned admiration.
+我为保护区独特的美景而惊叹，不明白自己为什么以前从未造访过这里。被深深吸引着，我继续四处漫步，尽情感受四周的壮丽。任何语言都无法完全描绘这种景色的完美，我的思绪在惊叹中一片空白。
 
 Soon the Guardian appeared before me again. The austere look on his face had softened and he beckoned for me to follow. We climbed to the top of a green hill and from there the spectacular view of a picturesque valley opened before us. I could make out some kind of village with toy houses decorated with plants and flowers like an illustration in a book of fairy-tales. Had the scene before me appeared more real I could have stood regarding it with delight for some time. As it was, I started to suspect that such fabulous beauty was the stuff of dreams and not real life. I turned to the Guardian with a questioning look but he just sneered into his beard as if to say: "We're only just getting started!"
+不久，守护者再次出现在我面前。他脸上的严肃神情有所缓和，并示意让我跟上。我们爬上一座翠绿的山丘，从那里俯瞰到一片如画的山谷。隐约可见山谷中有个小村庄，玩具般的房屋装饰着植物与花朵，就像童话书里的插图。如果眼前的景象再真实一些，我大概会久久站在那里欣赏。但就在此时，我开始怀疑，这般奇幻的美丽恐怕只存在于梦境而非现实。我转向守护者，带着疑问的眼神看他，可他只是抿着胡子冷笑，似乎在说：“我们才刚刚开始呢！”
 
 As we descended into the valley below it began to dawn on me that I could not remember how I had arrived at the reserve. I was hoping the old man could give me an explanation. Then I must have made some clumsy remark about how it must feel pretty damn good to be one of the lucky ones who could afford to live in such a beautiful place, to which, openly displaying his irritation, the Guardian replied: "Who is stopping you from joining them?"
+我们下到山谷时，我突然意识到，自己根本不记得是怎么来到这个保护区的。我希望老者能给我一个解释。于是我或许笨拙地说了句：能住在这样美丽的地方一定感觉棒极了吧，真是幸运的人。听到这话，守护者明显露出不耐烦的神色，说道：“那是谁阻止你加入他们了？”
 
 I started to go on about how not everyone was born rich and we don't choose our fate. The Guardian ignored my words and said: "That's the point. Everyone is free to choose any destiny they wish. The only freedom we truly have is the freedom of choice. You can choose anything you want."
+我开始辩解说，不是每个人都含着金汤匙出生，我们也不能选择自己的命运。守护者无视我的话，只说：“正是如此。每个人都可以自由选择自己想要的任何命运。我们唯一真正的自由，就是选择的自由。你可以选择你想要的一切。”
 
 His statement did not at all fit with my philosophy of life and I made to argue with him, but the Guardian would not listen: "Fool!" he said. "You have the right to choose, but you don't exercise it. You do not even understand what 'to choose' really means." This is ridiculous, I thought. What does he mean by, "I can choose whatever I want"? Anyone would think that you could just conjure up anything you wanted. At that moment I suddenly realised that I was dreaming. The situation threw me and I did not know how to behave.
+他的说法与我的人生观完全不符，我想与他争辩，可守护者根本不听：“傻瓜！”他说，“你有选择的权利，但你并没有去行使它。你甚至不懂什么叫‘选择’。”这太荒谬了，我心想。他说的“我可以选择我想要的一切”是什么意思？难道你以为随便一想就能变出你想要的东西？就在那一刻，我突然意识到自己在做梦。这种情况让我有些慌，不知该如何应对。
 
 As far as I can recollect I hinted to the old man that he could chose to speak rubbish whether in a dream or in waking but there ended the extent of his freedom. My comment did not seem to bother the Guardian at all; in fact he laughed in response. Aware of how ridiculous the situation was (what was the point of getting into a debate with a figure from my own dream?) I was considering whether it would be better to wake myself up. As if reading my mind the old man said: "That's enough. We don't have much time. I hadn't expected them to send me a moron like you, but I must carry on with my mission nonetheless."
+我依稀记得，我暗示老者，他可以选择胡言乱语——不管是在梦中还是醒着的时候——这就是他自由的全部范围。我的评论似乎一点都没有惹恼守护者，反而让他笑了起来。意识到这种情形有多么可笑（跟自己梦里的角色辩论还有什么意义？），我开始考虑是不是该把自己弄醒。似乎看穿了我的心思，老者说：“够了，我们没有多少时间。我没想到他们会派一个像你这样的笨蛋来，但我还是得继续执行我的使命。”
 
 I was going to ask him what his 'mission' was, and who 'they' were but he ignored me, instead giving me a riddle, which at the time seemed quite absurd: "Everyone can have the freedom to choose whatever they want; but here's a riddle for you: how do you acquire that freedom? When you guess the answer correctly your apples will fall to the sky."
+我正打算问他所谓的“使命”是什么，“他们”又是谁，可他没理我，而是给了我一个当时看来十分荒谬的谜语：“任何人都可以自由选择自己想要的一切；但这里有一个谜语：你如何才能获得这种自由？当你猜对答案时，你的苹果会落向天空。”
 
 What apples? I was beginning to loose patience and said that I had no intention of solving any riddles. Miracles only happened in dreams and fairy-tales. In reality, apples generally fall to the ground, to which he replied: "That's enough! Let's go. There is something I must show you."
+什么苹果？我开始失去耐心，说我根本没打算解什么谜。奇迹只会发生在梦境和童话里。在现实中，苹果一般是掉到地上的。对此他只说：“够了！走吧，我有东西要给你看。”
 
 Regrettably, when I woke up I could not remember the end of the dream. However, I did have the distinct feeling that although I was unable to express it consciously, the Guardian had imparted some kind of information to me. Just one word seeped through into my mind but I had no idea what it meant: Transurfing. The thought I found going round my mind was that I did not have to totally furnish my world myself; that everything that was to be mine had been created long ago without my participation but for my own well-being. There was absolutely no point in battling with the world for a place under the sun, and no-one was stopping me from simply choosing the life I wanted to have.
+遗憾的是，当我醒来时，已经记不起梦的结尾。然而我清楚地感到，尽管无法用意识表达，但守护者确实向我传递了某种信息。只有一个词渗入我的脑海，但我不知道它是什么意思：Transurfing（现实跃迁）。我脑中盘旋的想法是：我并不需要完全靠自己去建构我的世界；属于我的一切早已在很久以前被创造出来，不需要我参与，而且是为我的幸福而存在的。与世界争夺阳光下的位置毫无意义，没有人阻止我去直接选择我想要的生活。
 
 At first the idea seemed absurd. I would probably have forgotten all about it if I had not to my amazement soon afterwards started having very clear recollections of what the Guardian meant by the word 'choose', and how to actually make a choice. The answer to the Guardian's riddle came to me of its own accord; as knowledge does sometimes seem to come from nowhere. Every day I learned something new and each time I felt huge surprise, sometimes bordering on fear. I can give no rational explanation of how this knowledge came to me but of one thing I am certain. I could never have made it up myself.
+起初，这个想法显得很荒唐。如果不是让我惊讶的是，没多久之后，我居然开始非常清晰地回忆起守护者所说的“选择”是什么意思，以及如何真正做出选择，我大概早已将它忘记。守护者的谜底自然而然地浮现在我脑海中，就像知识有时会不知从何处涌现。每天我都学到新的东西，每一次都感到巨大惊讶，有时甚至接近恐惧。我无法给这种知识的来历一个理性的解释，但有一点我很确定：我绝不可能凭空编造出它。
 
 Ever since I discovered Transurfing (or rather, since I was given it to discover) my life has been filled with joyful meaning. Anyone who has ever been involved in some kind of creative work will know the happiness and fulfilment that comes with creating something with your own hands. Imagine then the feeling of creating your own destiny. Even the expression 'to create your own destiny' as it is interpreted in its usual sense, fails to describe what I mean here. Transurfing is a method that frees you to choose your own destiny, literally like you would choose something in a supermarket. I want to share this with you so that you can understand why 'apples fall to the sky', why the 'morning stars rustle', and many other curious things.
+自从我发现了现实跃迁（或者说，自从它让我去发现它）以来，我的生活便充满了喜悦与意义。凡是做过创造性工作的人，都会明白用双手创造出某件东西时的幸福与满足。那你想象一下，创造自己的命运该是怎样的感觉吧。即便是通常意义上“创造自己的命运”这句话，也不足以表达我在这里的意思。现实跃迁是一种方法，让你可以真正自由地选择自己的命运，就像在超市挑选商品一样。我想把这件事分享给你，让你明白为什么“苹果会落向天空”，为什么“晨星会沙沙作响”，以及许多其他奇妙的事情。
 
 ## The Guardian's Riddle
 
 There are different interpretations of the nature of fate. One interpretation is that fate is your lot in life, something predetermined and which however hard you try, you can never escape. This definition is rather limiting as it suggests that if a rough lot has befallen you in life there is no hope of anything ever getting any better. Despite this, there will always be those who willingly accept this definition of fate because it is convenient. They would rather life be reliable and the future more or less predictable than live with the fear of uncertainty.
+对命运的本质有着不同的解读。
+一种解释认为，命运是你生命中的定数，是早已被预先决定好的，无论你多么努力，都无法逃脱。
+这种定义颇为局限，因为它意味着，如果你在人生中遭遇了不幸的际遇，那么无论如何都不可能变得更好。
+尽管如此，仍然会有人愿意接受这种命运观，因为它很方便。
+他们宁愿生活稳定可预测，也不愿面对未知的不确定性。
 
 Nonetheless, the total inevitability implied by this interpretation of fate leaves one feeling dissatisfied and even a little resentful. People who are deprived of good luck lament their fate and naturally question why life is so unfair. Why is it that some people have more than they could ever desire, while others never seem to have enough? Why is it that things come easily to some, while others never achieve results however hard they try? Some people are endowed with natural beauty, intellect and strength, while others seem to have an inferior goods label stuck to their forehead for their entire life as if paying for some kind of previously committed sin. Why does such inequality exist? Why does life in its endless diversity place limits on certain groups of people and where exactly did those less lucky go wrong?
+然而，这种完全不可避免的命运观，往往让人感到不满足，甚至有些怨恨。
+那些缺乏好运的人会抱怨自己的命运，并自然地质疑，为什么生活如此不公平。
+为什么有些人拥有超过他们所能渴望的一切，而另一些人却始终无法得到满足？
+为什么有些人轻而易举就能成功，而另一些人无论多么努力也毫无收获？
+有些人生来就拥有美貌、智慧与力量，而另一些人似乎一辈子额头上都贴着“次品”的标签，仿佛在偿还某种前世的罪孽。
+这种不平等为何存在？
+生活在无限多样性中，为什么要对某些人设置限制？而那些不幸的人到底错在哪里？
 
 People often feel hurt and indignant when they realize they are less fortunate than others and they search for an explanation for their circumstances. This is when many people turn to teachings that support ideas such as karma and retribution for sins committed in previous lives. One would think that all the Lord our God had to do with his time was discipline his naughty children and that despite his omnipotence he evidently struggles with the parenting side of things, putting off the punishment of retribution until a later date. One wonders what the point could be of punishing a person for something they do not actually remember doing.
+人们在意识到自己不如别人幸运时，常常会感到受伤与愤懑，并去寻找一种解释自己的处境的理由。
+于是，许多人转向那些支持“业力”以及“前世罪孽惩罚”的教义。
+仿佛上帝除了管教不听话的孩子之外，就没有其他事情可做；而且，尽管他全能无所不能，却在“做父亲”这件事上显得力不从心，不得不把惩罚推迟到未来的某一天。
+然而，惩罚一个人做过的事，却让当事人自己完全不记得，这又有何意义？
 
 Another popular explanation for inequality spreads the false hope that those who suffer and live their lives in need will later receive generous compensation, although it is not clear whether good fortune awaits them in heaven or in a future life. Whatever the arrangement, explanations like these can never leave one fully satisfied. Whether past and future lives exist or not is also of little significance. You can only be aware of the life you are living now and so in this sense, it is the only one you have.
+另一种流行的解释则是给人一种虚幻的希望——那些此生受苦、缺乏所需的人，将来会得到慷慨的补偿，
+只是并不清楚这份好运会在天堂等待他们，还是在未来的某一世出现。
+无论如何，这样的解释都无法令人完全满意。
+至于过去和未来的生命是否存在，也并不重要。
+因为你只能意识到自己正在过的这一生，所以从这个意义上来说，这就是你唯一的生命。
 
 If you believe that your fate is predetermined then the best remedy for the despondence you may feel is acceptance. There will always be people around to give you good advice like, "If you want to be happy just be happy! Be optimistic; be satisfied with what you have." There will always be someone to tell you that the cause of your unhappiness is your own constant complaining and unrealistic expectations of life and that you could be happy by definition if you would simply reconnect with your inner joie de vivre. You might half-heartedly agree whilst at the same time awkwardly acknowledging how uninspired you really feel about greeting your dull life with new-found joy. Surely we have the right to expect more. Why should we have to force ourselves to be happy when it is as futile as trying to force yourself to love someone?
+如果你相信命运是预先决定好的，那么缓解你可能产生的沮丧情绪的最好办法就是接受它。
+总会有人给你这样的“好建议”：
+“如果你想要快乐，那就快乐吧！要乐观；要满足于你已经拥有的一切。”
+也总有人会告诉你，你的不快乐是因为你总是抱怨、对生活有着不切实际的期望；
+如果你愿意重新连接内心的那份生活热情，你就能“按定义”地感到幸福。
+你或许会半心半意地点头同意，但同时尴尬地承认，面对自己单调乏味的生活，你其实提不起迎接它的兴致。
+我们难道没有权利期待更多吗？
+为什么我们要强迫自己快乐，就像强迫自己去爱一个人一样徒劳？
 
 Then there are the "enlightened" individuals preaching universal love and forgiveness. Their world is like a blanket of illusion that you can pull up over your head to protect yourself from encountering the severity of life head on, and everything does get a little easier as a result. Deep down however, it is still difficult to comprehend why you should forgive those you hate and love those you have no genuine feeling for. What good is happiness if it is faked? Surely happiness should come naturally rather than being squeezed from the soul like the last drop of toothpaste from a tube.
+还有那些宣扬“普世之爱”与“无条件宽恕”的“开悟者”。
+他们的世界就像一条幻象的毯子，可以把它拉过头顶，隔绝现实生活的残酷，结果生活的确因此变得轻松了一些。
+然而，在内心深处，你仍然很难真正理解，为什么你应该去原谅那些你恨的人，并去爱那些你并无真情的人。
+如果快乐是伪造的，那又有何意义？
+真正的快乐应当是自然而然流淌出来的，而不是像挤牙膏最后一滴那样从灵魂中硬挤出来。
 
 There are others who refuse to believe that life is boring and primitive enough to be reduced to predetermined fate. This type of person would rather be satisfied with what they have managed to achieve by their own abilities than accept the lot they have been dealt. This is a different perception of fate whereby you make your own luck and good luck has to be fought for. That is just how it is. Wise people will tell you that life is not given to anyone on a plate and that if you are not satisfied with what you have, you must dig your heels in and work hard to attain the happiness you want.
+还有一些人拒绝相信生活会无聊且简单到仅仅被还原为一种预先决定的命运。
+这种人宁愿为自己凭能力取得的成就而感到满足，也不愿接受上天给他们的“分配”。
+这是一种不同的命运观：你创造自己的好运，而好运需要去争取。
+事实就是如此。
+智者会告诉你，生活不会白白送给任何人，如果你对已有的不满足，就必须咬紧牙关努力工作，才能获得你想要的幸福。
 
 The history books describe brave heroes who fought and laboured day and night, overcoming unimaginable obstacles. The victors were rewarded with the laurels of success but only after suffering all the burdens and privations of battle. This take on fate is not very logical either. Millions of people battle and labour but true success comes to but a few. You can spend your entire life struggling desperately for a place under the sun and yet get nowhere. Why would life be so cruel and unyielding?
+历史书中记载着那些英勇无畏的英雄，他们日夜奋斗，克服了难以想象的障碍。
+胜利者最终收获了成功的桂冠，但那是在承受了战斗中的一切重负与艰辛之后。
+然而，这种命运观也并不合逻辑。
+数以百万计的人在奋力拼搏，但真正成功的却寥寥无几。
+你可以穷尽一生拼命争取在阳光下占据一席之地，却依然一无所获。
+生活为何如此冷酷无情？
 
 What a heavy burden it is to have to battle with the world to get what you want and if the world does not respond, to have to battle with yourself. How hard it is to believe that if you are poor, ill, ugly or unlucky it is your own fault; that you are flawed and so must change. These ideas suggest that you are an accumulation of various shortcomings and defects which must be worked on. Unless you are lucky enough to be born rich and happy, your lot in life is either to humbly bear your own cross or dedicate your entire life to fighting against it. It is somehow not a view of life that readily fills the heart with joy. Surely, there is a glimmer of hope among these dismal beliefs.
+要与世界抗争以获得你想要的东西是一种沉重的负担；
+而如果世界不回应你，你还得与自己作战。
+很难相信，如果你贫穷、疾病缠身、相貌平庸或运气不佳，那全是你自己的错；
+你是有缺陷的，因此必须改变。
+这些观念暗示，你是由一系列缺点和不足构成的集合体，必须被修正。
+除非你足够幸运，生来富足又快乐，否则你的一生要么是谦卑地背负自己的十字架，要么就是倾尽一生与之抗争。
+显然，这样的生活观并不足以让人心生喜悦。
+然而，在这些阴郁的信念中，的确存在一丝希望的曙光。
 
 Fortunately, there is a glimmer of hope that comes from a totally different view of things. The solution is as simple as it is enjoyable in contrast to the other views described above. In Transurfing the concept of fate is based on an alternative model of the universe. Before you wave your hand in disappointment and decide that you are being fed yet another chimera, remember, that every known concept of fate originates from a specific worldview, which in turn, is based on a number of unproven principles.
+幸运的是，这一丝曙光来自一种完全不同的观点。
+相比上面所描述的各种观点，这个解决方案既简单又令人愉快。
+在“现实转化术”（Transurfing）中，命运的概念基于另一种宇宙模型。
+在你挥手失望、认为这不过是又一个幻想之前，请记住，每一种已知的命运观，都源自特定的世界观，而这种世界观本身，又是建立在一些未经证实的假设之上的。
 
 For example, materialism is founded on the proposition that matter is primary and consciousness is secondary. Idealism claims the opposite. Neither of these philosophies has been proven, and yet models of the universe are constructed around both. Each model is convincing enough and has its loyal defenders. Both materialism and idealism explain the phenomenon of the world via philosophy, science and religion, and both are right and both are wrong in their own ways. Man will never be able to describe absolute truth with total accuracy because the notions used in our attempts to describe the truth are of themselves relative. There is a well known parable about three blind men who describe an elephant by studying it with their hands. The first blind man touches the elephant's trunk; the second touches the leg, and the third touches ear. Each draws conclusions about what kind of animal the elephant represents based on their own findings. It would be pointless to try and prove that only one description of the three is correct. What is important is that the description be relevant and applicable.
+例如，唯物主义建立在“物质第一性、意识第二性”的命题之上；
+而唯心主义则持相反观点。
+这两种哲学都没有被证明，却各自构建了自己的宇宙模型。
+它们都足够有说服力，并且都有忠实的拥护者。
+唯物主义和唯心主义都通过哲学、科学和宗教来解释世界现象，并且在某种程度上两者都对，两者也都错。
+人类永远无法用绝对精准的方式描述“绝对真理”，因为我们用来描述真理的那些概念本身就是相对的。
+有一个著名的寓言：三位盲人通过触摸来描述一头大象。
+第一位摸到了象鼻；第二位摸到了象腿；第三位摸到了象耳。
+于是，他们各自根据自己的发现，得出了关于“大象是什么样的动物”的结论。
+试图去证明三人之中只有一个是正确的，是毫无意义的。
+重要的并不是谁说的对，而是这种描述是否具有相关性和适用性。
 
 You have no doubt heard the idea expressed that reality is an illusion created by the mind, but no one has explained in detail where the illusion comes from.
 
